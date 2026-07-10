@@ -1,0 +1,710 @@
+[
+  {
+    "text": "Câu 1: Trong Microsoft Excel 2010, giả sử dòng đầu tiên trong bảng tính chứa tiêu đề, muốn cố định dòng tiêu đề, này để đảm bảo rằng các tiêu đề cột vẫn được hiện thị khi ta di chuyển lên xuống trong bảng tính ta dùng chức năng nào sau đây?",
+    "options": [
+      "A. Vào menu View tại nhóm Window ta chọn Split Window",
+      "B. Vào menu View tại nhóm Sheet ta chọn Split",
+      "C. Vào menu View Tại nhóm Sheet ta chọn Freeze Panes",
+      "D. Vào menu View tại nhóm Window ta chọn Freeze Panes"
+    ],
+    "correctAnswers": [
+      "C. Vào menu View Tại nhóm Sheet ta chọn Freeze Panes"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Bạn chọn hộp danh sách thả xuống nào khi muốn (find) thông tin trong toàn bộ workbook?",
+    "options": [
+      "A. Look in",
+      "B. With in",
+      "C. Search",
+      "D. Find What"
+    ],
+    "correctAnswers": [
+      "B. With in"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Bạn sử dụng hàm đếm nào để xem tất cả ô trong mỗi dãy đã chọn có văn bản hay không trong Excel?",
+    "options": [
+      "A. COUNTA()",
+      "B. COUNTALL()",
+      "C. COUNTS()",
+      "D. COUNTBLANK()"
+    ],
+    "correctAnswers": [
+      "A. COUNTA()"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Bạn có thể thêm những gì vào Quick Access Toolbar trong Excel, chọn tất cả các đáp án đúng?",
+    "options": [
+      "A. View",
+      "B. Comments",
+      "C. Tools",
+      "D. Style"
+    ],
+    "correctAnswers": [
+      "B. Comments",
+      "C. Tools",
+      "D. Style"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Trong Excel giả sử ô A5 chứa nội dung 1500USD. Kết quả của công thức =IF(Left(A5,4) = 1500, 1.0, 2.0) là?",
+    "options": [
+      "A. 2.0",
+      "B. 1.0",
+      "C. 1500",
+      "D. không xác định"
+    ],
+    "correctAnswers": [
+      "A. 2.0"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Làm cách nào để bạn ẩn công thức trong thanh công thức (Formulas bar) trong Excel?",
+    "options": [
+      "A. Bằng cách sử dụng menu view",
+      "B. Bằng cách bảo vệ worksheet",
+      "C. Bằng cách nhập chuột vào thanh công thức, sau đó nhấn vào Ẩn Hide",
+      "D. Bằng cách sử dụng menu home"
+    ],
+    "correctAnswers": [
+      "B. Bằng cách bảo vệ worksheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Trên giao diện của Microsoft Excel, phím nào sau đây kết hợp với chữ cái đại diện của thẻ làm việc sẽ gọi được thẻ mà người dùng muốn?",
+    "options": [
+      "A. Alt",
+      "B. Shift",
+      "C. Ctrl",
+      "D. Fn"
+    ],
+    "correctAnswers": [
+      "A. Alt"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Làm thế nào để bạn có thể xem danh sách các biểu đồ có thể tạo trong Excel?",
+    "options": [
+      "A. Nhấp vào biểu tượng All Charts góc trên bên phải biểu đồ",
+      "B. Nhập vào biểu tượng Change chart type trong menu chart design",
+      "C. Chọn tab all chart trong menu Insert Chart",
+      "D. Bấm vào 1 ô kiểu mới trong menu Chart Design"
+    ],
+    "correctAnswers": [
+      "B. Nhập vào biểu tượng Change chart type trong menu chart design"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Bạn có thể lưu tệp Excel vào những định dạng nào? (Chọn tất cả các đáp án đúng)?",
+    "options": [
+      "A. PDF",
+      "B. Word",
+      "C. Excel",
+      "D. XML"
+    ],
+    "correctAnswers": [
+      "A. PDF",
+      "C. Excel",
+      "D. XML"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Trong Microsoft Excel 2010, khi thực hiện lệnh Advanced Filter, phát biểu nào sau đây đúng nhất với vùng tiêu chuẩn?",
+    "options": [
+      "A. Luôn có một dòng trống giữa dòng đầu tiên đặt điều kiện với dòng tiêu đề của vùng tiêu chuẩn.",
+      "B. Luôn phải đặt điều kiện từ dòng đầu tiên tiếp theo sau dòng tiêu đề của vùng điều kiện.",
+      "C. Vùng tiêu chuẩn không cần thiết phải có tiêu đề.",
+      "D. Tiêu đề cột của vùng tiêu chuẩn bắt buộc phải nằm trong tiêu đề cột của cơ sở dữ liệu nguồn."
+    ],
+    "correctAnswers": [
+      "B. Luôn phải đặt điều kiện từ dòng đầu tiên tiếp theo sau dòng tiêu đề của vùng điều kiện."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Trong Microsoft Excel 2010, khi thực hiện lệnh Advanced Filter, để đặt điều kiện dạng: “cột 1=X And cột 2=Y And cột 3 = Z“ vào vùng tiêu chuẩn (với cột 1, cột 2,cột 3 là tên các cột trong CSDL), phát biểu nào sau đây đúng nhất?",
+    "options": [
+      "A. Trên cùng một dòng đặt X vào cột 1, Y vào cột 2 và Z vào cột 3",
+      "B. Trên dòng thứ nhất đặt X vào cột 1 và Y vào cột 2, trên dòng tiếp theo đặt Z vào cột 3",
+      "C. Trên cùng một dòng, đặt “X AND Y” vào cột 1và Z vào cột 2",
+      "D. Trên dòng thứ nhất đặt X vào cột 1 và Y vào cột 2, và đặt Z trên dòng tiếp theo"
+    ],
+    "correctAnswers": [
+      "A. Trên cùng một dòng đặt X vào cột 1, Y vào cột 2 và Z vào cột 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Trong Microsoft Excel 2010, khi thực hiện lệnh Advanced Filter, để đặt điều kiện dạng: “(cột 1=X And cột 2=Y) Or (cột 1=X And cột 3=Z)” vào vùng tiêu chuẩn (với cột 1, cột 2,cột 3 là tên các cột trong CSDL), phát biểu nào sau đây đúng nhất?",
+    "options": [
+      "A. Trên cùng một dòng đặt X vào cột 1, Y vào cột 2 và Z vào cột 3",
+      "B. Trên dòng thứ nhất đặt X vào cột 1 và Y vào cột 2, trên dòng tiếp theo đặt X vào cột 1 và Z vào cột 3",
+      "C. Trên dòng thứ nhất đặt X vào cột 1 và Y vào cột 2 và đặt Z trên dòng tiếp theo",
+      "D. Trên dòng thứ nhất đặt X vào cột 1, trên dòng tiếp theo đặt Y vào cột 2, trên dòng tiếp theo đặt Z vào cột 3"
+    ],
+    "correctAnswers": [
+      "B. Trên dòng thứ nhất đặt X vào cột 1 và Y vào cột 2, trên dòng tiếp theo đặt X vào cột 1 và Z vào cột 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Trong Microsoft Excel 2010, phát biểu nào sau đây đúng nhất?",
+    "options": [
+      "A. Cho phép thiết lập chế độ tin cậy cho một Folder để xem như tất cả các tài liệu trong folder này như một nguồn tài liệu an toàn mà không cần cảnh báo khi được mở.",
+      "B. Tắt chế độ cho phép sử dụng Macro trong hộp thoại Trusted Center để cho phép mở một Workbook từ một nguồn nào mà không cần cảnh báo rủi ro về an toàn.",
+      "C. Khi chế độ Protected View đã được thiết lập (Enabled), ta có thể đặt mật khẩu cho một Workbook để bảo vệ bảng tính không cho người dùng thay đổi nội dung.",
+      "D. Khi chế độ Protected View đã được thiết lập (Enabled) và Worksheet đã được đặt mật khẩu bảo vệ, người dùng không thể thay đổi nội dung của worksheet."
+    ],
+    "correctAnswers": [
+      "A. Cho phép thiết lập chế độ tin cậy cho một Folder để xem như tất cả các tài liệu trong folder này như một nguồn tài liệu an toàn mà không cần cảnh báo khi được mở."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Trong Microsoft Excel 2010, để bảo vệ bảng tính, không cho phép người dùng thêm/xóa/ẩn các sheet và thay đổi vị trí cũng như kích thước cửa sổ của bảng tính trong khi vẫn cho phép mở file bảng tính. Lựa chọn nào sau đây là đúng nhất?",
+    "options": [
+      "A. Thực hiện lệnh : File > Info > Protect Workbook > Encrypt with password",
+      "B. Thực hiện lệnh: Review > Changes > Protect Worksheet",
+      "C. Thực hiện lệnh: Review > Changes > Protect Workbook",
+      "D. Không cho phép bảo vệ bảng tính theo yêu cầu đã cho"
+    ],
+    "correctAnswers": [
+      "A. Thực hiện lệnh : File > Info > Protect Workbook > Encrypt with password"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Trong một trang bảng tính Excel 2010, để ngăn chặn người dùng thay đổi nội dung trong một số ô của bảng tính và cho phép thay đổi nội dung của các ô còn lại. Thực hiện nào sau đây là đúng nhất?",
+    "options": [
+      "A. Chọn khối ô cần bảo vệ, thực hiện lệnh Review > Protect worksheet",
+      "B. Chọn khối ô cần bảo vệ, thực hiện lệnh: Home > Font > Trong thẻ Protection chọn Locked",
+      "C. Chọn khối ô cần bảo vệ, thực hiện lệnh: Home >  Font > Trong thẻ Protection chọn Locked, sau đó thực hiện lệnh Review > Protect worksheet",
+      "D. Không thể bảo vệ chỉ một phần của trang bảng tính như yêu cầu"
+    ],
+    "correctAnswers": [
+      "C. Chọn khối ô cần bảo vệ, thực hiện lệnh: Home >  Font > Trong thẻ Protection chọn Locked, sau đó thực hiện lệnh Review > Protect worksheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Trong một trang bảng tính Excel, để ẩn công thức trong một khối ô trong khi vẫn cho hiển thị kết quả của công thức. Thực hiện nào sau đây là đúng nhất?",
+    "options": [
+      "A. Chọn khối ô cần bảo vệ, thực hiện lệnh: Home > Font  >   Trong thẻ Protection chọn Hide, sau đó thực hiện lệnh Review  >   Protect worksheet",
+      "B. Chọn khối ô cần ẩn công thức trong ô, thực hiện lệnh Review  >   Protect workbook",
+      "C. Chọn khối ô cần ẩn công thức trong ô, thực hiện lệnh: Home  >   Font  >   Trong thẻ Protection chọn Hide",
+      "D. Chọn khối ô cần bảo vệ, thực hiện lệnh: Review  >   Protect worksheet"
+    ],
+    "correctAnswers": [
+      "A. Chọn khối ô cần bảo vệ, thực hiện lệnh: Home > Font  >   Trong thẻ Protection chọn Hide, sau đó thực hiện lệnh Review  >   Protect worksheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Trong Microsoft Excel 2010, để tạo một ghi chú (comment) của một ô ta chọn ô đó thực hiện?",
+    "options": [
+      "A. Home \\ New comment",
+      "B. Insert \\ New comment",
+      "C. View/New comment",
+      "D. Review \\ New comment"
+    ],
+    "correctAnswers": [
+      "D. Review \\ New comment"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Trong Microsoft Excel 2010,để Xóa ghi chú (comment) của một ô ta chọn ô đó thực hiện?",
+    "options": [
+      "A. Home \\  Delete comment",
+      "B. Insert \\ Delete comment",
+      "C. View \\ Delete comment",
+      "D. Review \\ Delete comment"
+    ],
+    "correctAnswers": [
+      "D. Review \\ Delete comment"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Trong Microsoft Excel 2010, để bật chức năng Track Changes ta thực hiện các bước?",
+    "options": [
+      "A. Home \\  Track Changes \\ Highlight Changes và check vào Highlight Changes  while editing",
+      "B. Insert \\ Track Changes \\ Highlight Changes và check vào Highlight Changes  while editing",
+      "C. View \\ Track Changes \\ Highlight Changes và check vào Highlight Changes  while editing",
+      "D. Review \\ Track Changes \\ Highlight Changes và check vào Highlight Changes  while editing"
+    ],
+    "correctAnswers": [
+      "D. Review \\ Track Changes \\ Highlight Changes và check vào Highlight Changes  while editing"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Trong Microsoft Excel 2010, để chấp nhận các thay đổi trang tính khi đã bật chức năng Track Changes ta thực hiện các bước?",
+    "options": [
+      "A. Review \\ Track Changes \\ Accept reject changes \\ Accept all",
+      "B. Insert \\ View comment\\ Accept reject changes \\ Accept all",
+      "C. View \\ View comment\\ Accept reject changes \\ Accept all",
+      "D. Review \\ View Changes\\ Accept reject changes \\ Accept all"
+    ],
+    "correctAnswers": [
+      "A. Review \\ Track Changes \\ Accept reject changes \\ Accept all"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Trong Microsoft Excel 2010, nếu không chấp nhận các thay đổi trang tính khi đã bật chức năng Track Changes ta thực hiện các bước?",
+    "options": [
+      "A. Review \\ Track Changes \\ Accept reject changes \\ Reject all",
+      "B. Insert \\ View comment\\ Accept reject changes \\ Reject all",
+      "C. View \\ View comment\\ Accept reject changes \\ Reject all",
+      "D. Review \\ View Changes\\ Accept reject changes \\ Reject all"
+    ],
+    "correctAnswers": [
+      "A. Review \\ Track Changes \\ Accept reject changes \\ Reject all"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Trong Microsoft Excel 2010, để tắt chức năng Track Changes ta thực hiện các bước?",
+    "options": [
+      "A. Home \\  Track Changes \\ Highlight Changes và bỏ chọn Highlight Changes  while editing",
+      "B. Insert \\ Track Changes \\ Highlight Changes và bỏ chọn Highlight Changes  while editing",
+      "C. View \\ Track Changes \\ Highlight Changes và bỏ chọn Highlight Changes  while editing",
+      "D. Review \\ Track Changes \\ Highlight Changes và bỏ chọn Highlight Changes  while editing"
+    ],
+    "correctAnswers": [
+      "D. Review \\ Track Changes \\ Highlight Changes và bỏ chọn Highlight Changes  while editing"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Trong Microsoft Excel 2010, phát biểu nào sau đây là đúng khi nói về thanh Ribbon?",
+    "options": [
+      "A. Người dùng chỉ có thể bổ sung những tab có trong danh sách được Microsoft Excel cho phép",
+      "B. Ngoài các tab được cung cấp sẵn bởi Microsoft Excel (Home, Insert, …), ta không thể thêm tab mới nào khác.",
+      "C. Người dùng không thể thêm một Tab mới khi không còn chỗ để hiển thị trên thanh Ribbon.",
+      "D. Ngoài các tab được Excel cung cấp sẵn (Home, Insert, …), tùy theo nhu cầu mà người dùng có thể thêm vào một số Tab mới."
+    ],
+    "correctAnswers": [
+      "D. Ngoài các tab được Excel cung cấp sẵn (Home, Insert, …), tùy theo nhu cầu mà người dùng có thể thêm vào một số Tab mới."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Trong Microsoft Excel 2010, để xem các thay đổi trang tính khi đã bật chức năng Track Changes ta thực hiện các bước?",
+    "options": [
+      "A. Review \\ Track Changes \\ Accept reject changes",
+      "B. Insert \\ View comment",
+      "C. View \\ View comment",
+      "D. Review \\ View Changes"
+    ],
+    "correctAnswers": [
+      "A. Review \\ Track Changes \\ Accept reject changes"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Khi sử dụng MS Excel 2010, lựa chọn nào sau đây đúng nhất khi muốn bật/ẩn thanh Ribbon?",
+    "options": [
+      "A. Bấm tổ hợp phím Ctrl+Shift+S",
+      "B. Nhấp đúp vào một thẻ (tab) bất kỳ hoặc nhấn chuột phải trên thẻ bất kỳ rồi chọn Minimize the Ribbon",
+      "C. Nhấp đúp vào một thẻ (tab) bất kỳ",
+      "D. Nhấp đúp vào một thẻ (tab) bất kỳ hoặc bấm Ctrl+Shift+S"
+    ],
+    "correctAnswers": [
+      "B. Nhấp đúp vào một thẻ (tab) bất kỳ hoặc nhấn chuột phải trên thẻ bất kỳ rồi chọn Minimize the Ribbon"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Để chuyển biểu đồ thu nhỏ tại ô G2 từ biểu đồ đường sang biểu đồ cột mà không thực hiện thao tác vẽ lại, bạn chọn?",
+    "options": [
+      "A. Chọn G2 \\ Tab Design \\ Nhóm Type \\ chọn Column",
+      "B. Chọn G2 \\ Tab Layout \\ Nhóm Type \\ chọn Column",
+      "C. Chọn G2 \\ Tab Design \\ Nhóm Group \\ chọn Column",
+      "D. Chọn G2 \\ Tab Design \\ Nhóm Show \\ chọn Column"
+    ],
+    "correctAnswers": [
+      "A. Chọn G2 \\ Tab Design \\ Nhóm Type \\ chọn Column"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Để lọc một tiêu chí trong một cột bất kỳ của danh sách đã cho và trả kết quả trả về đặt tại chỗ?",
+    "options": [
+      "A. Chọn cột cần lọc \\ Data \\ trong nhóm Sort & Filter \\ Chọn Clear",
+      "B. Chọn cột cần lọc \\ Data \\ trong nhóm Sort & Filter \\ Chọn Filter",
+      "C. Chọn cột cần lọc \\ Data \\ trong nhóm Connections \\Chọn Filter",
+      "D. Chọn cột cần lọc \\ Data \\ trong nhóm Sort & Filter \\ Chọn Sort"
+    ],
+    "correctAnswers": [
+      "B. Chọn cột cần lọc \\ Data \\ trong nhóm Sort & Filter \\ Chọn Filter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Trong Microsoft Excel 2010, để ngăn chặn người dùng mở file bảng tính nếu không biết mật khẩu?",
+    "options": [
+      "A. Đặt mật khẩu bảo vệ cho cell trong bảng tính",
+      "B. Đặt mật khẩu bảo vệ file bảng tính",
+      "C. Đặt mật khẩu bảo vệ cho worksheet",
+      "D. Ẩn nội dung của bảng tính"
+    ],
+    "correctAnswers": [
+      "B. Đặt mật khẩu bảo vệ file bảng tính"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Microsoft Excel 2010, đểxem cùng một lúc 2 WorkSheet khác nhau của 1 WorkBook thì?",
+    "options": [
+      "A. Vào menu View tại nhóm Window ta chọn Arrange All",
+      "B. Vào menu View tại nhóm Window ta chọn Custom Views",
+      "C. Vào menu View tại nhóm Window ta chọn New Window sau đó chọn Arrange All để hiển thị 2 cửa sổ WorkSheet",
+      "D. Vào menu View tại nhóm Zoom ta chọn One Page"
+    ],
+    "correctAnswers": [
+      "C. Vào menu View tại nhóm Window ta chọn New Window sau đó chọn Arrange All để hiển thị 2 cửa sổ WorkSheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Trong một trang bảng tính Excel, để ẩn công thức trong một ô hay khối ô, trả lời nào sau đây đúng nhất?",
+    "options": [
+      "A. Chọn ô (khối ô) cần ẩn công thức, đặt chế độ bảo vệ worksheet (Protect sheet)",
+      "B. Chọn ô (khối ô) cần ẩn công thức, mở hộp thoại Format cells/ Trong thẻ Protection đánh dấu chọn mục [x] Hide. Sau đó đặt bảo vệ worksheet (Protect sheet)",
+      "C. Chọn ô (khối ô) cần ẩn công thức, mở hộp thoại Format cells/ Trong thẻ Protection đánh dấu chọn mục [x] Hide",
+      "D. Không thể ẩn công thức hiện có ô (khối ô)"
+    ],
+    "correctAnswers": [
+      "B. Chọn ô (khối ô) cần ẩn công thức, mở hộp thoại Format cells/ Trong thẻ Protection đánh dấu chọn mục [x] Hide. Sau đó đặt bảo vệ worksheet (Protect sheet)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Để hiển thị tất cả các dòng và cột của trang tính đã bị ẩn trong Microsoft Excel 2010 thì làm như thế nào?",
+    "options": [
+      "A. Chọn tất cả dòng và cột của trang tính, vào menu Home tại nhóm Cell chọn Format \\ Hide & Unhide, sao đó chọn Unhide Rows hoặc Unhide Columns",
+      "B. Chọn tất cả dòng và cột của trang tính, vào menu Insert tại nhóm Cell chọn Format \\ Hide & Unhide, sao đó chọn Unhide Rows hoặc Unhide Columns",
+      "C. Chọn tất cả dòng và cột của trang tính, vào menu Home tại nhóm Styles chọn Format \\ Hide & Unhide, sao đó chọn Unhide Rows hoặc Unhide Columns",
+      "D. Chọn tất cả dòng và cột của trang tính, vào menu Insert tại nhóm Styles chọn Format \\ Hide & Unhide, sao đó chọn Unhide Rows hoặc Unhide Columns"
+    ],
+    "correctAnswers": [
+      "A. Chọn tất cả dòng và cột của trang tính, vào menu Home tại nhóm Cell chọn Format \\ Hide & Unhide, sao đó chọn Unhide Rows hoặc Unhide Columns"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Với Comment trong MS-Excel thì",
+    "options": [
+      "A. Không thể cùng lúc cho hiện / ẩn tất cả",
+      "B. Không thể sao chép riêng comment từ ô này sang ô khác",
+      "C. Không thể đổi dạng khung chứa nội dung comment",
+      "D. Không thể chèn hình ảnh nhưng có thể sử dụng hình ảnh làm thuộc tính fill cho khung chứa nội dung comment"
+    ],
+    "correctAnswers": [
+      "D. Không thể chèn hình ảnh nhưng có thể sử dụng hình ảnh làm thuộc tính fill cho khung chứa nội dung comment"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Để tạo một mẫu cho vùng dữ liệu A1:G9, cụ thể: tô vùng màu đỏ, kẻ đường viền ngoài 2 nét, chữ màu vàng, ta dùng?",
+    "options": [
+      "A. Format as Cells",
+      "B. Format as Table",
+      "C. Conditional Formatting",
+      "D. Styles"
+    ],
+    "correctAnswers": [
+      "B. Format as Table"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Trong Microsoft Excel 2010, tại hộp thoại Paste Special, mục Comments dùng để:",
+    "options": [
+      "A. Chỉ sao chép định dạng",
+      "B. Chỉ sao chép ghi chú",
+      "C. Chỉ sao chép giá trị của ô",
+      "D. Sao chép mọi thiết lập hiện có trong ô"
+    ],
+    "correctAnswers": [
+      "B. Chỉ sao chép ghi chú"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Để tương tác trực quan (không cần sử dụng công thức) với bảng dữ liệu hiện có tạo ra bảng tổng hợp nhanh từ bảng dữ liệu này, ta chọn (tất cả)?",
+    "options": [
+      "A. Subtotal",
+      "B. Lệnh PivotTable",
+      "C. Advanced Filter.",
+      "D. Lệnh PivotChart"
+    ],
+    "correctAnswers": [
+      "B. Lệnh PivotTable",
+      "D. Lệnh PivotChart"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Trong Excel, để làm ẩn một sheet sau đó có thể cho hiện lại bằng lệnh Unhide, bạn sử dụng lựa chọn nào? (Chọn nhiều trả lời)",
+    "options": [
+      "A. Chuột phải vào thẻ sheet cần làm ẩn \\chọn Hide",
+      "B. Chọn toàn bộ bảng tính, chuột phải tại 1 dòng bất kỳ \\ chọn Hide",
+      "C. Vào Home\\Format\\Hide & Unhide \\ Hide Sheet",
+      "D. Chọn toàn bộ bảng tính, vào Home\\Format\\Hide & Unhide \\Hide Columns"
+    ],
+    "correctAnswers": [
+      "A. Chuột phải vào thẻ sheet cần làm ẩn \\chọn Hide",
+      "C. Vào Home\\Format\\Hide & Unhide \\ Hide Sheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Trong Microsoft Excel 2010, để áp dụng định dạng table style light cho một vùng ta chọn vùng cần định dạng thực hiện các bước?",
+    "options": [
+      "A. Insert\\ format as table chọn table style light 1.",
+      "B. Page layout\\ format as table chọn table style light 1.",
+      "C. Home \\ format as table chọn table style light 1.",
+      "D. Insert \\ chọn table style light 1."
+    ],
+    "correctAnswers": [
+      "C. Home \\ format as table chọn table style light 1."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Trong Microsoft Excel 2010, để áp dụng định dạng kiểu dữ liệu cell style Good cho một vùng ta chọn vùng cần định dạng thực hiện các bước?",
+    "options": [
+      "A. Insert \\ format as table chọn table style.",
+      "B. Page layout\\ format as table chọn style Good",
+      "C. Home \\Cell style\\ chọn kiểu style Good",
+      "D. Insert \\ chọn cell style Good"
+    ],
+    "correctAnswers": [
+      "C. Home \\Cell style\\ chọn kiểu style Good"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Muốn tô màu vàng cho vùng dữ liệu A1:A10, ta dùng?",
+    "options": [
+      "A. Format as Cells",
+      "B. Format as Table",
+      "C. Conditional Formatting",
+      "D. Styles"
+    ],
+    "correctAnswers": [
+      "A. Format as Cells"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Khi  sử  dụng  lệnh  Edit  Points  để trực  tiếp  chỉnh  dạng  Shape  trong  MS-Excel,  nếu right-click  tại 1 Point thì trình đơn ngữ  cảnh  (Context  Menu)  sẽ liệt kê bao nhiêu mục chọn",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. Trên 6"
+    ],
+    "correctAnswers": [
+      "D. Trên 6"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Tô màu vàng cho những ô có số lượng nằm trong khoảng từ 5 đến 10 cho vùng dữ liệu A2:H10, ta chọn?",
+    "options": [
+      "A. Format as Cells",
+      "B. Conditional Formatting",
+      "C. Styles",
+      "D. Format as Table"
+    ],
+    "correctAnswers": [
+      "B. Conditional Formatting"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Trong Microsoft Excel 2010, để xóa các định dạng có điều kiện ta chọn vùng cần xóa sau đó thực hiện các bước?",
+    "options": [
+      "A. Home \\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule.",
+      "B. Insert \\ Conditional formatting \\ chọn định dạng cần xóa và Delete Rule.",
+      "C. Insert \\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule.",
+      "D. Home \\ manager Rules\\ chọn định dạng cần xóa và Delete Rule."
+    ],
+    "correctAnswers": [
+      "A. Home \\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Trong Microsoft Excel 2010, sử dụng công thức tính tổng cho vùng dữ liệu đã được đạt tên là “LUONG “ công thức nào đúng?",
+    "options": [
+      "A. =SUM (“LUONG”)",
+      "B. =SUM (LUONG)",
+      "C. =SUM (VALUE (LUONG))",
+      "D. = SUM ( “LƯƠNG” ) *1"
+    ],
+    "correctAnswers": [
+      "B. =SUM (LUONG)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Để di chuyển vùng bảng tính A2:D4 đến vị trí khác trên cùng một trang tính thì thao tác nào sau đây là đúng? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Quét vùng chọn từ A2:D4, để chuột vào cạnh của vùng vừa chọn, rê kéo chuột đến vị trí cần di chuyển đến.",
+      "B. Quét vùng chọn từ A2:D4, chọn chức năng cut, sau đó dán vào vị trí mới",
+      "C. Quét vùng chọn từ A2:D4, chọn chức năng cut, đặt trỏ tại vị trí cần di chuyển, nhấn Enter",
+      "D. Nhấn Shift và kéo vùng cần kéo đi"
+    ],
+    "correctAnswers": [
+      "A. Quét vùng chọn từ A2:D4, để chuột vào cạnh của vùng vừa chọn, rê kéo chuột đến vị trí cần di chuyển đến.",
+      "B. Quét vùng chọn từ A2:D4, chọn chức năng cut, sau đó dán vào vị trí mới",
+      "C. Quét vùng chọn từ A2:D4, chọn chức năng cut, đặt trỏ tại vị trí cần di chuyển, nhấn Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Trong Microsoft Excel 2010, hàm nào dưới đây được dùng để tính tổng có nhiều điều kiện?",
+    "options": [
+      "A. SUMS",
+      "B. SUMIFS",
+      "C. SUMIF",
+      "D. COUNTIFS"
+    ],
+    "correctAnswers": [
+      "B. SUMIFS"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Trong Microsoft Excel 2010, hàm nào dưới đây được dùng để đếm giá trị thoả nhiều điều kiện?",
+    "options": [
+      "A. SUMS",
+      "B. SUMIFS",
+      "C. SUMIF",
+      "D. COUNTIFS"
+    ],
+    "correctAnswers": [
+      "D. COUNTIFS"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Xác định mức khấu hao giảm kép cho các năm?",
+    "options": [
+      "A. DDB",
+      "B. DB",
+      "C. SLN",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "A. DDB"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Trong Microsoft Excel 2010, cấu trúc hàm nào dưới đây là đúng?",
+    "options": [
+      "A. = DAVERAGE(database, field, criteria)",
+      "B. = DAVERAGE(field, database, criteria)",
+      "C. = DAVERAGE(criteria, field, database)",
+      "D. = DAVERAGE(field, criteria, database)"
+    ],
+    "correctAnswers": [
+      "A. = DAVERAGE(database, field, criteria)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Chọn phát biểu đúng nhất khi muốn xoá hết dữ liệu cùng dòng với ô tính đã chọn?",
+    "options": [
+      "A. Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Entire row, ok.",
+      "B. Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Shift cells left, ok.",
+      "C. Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Entire colum, ok.",
+      "D. Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Shift cells up, ok."
+    ],
+    "correctAnswers": [
+      "A. Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Entire row, ok."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Trong Microsoft Excel 2010, công thức mảng có dạng: {=SUM((điều kiện 1)*((điều kiện 2)*(điều kiện 3)}?",
+    "options": [
+      "A. Đếm số giá trị thỏa điều kiện: điều kiện 1 hay điều kiện 2 hay điều kiện 3",
+      "B. Tính tổng giá trị thỏa đồng thời các điều kiện (điều kiện 1 và điều kiện 2 và điều kiện 3)",
+      "C. Đếm số giá trị thỏa đồng thời các điều kiện (điều kiện 1 và điều kiện 2 và điều kiện 3)",
+      "D. Tính tổng giá trị thỏa điều kiện: điều kiện 1 hay điều kiện 2 hay điều kiện 3"
+    ],
+    "correctAnswers": [
+      "C. Đếm số giá trị thỏa đồng thời các điều kiện (điều kiện 1 và điều kiện 2 và điều kiện 3)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

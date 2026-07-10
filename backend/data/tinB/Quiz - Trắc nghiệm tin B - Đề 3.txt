@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Câu 1: Trong MS Excel 2010, giả sử ô A1 có 1 công thức, để sao chép (chỉ kết quả) của ô trên vào ô A2 thì ta cần thực hiện:",
+    "options": [
+      "A. Tại ô A2 chọn Copy, chuyển sang ô A1 thực hiện lệnh Paste Special, chọn Formulas.",
+      "B. Tại ô A2 chọn Copy, chuyển sang ô A1 thực hiện lệnh Paste Special, chọn Validation.",
+      "C. Tại ô A1 chọn Copy, chuyển sang ô A2 thực hiện lệnh Paste Special, chọn Validation.",
+      "D. Tại ô A1 chọn Copy, chuyển sang ô A2 thực hiện lệnh Paste Special, chọn Values."
+    ],
+    "correctAnswers": [
+      "D. Tại ô A1 chọn Copy, chuyển sang ô A2 thực hiện lệnh Paste Special, chọn Values."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Trong MS Excel 2010, hàm nào sau đây dùng để tính tiền lãi mỗi kỳ cho một khoản đầu tư:",
+    "options": [
+      "A. INTERESTPAYMENT(…)",
+      "B. PPMT(…)",
+      "C. NPER(…)",
+      "D. IPMT"
+    ],
+    "correctAnswers": [
+      "D. IPMT"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Với MS Excel 2010, việc bảo mật dữ liệu được thực hiện:",
+    "options": [
+      "A. Từ mức Workbook, đến Worksheet và đến từng cells trong bảng tính.",
+      "B. Chỉ đến mức Workbook.",
+      "C. Chỉ 2 mức Workbook và Worksheet.",
+      "D. Từ mức file, đến Workbook, đến Worksheet hoặc có thể đến từng cells trong bảng tính."
+    ],
+    "correctAnswers": [
+      "D. Từ mức file, đến Workbook, đến Worksheet hoặc có thể đến từng cells trong bảng tính."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Trong Microsoft Excel 2010, dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối:",
+    "options": [
+      "A. $B$2:$D$8",
+      "B. B$2:D$8",
+      "C. $B2:$D8",
+      "D. B$2$:D$8$"
+    ],
+    "correctAnswers": [
+      "A. $B$2:$D$8"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Trong bảng tính Excel 2010, chức năng Data\\Data Validation\\ Settings\\Text length dùng để làm gì:",
+    "options": [
+      "A. Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi có chiều dài xác định",
+      "B. Xuất kết quả tính toán chỉ chuỗi",
+      "C. Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi",
+      "D. Tất cả đều đúng"
+    ],
+    "correctAnswers": [
+      "A. Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi có chiều dài xác định"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Trong Microsoft Excel 2010, để định dạng có điều kiện các giá trị trên 5 ta chọn vùng cần định dạng sau đó chọn:",
+    "options": [
+      "A. Home \\ Conditional formatting \\ Greater than… và nhập giá trị 5",
+      "B. Home \\ Conditional formatting \\ Less than… và nhập giá trị 5",
+      "C. Home \\ Conditional formatting \\ Between than… và nhập giá trị 5",
+      "D. Home \\ Conditional formatting \\ Equal than… và nhập giá trị 5"
+    ],
+    "correctAnswers": [
+      "A. Home \\ Conditional formatting \\ Greater than… và nhập giá trị 5"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Trong Microsoft Excel 2010, để áp dụng định dạng table style light cho một vùng ta chọn vùng cần định dạng thực hiện các bước:",
+    "options": [
+      "A. Insert\\ format as table chọn table style light 1",
+      "B. Page layout\\ format as table chọn table style light 1",
+      "C. Home\\ format as table chọn table style light 1",
+      "D. Insert\\ chọn table style light 1"
+    ],
+    "correctAnswers": [
+      "C. Home\\ format as table chọn table style light 1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Trên giao diện MS Excel 2010, phím nào sau đây sử dụng để chọn nhiều ô không liên tục trên cùng một bảng tính:",
+    "options": [
+      "A. Phím Ctrl",
+      "B. Phím Alt",
+      "C. Phím Fn",
+      "D. Phím Shift"
+    ],
+    "correctAnswers": [
+      "A. Phím Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Lỗi #NA là do:",
+    "options": [
+      "A. Giá trị là số",
+      "B. Giá trị là chuỗi",
+      "C. Giá trị không được sắp xếp",
+      "D. Không tìm thấy giá trị dò tìm"
+    ],
+    "correctAnswers": [
+      "D. Không tìm thấy giá trị dò tìm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Microsoft Excel 2010, để xem cùng một lúc 2 WorkSheet khác nhau của 1 WorkBook thì:",
+    "options": [
+      "A. Vào menu View tại nhóm Window ta chọn View side by side (Arrange All)",
+      "B. Vào menu View tại nhóm Window ta chọn Custom Views",
+      "C. Vào menu View tại nhóm Window ta chọn New Window sau đó chọn Arrange All để hiển thị 2 cửa sổ Worksheet",
+      "D. Vào menu View tại nhóm Zoom ta chọn One Page"
+    ],
+    "correctAnswers": [
+      "C. Vào menu View tại nhóm Window ta chọn New Window sau đó chọn Arrange All để hiển thị 2 cửa sổ Worksheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Xác định số tiền vốn trong mỗi tháng bạn chọn?",
+    "options": [
+      "A. PPMT",
+      "B. IPMT",
+      "C. PMT",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "A. PPMT"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Tính giá trị hiện tại (Present Value) ứng với số tiền ở tương lai với lãi suất và tiền đầu tư thêm vào mỗi kỳ không đổi:",
+    "options": [
+      "A. PPMT",
+      "B. PV",
+      "C. PMT",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "B. PV"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Trên giao diện MS Excel 2010, phím nào sau đây kết hợp với chuột được sử dụng để chọn các vùng liên tục trên cùng một bảng tính:",
+    "options": [
+      "A. Phím Ctrl",
+      "B. Phím Alt",
+      "C. Phím Fn",
+      "D. Phím Shift"
+    ],
+    "correctAnswers": [
+      "D. Phím Shift"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Để đặt mật khẩu cho một WorkBook trong Excel 2010, thực hiện nào sau đây là đúng:",
+    "options": [
+      "A. Home (Font (Protection))",
+      "B. Home (Info (Protected Workbook))",
+      "C. Review (trong nhóm Change chọn Protect Workbook)",
+      "D. View (chọn Protect)"
+    ],
+    "correctAnswers": [
+      "C. Review (trong nhóm Change chọn Protect Workbook)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Trong Excel, để thực hiện cách lọc một danh sách (lọc nâng cao), bạn sử dụng lựa chọn nào:",
+    "options": [
+      "A. Click vào biểu tượng (Filter) trên nhóm Sort & Filter của Tab Data",
+      "B. Click vào biểu tượng (Clear) trên nhóm Sort & Filter của Tab Data",
+      "C. Click vào biểu tượng (Advanced) trên nhóm Sort & Filter của Tab Data",
+      "D. Click vào biểu tượng (Reapply) trên nhóm Sort & Filter của Tab Data"
+    ],
+    "correctAnswers": [
+      "C. Click vào biểu tượng (Advanced) trên nhóm Sort & Filter của Tab Data"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Trong MS Excel 2010, phát biểu nào sau đây đúng nhất:",
+    "options": [
+      "A. Mặc định, MS Excel 2010 cho phép mở Workbook được lấy từ bất kỳ nguồn nào (Internet, đính kèm trong Email, …) mà không có bất kỳ cảnh báo nào về vấn đề an toàn.",
+      "B. Luôn cho phép mở và làm việc bình thường các Workbook được tạo từ các phiên bản MS Excel 2010 trước.",
+      "C. Chỉ cho phép mở 1 Workbook được lấy từ 1 nguồn không tin cậy mà không cần cảnh báo rủi ro khi tắt chế độ Protected View trên nguồn của tài liệu tương ứng.",
+      "D. Thiết lập Protected View có ý nghĩa cho phép người dùng chỉ được xem nội dung bảng tính mà không được sửa đổi thông qua mật khẩu bảo vệ."
+    ],
+    "correctAnswers": [
+      "C. Chỉ cho phép mở 1 Workbook được lấy từ 1 nguồn không tin cậy mà không cần cảnh báo rủi ro khi tắt chế độ Protected View trên nguồn của tài liệu tương ứng."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Trong MS Excel 2010, để hiệu chỉnh (Edit) một công thức mảng, phát biểu nào sau đây đúng:",
+    "options": [
+      "A. Chọn ô có công thức mảng cần hiệu chỉnh, thực hiện thay đổi nội dung công thức sau đó bấm phím Ctrl+Shift+Enter.",
+      "B. Thực hiện hiệu chỉnh nội dung công thức, sau đó bấm phím Enter.",
+      "C. Chọn toàn bộ khối ô chứa công thức mảng cần hiệu chỉnh, hiệu chỉnh công thức sau đó bấm phím Ctrl+Shift+Enter.",
+      "D. Chọn ô có công thức mảng cần hiệu chỉnh, thực hiện thay đổi nội dung công thức sau đó bấm phím Shift+Enter."
+    ],
+    "correctAnswers": [
+      "A. Chọn ô có công thức mảng cần hiệu chỉnh, thực hiện thay đổi nội dung công thức sau đó bấm phím Ctrl+Shift+Enter."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Trong MS Excel 2010, hàm nào dưới đây được dùng để đếm giá trị thỏa nhiều điều kiện:",
+    "options": [
+      "A. SUMIF.",
+      "B. SUMS.",
+      "C. COUNTIFS.",
+      "D. SUMIFS."
+    ],
+    "correctAnswers": [
+      "C. COUNTIFS."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Trong MS Excel 2010, để ngăn chặn người dùng mở file bảng tính nếu không biết mật khẩu:",
+    "options": [
+      "A. Đặt mật khẩu bảo vệ cho Worksheet.",
+      "B. Đặt mật khẩu bảo vệ file bảng tính.",
+      "C. Ẩn nội dung của bảng tính.",
+      "D. Đặt mật khẩu bảo vệ cho Cells trong bảng tính."
+    ],
+    "correctAnswers": [
+      "B. Đặt mật khẩu bảo vệ file bảng tính."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Cho một CSDL quản lý về thông tin thí sinh dự thi, trong đó có các thuộc tính (Tên thí sinh, khối thi, ngành thi), hãy đếm số thí sinh dự khối A, ta dùng:",
+    "options": [
+      "A. DSum(…)",
+      "B. CountA(…)",
+      "C. DcountA(…)",
+      "D. Count(…)"
+    ],
+    "correctAnswers": [
+      "C. DcountA(…)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Thực hiện việc tổng hợp dữ liệu từ nhiều nguồn dữ liệu khác nhau (nằm trên nhiều Sheet hoặc nhiều WorkBook khác nhau), ta chọn:",
+    "options": [
+      "A. Lệnh PivotTable",
+      "B. Lệnh PivotChart",
+      "C. Lệnh Subtotal",
+      "D. Lệnh Consolidate"
+    ],
+    "correctAnswers": [
+      "D. Lệnh Consolidate"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Xác định số tiền lãi trong mỗi tháng bạn chọn:",
+    "options": [
+      "A. PPMT",
+      "B. IPMT",
+      "C. PMT",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "B. IPMT"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Xác định mức khấu hao đều cho các năm:",
+    "options": [
+      "A. DDB",
+      "B. DB",
+      "C. SLN",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "C. SLN"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Trong MS 2010, để đặt mật khẩu cho một file bảng tính trong Excel 2010, thực hiện nào sau đây là đúng:",
+    "options": [
+      "A. View (trong nhóm Changes chọn Protect Workbook).",
+      "B. File (Info(Protectect Workbook).",
+      "C. Home (Font(Protection).",
+      "D. Review (Protect Worksheet)."
+    ],
+    "correctAnswers": [
+      "B. File (Info(Protectect Workbook)."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Quan sát 4 nhóm tuổi thọ (60,65,70,75) của 16 người ngẫu nhiên, để tính trung bình mẫu, độ lệch chuẩn, phương sai mẫu, ta dùng lệnh:",
+    "options": [
+      "A. Descriptive Statistics",
+      "B. CORREL",
+      "C. Correlation",
+      "D. Moving Average"
+    ],
+    "correctAnswers": [
+      "A. Descriptive Statistics"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Trong một trang bảng tính Excel, để ẩn công thức trong 1 khối ô trong khi vẫn cho hiển thị kết quả của công thức. Thực hiện kết quả sau đây là đúng nhất?",
+    "options": [
+      "A. Chọn khối ô cần ẩn công thức trong ô, thực hiện lệnh Review (Protect Workbook).",
+      "B. Chọn khối ô cần ẩn công thức trong ô, thực hiện lệnh Home (Font (Trong thẻ Protection chọn Hide)).",
+      "C. Chọn khối ô cần bảo vệ, thực hiện lệnh Review (Protect Worksheet).",
+      "D. Chọn khối ô cần bảo vệ, thực hiện lệnh Home (Font (Trong thẻ Protection chọn Hide, sau đó thực hiện lệnh Review (Protect Worksheet)."
+    ],
+    "correctAnswers": [
+      "D. Chọn khối ô cần bảo vệ, thực hiện lệnh Home (Font (Trong thẻ Protection chọn Hide, sau đó thực hiện lệnh Review (Protect Worksheet)."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Trong Microsoft Excel 2010, các bước để đặt tên \"ABC\" cho vùng A1:B2 ta chọn vùng dữ liệu và thực hiện:",
+    "options": [
+      "A. Home\\ define name\\ nhập tên ABC",
+      "B. Insert\\ define name\\ nhập tên ABC",
+      "C. Mailings\\ define name\\ nhập tên ABC",
+      "D. Trong phần name box nhập tên ABC và Enter"
+    ],
+    "correctAnswers": [
+      "D. Trong phần name box nhập tên ABC và Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Trong Microsoft Excel 2010, khi sử dụng hàm kết quả trả về #REF! là lỗi gì?",
+    "options": [
+      "A. Ô chưa dữ liệu không đủ rộng",
+      "B. Sai vùng tham chiếu",
+      "C. Chia cho giá trị 0",
+      "D. Không tìm thấy giá trị dò"
+    ],
+    "correctAnswers": [
+      "B. Sai vùng tham chiếu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Trong Microsoft Excel 2010, muốn chuyển đổi dữ liệu cột thành hàng hay hàng thành cột thì trong hộp thoại Paste Special chọn:",
+    "options": [
+      "A. Value",
+      "B. Skip Blanks",
+      "C. Transpose",
+      "D. Formulas"
+    ],
+    "correctAnswers": [
+      "C. Transpose"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Xác định số tiền lãi và vốn trong mỗi tháng bạn chọn:",
+    "options": [
+      "A. PPMT",
+      "B. IPMT",
+      "C. PMT",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "C. PMT"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Trong MS Excel 2010, hàm IF có thể lồng vào nhiêu bao nhiêu cấp?",
+    "options": [
+      "A. 6",
+      "B. 5",
+      "C. 7",
+      "D. 8"
+    ],
+    "correctAnswers": [
+      "C. 7"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Trong MS Excel 2010, để sử dụng công thức mảng khi hoàn tất công thức ta dùng phím gì?",
+    "options": [
+      "A. Ctrl+Shift+Enter",
+      "B. Alt+Shift+Enter",
+      "C. Shift+Enter",
+      "D. Ctrl+Enter"
+    ],
+    "correctAnswers": [
+      "A. Ctrl+Shift+Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Khi xây dựng bất cứ bảng tính nào đó phục vụ công việc mình, chắc chắn bạn sẽ cần những vùng nhập dữ liệu theo yêu cầu nhất định nào đó, bạn sẽ chọn lệnh:",
+    "options": [
+      "A. Descriptive Statistics",
+      "B. CORREL",
+      "C. Correlation",
+      "D. Data validation"
+    ],
+    "correctAnswers": [
+      "D. Data validation"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Xác định mức khấu hao giảm kép cho các năm:",
+    "options": [
+      "A. DDB",
+      "B. DB",
+      "C. SLN",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "A. DDB"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Tính giá trị tương lai (Future Value) nhận được ứng với một số tiền ở hiện tại, với lãi suất và tiền đầu tư thêm vào mỗi kỳ không đổi:",
+    "options": [
+      "A. PPMT",
+      "B. PV",
+      "C. PMT",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "D. FV"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Trong MS Excel 2010, hàm nào dưới đây được dùng để tính tổng có nhiều điều kiện:",
+    "options": [
+      "A. SUMIFS.",
+      "B. SUMS.",
+      "C. COUNTIFS.",
+      "D. SUMIF."
+    ],
+    "correctAnswers": [
+      "A. SUMIFS."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Trong MS Excel 2010, khi thực hiện lệnh Advanced Filter, phát biểu nào sau đây đúng nhất với vùng tiêu chuẩn:",
+    "options": [
+      "A. Tiêu đề cột của vùng tiêu chuẩn bắt buộc phải nằm trong tiêu đề cột của cơ sở dữ liệu nguồn.",
+      "B. Luôn phải đặt điều kiện từ dòng đầu tiên tiếp theo sau dòng tiêu đề của vùng điều kiện.",
+      "C. Vùng tiêu chuẩn không cần thiết phải có tiêu đề.",
+      "D. Luôn có một dòng trống giữa dòng đầu tiên đặt điều kiện với dòng tiều đề của vùng tiêu chuẩn."
+    ],
+    "correctAnswers": [
+      "B. Luôn phải đặt điều kiện từ dòng đầu tiên tiếp theo sau dòng tiêu đề của vùng điều kiện."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Trong MS Excel 2010, cột B trong trang tính đang bị ẩn, để hiển thị cột B lên thì kích phải chuột vào vị trí cột B rồi chọn thao tác nào sau đây:",
+    "options": [
+      "A. Clear.",
+      "B. Delete.",
+      "C. Hide.",
+      "D. Unhide."
+    ],
+    "correctAnswers": [
+      "D. Unhide."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Xác định số tiền phải trả trong mỗi quý bạn chọn:",
+    "options": [
+      "A. PPMT",
+      "B. IPMT",
+      "C. PMT",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "C. PMT"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Trong Microsoft Excel 2010, khi sử dụng hàm kết quả trả về #NUM! là lỗi gì?",
+    "options": [
+      "A. Ô chưa dữ liệu không đủ rộng",
+      "B. Lỗi dữ liệu kiểu số",
+      "C. Chia cho giá trị 0",
+      "D. Không tìm thấy giá trị dò"
+    ],
+    "correctAnswers": [
+      "B. Lỗi dữ liệu kiểu số"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Giả sử mua 1 chiếc xe máy và trả trước 7.000.000 đồng, số tiền còn lại trả theo phương thức trả góp sau 24 tháng, cuối mỗi tháng góp 1.000.000 đồng. Lãi suất 0,65%/tháng. Hỏi giá chiếc xe bao nhiêu?",
+    "options": [
+      "A. PPMT",
+      "B. PV",
+      "C. PMT",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "B. PV"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Trong Microsoft Excel 2010, cấu trúc hàm nào dưới đây là đúng",
+    "options": [
+      "A. DAVERAGE(database, field, criteria)",
+      "B. DAVERAGE(field, database, criteria)",
+      "C. DAVERAGE(criteria, field, database)",
+      "D. DAVERAGE(field, criteria, database)"
+    ],
+    "correctAnswers": [
+      "A. DAVERAGE(database, field, criteria)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Trong MS Excel 2010, khi bấm Enter để kết thúc việc vào dữ liệu công thức cho một ô:",
+    "options": [
+      "A. Con trỏ ô luôn dời sang ô bên trái ô hiện hành trên cùng dòng.",
+      "B. Con trỏ ô luôn dời sang ô phía trên ô hiện hành trên cùng dòng.",
+      "C. Con trỏ ô luôn dời sang ô bên phải ô hiện hành trên cùng dòng.",
+      "D. Con trỏ ô luôn dời sang ô phía trên, ô bên dưới, ô bên phải ô hiện hành tùy theo ta thiết lập."
+    ],
+    "correctAnswers": [
+      "D. Con trỏ ô luôn dời sang ô phía trên, ô bên dưới, ô bên phải ô hiện hành tùy theo ta thiết lập."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Trong MS Excel 2010, biểu đồ thu nhỏ bên trong các ô trang tính có mấy dạng cơ bản:",
+    "options": [
+      "A. 2",
+      "B. 5",
+      "C. 3",
+      "D. 4"
+    ],
+    "correctAnswers": [
+      "C. 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Trong Microsoft Excel 2010, khi sử dụng hàm kết quả trả về #DIV/0! Là lỗi gì?",
+    "options": [
+      "A. Ô chưa dữ liệu không đủ rộng",
+      "B. Lỗi vùng dò tìm",
+      "C. Chia cho giá trị 0",
+      "D. Không tìm thấy giá trị dò"
+    ],
+    "correctAnswers": [
+      "C. Chia cho giá trị 0"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Trong Microsoft Excel 2010, để tìm 3 giá trị lớn nhất trên vùng ta thực hiện chọn vùng dữ liệu sau đó:",
+    "options": [
+      "A. Home \\ Conditional formatting\\top/bottom rules \\top 10 Items.. Và nhập giá trị 3",
+      "B. Home \\ Conditional formatting\\top/bottom rules \\top 10% Items.. Và nhập giá trị 3",
+      "C. Home \\ Conditional formatting\\top/bottom rules \\bottom 10 Items.. Và nhập giá trị 3",
+      "D. Home \\ Conditional formatting\\top/bottom rules \\bottom 10% Items.. Và nhập giá trị 3"
+    ],
+    "correctAnswers": [
+      "A. Home \\ Conditional formatting\\top/bottom rules \\top 10 Items.. Và nhập giá trị 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Trong MS Excel 2010, chức năng Track Changes có tác dụng gì?",
+    "options": [
+      "A. Định dạng ô dữ liệu.",
+      "B. Để tạo ghi chú trên ô.",
+      "C. Đánh dấu sự thay đổi trên trang tính.",
+      "D. Xóa các ghi chú."
+    ],
+    "correctAnswers": [
+      "C. Đánh dấu sự thay đổi trên trang tính."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Trong MS Excel 2010, một hàm được tạo ra bởi VBA:",
+    "options": [
+      "A. Để dùng được hàm này ta phải tắt (Disabled) chế độ chặn Macro trong Macro Setting.",
+      "B. Luôn có hiệu lực và luôn có thể dùng được trong Workbook đi kèm như một hàm có sẵn.",
+      "C. Để dùng được hàm này ta phải tắt (Disabled) chế độ Protected View trong Trusted Center.",
+      "D. Để dùng được hàm này ta phải bỏ mật khẩu bảo vệ bảng tính."
+    ],
+    "correctAnswers": [
+      "A. Để dùng được hàm này ta phải tắt (Disabled) chế độ chặn Macro trong Macro Setting."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Trong Microsoft Excel 2010, để xóa các định dạng có điều kiện ta chọn vùng cần xóa sau đó thực hiện các bước:",
+    "options": [
+      "A. Insert\\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule",
+      "B. Home\\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule",
+      "C. Insert\\ Conditional formatting\\ chọn định dạng cần xóa và Delete Rule",
+      "D. Home\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule"
+    ],
+    "correctAnswers": [
+      "B. Home\\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Trong Microsoft Excel 2010, khi sử dụng hàm kết quả trả về ###### là lỗi gì?",
+    "options": [
+      "A. Ô chưa dữ liệu không đủ rộng",
+      "B. Lỗi vùng dò tìm",
+      "C. sai cách dò",
+      "D. Không tìm thấy giá trị dò"
+    ],
+    "correctAnswers": [
+      "A. Ô chưa dữ liệu không đủ rộng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "text": "Câu 1: Trong Microsoft Excel 2010, công thức sau cho kết quả là bao nhiêu nếu DTB = 9: =If(DTB>=5, \"TB\",If(DTB>=6.5, \"Kha\",If(DTB>= 8, \"Gioi\", \"Yeu\")))?",
+    "options": [
+      "A. Gioi",
+      "B. Kha",
+      "C. TB",
+      "D. Yeu"
+    ],
+    "correctAnswers": [
+      "C. TB"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Trong Microsoft Excel 2010, công thức sau cho kết quả là bao nhiêu nếu A2 = 6? =If(A2>=5, Dau, Truot)",
+    "options": [
+      "A. Dau",
+      "B. Truot",
+      "C. #Name?",
+      "D. #Value"
+    ],
+    "correctAnswers": [
+      "C. #Name?"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Trong Microsoft Excel 2010, công thức sau cho kết quả là bao nhiêu nếu A2 = 6? =If(A2>=5, “Dau”, “Truot”)",
+    "options": [
+      "A. Dau",
+      "B. Truot",
+      "C. #Name?",
+      "D. #Value"
+    ],
+    "correctAnswers": [
+      "A. Dau"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Trong Microsoft Excel 2010, công thức sau cho kết quả là bao nhiêu nếu DTB = 9 và HK loại C trong đó DTB: Điểm trung bình. HK: Hạnh kiểm: =If(OR(DTB>=8, HK= \"A\"),1000,300)?",
+    "options": [
+      "A. 1000",
+      "B. 300",
+      "C. False",
+      "D. #Value!"
+    ],
+    "correctAnswers": [
+      "A. 1000"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Trong Microsoft Excel 2010, để loại bỏ các dòng trùng lắp trong một danh sách?",
+    "options": [
+      "A. Dùng lệnh Delete Duplicates",
+      "B. Dùng lệnh Remove Duplicates",
+      "C. Tìm đến dòng bị trùng, sau đó thực hiện lệnh xóa.",
+      "D. Dùng lệnh Filter lọc và xóa các dòng trùng"
+    ],
+    "correctAnswers": [
+      "B. Dùng lệnh Remove Duplicates"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Trong giao diện của Microsoft Excel 2010, khi chọn lệnh “Zoom to selection” trong thẻ View thì?",
+    "options": [
+      "A. Sẽ phóng to hay thu nhỏ nội dung Worksheet hiện tại theo một tỷ lệ mà chúng ta mong muốn.",
+      "B. Phóng to hay thu nhỏ Worksheet sao cho khối ô hiện tại đang được chọn tự động hiển thị vừa trên toàn bộ cửa sổ.",
+      "C. Sẽ phóng to hay thu nhỏ vùng bảng tính đang chọn trong khi giữa nguyên phần còn lại của bảng tính.",
+      "D. Phóng to Worksheet sao cho nhìn rõ nội dung vùng đang chọn."
+    ],
+    "correctAnswers": [
+      "B. Phóng to hay thu nhỏ Worksheet sao cho khối ô hiện tại đang được chọn tự động hiển thị vừa trên toàn bộ cửa sổ."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Khi nhập dữ liệu ngày tháng vào ô, cần chú ý? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Định dạng ngày trong hệ thống máy tính",
+      "B. Thiết lập lại kiểu ngày đang sử dụng trong bảng tính Excel",
+      "C. Chỉnh lại giao diện",
+      "D. Chỉnh lại phần mềm gõ tiếng Việt"
+    ],
+    "correctAnswers": [
+      "A. Định dạng ngày trong hệ thống máy tính",
+      "B. Thiết lập lại kiểu ngày đang sử dụng trong bảng tính Excel"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Trong Microsoft Excel 2010, biểu thức sau cho kết quả là bao nhiêu nếu DTB = 9 và HK loại C trong đó DTB: Điểm trung bình. HK: Hạnh kiểm: =If(AND(DTB>=8, HK= \"A\"),300,1000)?",
+    "options": [
+      "A. 300",
+      "B. 1000",
+      "C. True",
+      "D. False"
+    ],
+    "correctAnswers": [
+      "B. 1000"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Trong Microsoft Excel 2010, biểu đồ thu nhỏ bên trong các ô trang tính có mấy dạng cơ bản?",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "correctAnswers": [
+      "B. 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Khi cần quét 2 cột dữ liệu trên cùng một bảng trong một bảng tính Excel ta thực hiện? (Chọn một đáp án)",
+    "options": [
+      "A. Nhấn Shift và giữ nguyên kết hợp nhấn chuột trái để kéo các vùng dữ liệu đó.",
+      "B. Nhấn Shift và thả ra giữa các lần chọn các cột dữ liệu khác nhau",
+      "C. Nhấn Ctrl và giữ nguyên kết hợp nhấn chuột trái để kéo các vùng dữ liệu đó.",
+      "D. Nhấn Ctrl + Shift và nhấn chuột trái để thực hiện thao tác quét các cột cần chọn."
+    ],
+    "correctAnswers": [
+      "A. Nhấn Shift và giữ nguyên kết hợp nhấn chuột trái để kéo các vùng dữ liệu đó."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Khi cần lựa chọn một lúc nhiều ô không liền nhau trong bảng tính cần?",
+    "options": [
+      "A. Nhấn Shift trên bàn phím kết hợp với thao tác click chuột trái vào các ô cần chọn",
+      "B. Nhấn Alt trên bàn phím kết hợp với thao tác click chuột trái vào các ô cần chọn",
+      "C. Nhấn Ctrl trên bàn phím kết hợp với thao tác click chuột trái vào các ô cần chọn",
+      "D. Tất cả đều sai"
+    ],
+    "correctAnswers": [
+      "C. Nhấn Ctrl trên bàn phím kết hợp với thao tác click chuột trái vào các ô cần chọn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Trong Microsoft Excel 2010, khi bấm Enter để kết thúc việc vào dữ liệu hay công thức cho một ô?",
+    "options": [
+      "A. Con trỏ ô luôn dời sang ô bên phải ô hiện hành trên cùng dòng",
+      "B. Con trỏ ô luôn dời sang ô bên trái ô hiện hành trên cùng dòng",
+      "C. Con trỏ ô luôn dời sang ô phía trên ô hiện hành trên cùng cột",
+      "D. Con trỏ ô luôn dời sang ô phía trên, ô bên dưới, ô bên phải ô hiện hành tùy theo ta thiết lập."
+    ],
+    "correctAnswers": [
+      "D. Con trỏ ô luôn dời sang ô phía trên, ô bên dưới, ô bên phải ô hiện hành tùy theo ta thiết lập."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Trong Excel, để làm ẩn một sheet sau đó có thể cho hiện lại bằng lệnh Unhide, bạn sử dụng lựa chọn nào? (Chọn nhiều trả lời)",
+    "options": [
+      "A. Chọn toàn bộ bảng tính, vào Home\\Format\\Hide & Unhide \\Hide Columns",
+      "B. Chọn toàn bộ bảng tính, chuột phải tại 1 dòng bất kỳ \\ chọn Hide",
+      "C. Vào Home\\Format\\Hide & Unhide \\ Hide Sheet",
+      "D. Chuột phải vào thẻ sheet cần làm ẩn \\chọn Hide"
+    ],
+    "correctAnswers": [
+      "C. Vào Home\\Format\\Hide & Unhide \\ Hide Sheet",
+      "D. Chuột phải vào thẻ sheet cần làm ẩn \\chọn Hide"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Những từ khoá nào sau đây không dùng trong VBA? (Chọn nhiều đáp án)",
+    "options": [
+      "A. End",
+      "B. Abc",
+      "C. As",
+      "D. Dim"
+    ],
+    "correctAnswers": [
+      "A. End",
+      "B. Abc"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Microsoft Excel 2010, để xem cùng một lúc 2 WorkSheet khác nhau của 1 WorkBook thì?",
+    "options": [
+      "A. Vào menu View tại nhóm Window ta chọn Custom Views",
+      "B. Vào menu View tại nhóm Zoom ta chọn One Page",
+      "C. Vào menu View tại nhóm Window ta chọn Arrange All",
+      "D. Vào menu View tại nhóm Window ta chọn New Window sau đó chọn Arrange All để hiển thị 2 cửa sổ WorkSheet"
+    ],
+    "correctAnswers": [
+      "C. Vào menu View tại nhóm Window ta chọn Arrange All"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Chọn phát biểu đúng nhất khi chỉ muốn xoá dữ liệu trong 1 ô tính?",
+    "options": [
+      "A. Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Entire row, ok.",
+      "B. Chọn ô tính và nhấn phím delete trên bàn phím",
+      "C. Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Shift cells left, ok.",
+      "D. Chọn ô tính và nhấn phải chuột, chọn delete, sau đó chọn Shift cells up, ok."
+    ],
+    "correctAnswers": [
+      "B. Chọn ô tính và nhấn phím delete trên bàn phím"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Để tạo một hàm do người dùng tự định nghĩa và vận dụng hàm đó vào Excel, bạn dùng? (Chọn tất cả)",
+    "options": [
+      "A. Define methods",
+      "B. Visual Basic For Application",
+      "C. Define name",
+      "D. VBA"
+    ],
+    "correctAnswers": [
+      "B. Visual Basic For Application",
+      "D. VBA"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Trong ô D3 có chứa công thức = “B3*C3”, để công thức có nghĩa và không bị báo lỗi thì, chọn?",
+    "options": [
+      "A. Kiểu dữ liệu trong ô C3 phải là số",
+      "B. Kiểu dữ liệu trong ô B3 phải là số",
+      "C. Kiểu dữ liệu trong ô B3, C3 đều là số",
+      "D. Là kiểu dữ liệu gì cũng được"
+    ],
+    "correctAnswers": [
+      "C. Kiểu dữ liệu trong ô B3, C3 đều là số"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Hàm INDEX dùng để? (Chọn tất cả)",
+    "options": [
+      "A. Xác định giá trị của một ô trong bảng tra được xác định bởi chỉ số dòng và cột đã cho",
+      "B. Xác định giá trị của một ô trong bảng tra được xác định bởi hàm match dòng và cột đã cho",
+      "C. Xác định giá trị của một ô trong bảng tra được xác định bởi chỉ số cột và dòng đã cho",
+      "D. Xác định giá trị của một ô trong bảng tra được xác định bởi hàm match cột và dòng đã cho"
+    ],
+    "correctAnswers": [
+      "A. Xác định giá trị của một ô trong bảng tra được xác định bởi chỉ số dòng và cột đã cho",
+      "B. Xác định giá trị của một ô trong bảng tra được xác định bởi hàm match dòng và cột đã cho"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Trong Microsoft Excel 2010, để xóa nội dung chỉ của một ô nằm trong một dãy (nhiều hơn 1) ô cùng trong một công thức mảng, lựa chọn nào sau đây là đúng?",
+    "options": [
+      "A. Click chuột vào ô đó để chọn, sau đó bấm phím Delete",
+      "B. Click chuột vào ô đó để chọn, sau đó bấm Ctrl+ Delete",
+      "C. Không thể thực hiện được",
+      "D. Chọn toàn bộ dãy ô chứa công thức mảng có chứa ô cần xóa, bấm phím Delete"
+    ],
+    "correctAnswers": [
+      "C. Không thể thực hiện được"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Trước khi tạo bảng Pivot Table, ta phải kiểm tra lại xem bảng tính đã?",
+    "options": [
+      "A. Đã sort theo thứ tự chưa.",
+      "B. Đã là tiêu chuẩn của cơ sở dữ liệu chưa",
+      "C. Không cần gì thêm",
+      "D. Đã có vù ng tổng hợp chưa"
+    ],
+    "correctAnswers": [
+      "B. Đã là tiêu chuẩn của cơ sở dữ liệu chưa"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Để đặt mật khẩu cho 1 file bảng tính Excel 2010, thực hiện nào sau đây đúng?",
+    "options": [
+      "A. Home/Font/Protection",
+      "B. File/Info/Protected Workbook",
+      "C. Review/nhóm Change chọn Protect Worksheet",
+      "D. Review/nhóm Change chọn Protect Workbook"
+    ],
+    "correctAnswers": [
+      "D. Review/nhóm Change chọn Protect Workbook"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Trong Excel để ẩn công thức trong 1 ô hay khối ô, trả lời nào là đúng?",
+    "options": [
+      "A. Đặt chế độ bảo vệ Worksheet (Protect Worksheet)",
+      "B. Mở hộp thoại format cell/trong thẻ Protection đánh dấu chọn (x), Hide. Sau đó đặt bảo vệ Worksheet",
+      "C. Không thể ẩn công thức hiện có",
+      "D. Mở hộp thoại format cell/trong thẻ Protection đánh dấu chọn (x), Hide"
+    ],
+    "correctAnswers": [
+      "B. Mở hộp thoại format cell/trong thẻ Protection đánh dấu chọn (x), Hide. Sau đó đặt bảo vệ Worksheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Chọn câu trả lời đúng?",
+    "options": [
+      "A. Có thể sắp xếp các cửa sổ Worksheet trong 1 Workbook theo các dạng Tiled, Horizontal, Vertical,… cho dễ nhìn",
+      "B. Có thể cùng lúc nhiều Workbook và chúng ta có thể thực hiện ẩn hoặc hiện từng Worksheet, từng Workbook khi cần thiết",
+      "C. Cho phép mở cùng lúc nhiều Workbook, khi chưa cần sử dụng thì có thể ẩn Workbook bằng lệnh Hide",
+      "D. Cho phép mở cùng lúc nhiều Workbook, chỉ cho phép các window hiển thị các Workbook trên màn hình nhưng không cho ẩn Workbook đang mở"
+    ],
+    "correctAnswers": [
+      "D. Cho phép mở cùng lúc nhiều Workbook, chỉ cho phép các window hiển thị các Workbook trên màn hình nhưng không cho ẩn Workbook đang mở"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Trong Excel bạn sử dụng menu nào để thực hiện in (print area)?",
+    "options": [
+      "A. Data",
+      "B. Home",
+      "C. View",
+      "D. Page layout"
+    ],
+    "correctAnswers": [
+      "D. Page layout"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Trong công thức Excel, làm thế nào để bạn có thể thay đổi tham chiếu 1 cách nhanh chóng?",
+    "options": [
+      "A. Nhấp chuột phải vào formula bar, sau đó vào format cell",
+      "B. Thay đổi tham chiếu ô theo cách thủ công",
+      "C. Nhấn f4",
+      "D. Bấm nhiều biểu tượng format trong menu Home, rồi bấm format cell"
+    ],
+    "correctAnswers": [
+      "B. Thay đổi tham chiếu ô theo cách thủ công"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Bạn sử dụng hàm nào để xem tất cả các ô trong dãy đã chọn có văn bản hay không?",
+    "options": [
+      "A. Count()",
+      "B. Countblank()",
+      "C. Countall()",
+      "D. CountA()"
+    ],
+    "correctAnswers": [
+      "D. CountA()"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Chiều cao hàng mặc định trong Excel là bao nhiêu?",
+    "options": [
+      "A. 10 points",
+      "B. 15 points",
+      "C. 72 points",
+      "D. 30 points"
+    ],
+    "correctAnswers": [
+      "B. 15 points"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Khi bạn cần sắp xếp dữ liệu bảng với văn bản và số, cách tốt nhất để sắp xếp là gì?",
+    "options": [
+      "A. Sử dụng các nút sắp xếp và lọc trên hàng tiêu đề",
+      "B. Sử dụng loại tùy chỉnh",
+      "C. Theo thứ tự giảm dần",
+      "D. Theo thứ tự tăng dần"
+    ],
+    "correctAnswers": [
+      "B. Sử dụng loại tùy chỉnh"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Phím nào sau đây có thể chọn nhiều ô không liền kề trong Excel?",
+    "options": [
+      "A. Alt",
+      "B. Ctrl",
+      "C. Shift",
+      "D. Fn"
+    ],
+    "correctAnswers": [
+      "B. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Bạn thêm đầu trang (header) hay chân trang (footer) ở chế độ xem (view) nao trong Excel?",
+    "options": [
+      "A. Chế độ xem bố cục trang (page layout)",
+      "B. Chế độ xem bình thường (normal)",
+      "C. Chế độ xem ngắt trang (page break review)",
+      "D. Chế độ xem tùy chỉnh (custom views)"
+    ],
+    "correctAnswers": [
+      "A. Chế độ xem bố cục trang (page layout)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Trong Excel 2010, để đặt mật khẩu cho 1 bảng tính ta thực hiện?",
+    "options": [
+      "A. Home/Font/Protection",
+      "B. Review/ nhóm Change/ Protect Workbook",
+      "C. Review/ nhóm Change/ Protect Worksheet",
+      "D. File/Info/Protect Workbook"
+    ],
+    "correctAnswers": [
+      "D. File/Info/Protect Workbook"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Trong Excel 2010, khi thực hiện advance filter, phát biểu nào đúng?",
+    "options": [
+      "A. Vùng tiêu chuẩn không cần thiết có tiêu đề",
+      "B. Tiêu đề cột của vùng tiêu chuẩn bắt buộc nằm trong tiêu đề cột của cơ sở dữ liệu nguồn",
+      "C. Luôn phải đặt điều kiện từ dòng đầu tiên tiếp theo sau dòng tiêu đề của vùng điều kiện",
+      "D. Luôn có một dòng trống giữa dòng đầu tiên đặt điều kiện với dòng tiêu đề của vùng tiêu chuẩn"
+    ],
+    "correctAnswers": [
+      "C. Luôn phải đặt điều kiện từ dòng đầu tiên tiếp theo sau dòng tiêu đề của vùng điều kiện"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Trong Excel 2010, tại hộp thoại paste special mục Formulas and number formats dùng để",
+    "options": [
+      "A. Sao chép định dạng",
+      "B. Sao chép công thức",
+      "C. Sao chép công thức và định dạng số trong ô",
+      "D. Sao chép công thức và định dạng font trong ô"
+    ],
+    "correctAnswers": [
+      "C. Sao chép công thức và định dạng số trong ô"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Trong một trang bảng tính Excel, để ẩn công thức trong 1 ô, khối ô thì?",
+    "options": [
+      "A. Chọn ô (khối ô) cần ẩn công thức, đặt chế độ bảo vệ Worksheet (Protect Worksheet)",
+      "B. Chọn ô (khối ô) cần ẩn công thức, mở format cell, trong thẻ Protection đánh dấu mục hide",
+      "C. Không thể ẩn công thức hiện có ở ô (khối ô)",
+      "D. Chọn ô (khối ô) cần ẩn công thức, mở format cell, trong thẻ Protection đánh dấu mục hide, sau đó bật bảo vệ Worksheet (Protect Worksheet)"
+    ],
+    "correctAnswers": [
+      "D. Chọn ô (khối ô) cần ẩn công thức, mở format cell, trong thẻ Protection đánh dấu mục hide, sau đó bật bảo vệ Worksheet (Protect Worksheet)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Trong Excel 2010, phát biểu nào đúng?",
+    "options": [
+      "A. Chỉ cho phép mở một Workbook được lấy từ một nguồn không tin cậy mà không cần cảnh báo rủi ro khi tắt chế độ Protected view trên nguồn của tài liệu tương ứng",
+      "B. Mặc định Excel 2010 cho phép mở Workbook được lấy từ bất kỳ nguồn nào (internet, đính kèm trong email,…) mà không có bất kỳ cảnh báo nào về vấn đề an toàn",
+      "C. Luôn cho phép mở và làm việc bình thường các Workbook được tạo từ các phiên bản trước Excel 2010",
+      "D. Thiết lập Protect view có ý nghĩa cho phép người dùng chỉ được xem nội dung bảng tính mà không được sửa đổi thông qua mật khẩu bảo vệ"
+    ],
+    "correctAnswers": [
+      "A. Chỉ cho phép mở một Workbook được lấy từ một nguồn không tin cậy mà không cần cảnh báo rủi ro khi tắt chế độ Protected view trên nguồn của tài liệu tương ứng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Hàm counta khác với hàm count như thế nào?",
+    "options": [
+      "A. Hàm counta đếm các ô được chọn không trống",
+      "B. Bạn có thể đếm các số cụ thể trong hàm counta",
+      "C. Counta đếm tất cả các ô trống trong 1 dãy đã chọn",
+      "D. Counta cho phép chỉ đếm văn bản, không đếm số"
+    ],
+    "correctAnswers": [
+      "A. Hàm counta đếm các ô được chọn không trống"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Trong Excel, khác biệt giữa đếm (count) với số đếm (countnumber) là gì?",
+    "options": [
+      "A. Tính năng đếm (count) bao gồm tất cả các ô trống trong cột",
+      "B. Cả hai đều đếm số ô trong cột",
+      "C. Tính năng số đếm (countnumber) đếm bao nhiêu ô có số",
+      "D. Cả hai đều cho bạn biết có bao nhiêu ô có số"
+    ],
+    "correctAnswers": [
+      "C. Tính năng số đếm (countnumber) đếm bao nhiêu ô có số"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Trong Excel, bạn sử dụng tùy chọn nào để xoay văn bản nhưng không làm cho văn bản tự thay đổi hướng của nó?",
+    "options": [
+      "A. Vertical text",
+      "B. Rotate Text down",
+      "C. Rotate text up",
+      "D. Align center"
+    ],
+    "correctAnswers": [
+      "A. Vertical text"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Trong Excel bạn có thể xác định dữ liệu trong biểu đồ bằng những cách nào?",
+    "options": [
+      "A. Table",
+      "B. Titles",
+      "C. Axes",
+      "D. Legend"
+    ],
+    "correctAnswers": [
+      "B. Titles",
+      "C. Axes",
+      "D. Legend"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Về việc sử dụng lệnh Edit Points để trực tiếp chỉnh dạng Shape trong MS-Excel thì phát biểu nào sau đây là sai",
+    "options": [
+      "A. Có thể bổ sung, xóa hoặc chỉnh vị trí Point",
+      "B. Có thể chuyển đổi giữa các thuộc tính Point (Smooth Point, Straight Point, Corner Point)",
+      "C. Không thể chuyển đổi path kín (Close Path) thành hở (Open Path) hoặc ngược lại",
+      "D. Không thể xử lý để Shape còn dưới 2 point"
+    ],
+    "correctAnswers": [
+      "C. Không thể chuyển đổi path kín (Close Path) thành hở (Open Path) hoặc ngược lại"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Chế độ xem tối thiểu và tối đa của menu Zoom trên Worksheet là bao nhiêu?",
+    "options": [
+      "A. 5% và 200%",
+      "B. 10% và 200%",
+      "C. 5% và 300%",
+      "D. 10% và 400%"
+    ],
+    "correctAnswers": [
+      "D. 10% và 400%"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Tìm kiếm trên toàn bộ Workbook ta chọn loại tìm nào?",
+    "options": [
+      "A. Look in",
+      "B. With in",
+      "C. Find what",
+      "D. Search"
+    ],
+    "correctAnswers": [
+      "B. With in"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Làm thế nào để tìm kiếm 1 ô có dấu “?” trong Excel?",
+    "options": [
+      "A. Đặt dấu ~ nằm trước dấu ?",
+      "B. Đặt dấu ~ sau dấu ?",
+      "C. Đặt dấu ; sau dấu ?",
+      "D. Tất cả các ý trên đều sai."
+    ],
+    "correctAnswers": [
+      "A. Đặt dấu ~ nằm trước dấu ?"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Dùng hàm đếm nào, đếm các ô là văn bản trong Excel?",
+    "options": [
+      "A. Count",
+      "B. Countblank",
+      "C. CountA",
+      "D. Countif"
+    ],
+    "correctAnswers": [
+      "C. CountA"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Trong Excel 2010 để giải bài toán tối ưu ta dùng công cụ nào?",
+    "options": [
+      "A. Goal Seek",
+      "B. Solver",
+      "C. Table",
+      "D. Scenario"
+    ],
+    "correctAnswers": [
+      "B. Solver"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Với MS-Excel, muốn tạo Comment cho một ô thì có thể chọn lệnh từ tab",
+    "options": [
+      "A. Home",
+      "B. Insert",
+      "C. Review",
+      "D. View"
+    ],
+    "correctAnswers": [
+      "C. Review"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Để tương tác trực quan (không cần sử dụng công thức) với bảng dữ liệu hiện có tạo ra bảng tổng hợp nhanh từ bảng dữ liệu này, ta?(Chọn tất cả)",
+    "options": [
+      "A. Subtotal",
+      "B. Lệnh PivotTable",
+      "C. Advanced Filter.",
+      "D. Lệnh PivotChart"
+    ],
+    "correctAnswers": [
+      "B. Lệnh PivotTable",
+      "D. Lệnh PivotChart"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Với Microsoft Excel 2010, việc bảo mật dữ liệu được thực hiện?",
+    "options": [
+      "A. Chỉ đến mức Workbook",
+      "B. Chỉ 2 mức Workbook và Worksheet",
+      "C. Từ mức file , đến Workbook, đến Worksheet hoặc có thể đến từng cells trong bảng tính",
+      "D. Từ mức Workbook, đến Worksheet và đến từng cells trong bảng tính"
+    ],
+    "correctAnswers": [
+      "C. Từ mức file , đến Workbook, đến Worksheet hoặc có thể đến từng cells trong bảng tính"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Trong Microsoft Excel 2010, phát biểu nào sau đây đúng nhất?",
+    "options": [
+      "A. Không thể sử dụng chức năng chèn số trang trong phần Header",
+      "B. Không thể sử dụng chức năng chèn số trang trong phần Footer",
+      "C. Có thể chèn số trang trong cả phần Header và Footer của bảng tính",
+      "D. Có thể chèn số trang một trong 2 phần Header hoặc Footer nhưng không thể trên cùng một trang in"
+    ],
+    "correctAnswers": [
+      "C. Có thể chèn số trang trong cả phần Header và Footer của bảng tính"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

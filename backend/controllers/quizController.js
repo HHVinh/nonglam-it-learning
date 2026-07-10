@@ -14,8 +14,48 @@ exports.getRandomQuiz = async (req, res) => {
     
     // Lọc bỏ correctAnswers và explanation để client không ăn gian được
     const safeQuestions = questions.map(q => {
+      const isMultipleChoice = q.correctAnswers && q.correctAnswers.length > 1;
       const { correctAnswers, explanation, ...safeQ } = q;
-      return safeQ;
+      return { ...safeQ, isMultipleChoice };
+    });
+
+    res.json(safeQuestions);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
+exports.getExams = async (req, res) => {
+  try {
+    const { subject } = req.query;
+    if (!subject) return res.status(400).json({ message: "Thiếu tham số subject" });
+    
+    const exams = await Question.distinct('examId', { courseType: subject, examId: { $ne: null } });
+    
+    // Sort "Đề 1", "Đề 2" numerically
+    exams.sort((a, b) => {
+      const numA = parseInt(a.match(/\d+/) || [0]);
+      const numB = parseInt(b.match(/\d+/) || [0]);
+      return numA - numB;
+    });
+
+    res.json(exams);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
+exports.getExamByExamId = async (req, res) => {
+  try {
+    const { subject, examId } = req.query;
+    if (!subject || !examId) return res.status(400).json({ message: "Thiếu tham số subject hoặc examId" });
+    
+    const questions = await Question.find({ courseType: subject, examId });
+    
+    const safeQuestions = questions.map(q => {
+      const isMultipleChoice = q.correctAnswers && q.correctAnswers.length > 1;
+      const { correctAnswers, explanation, ...safeQ } = q.toObject(); // Need toObject for mongoose document
+      return { ...safeQ, isMultipleChoice };
     });
 
     res.json(safeQuestions);
@@ -26,41 +66,65 @@ exports.getRandomQuiz = async (req, res) => {
 
 exports.submitQuiz = async (req, res) => {
   try {
-    // Client gửi lên mảng answers map theo id câu hỏi
-    // Ví dụ: { answers: { "64abcd...": ["A. ..."], "64abce...": ["B. ..."] }, timeTaken: 1200, isOvertime: true }
-    const { answers, timeTaken, isOvertime } = req.body;
+    const { answers, overtimeAnswers, questionIds, timeTaken, isOvertime, subject } = req.body;
     
-    const questionIds = Object.keys(answers || {});
-    const questions = await Question.find({ _id: { $in: questionIds } });
+    const totalQuestions = subject === 'A' ? 60 : 50;
+
+    let allIds = [];
+    if (questionIds && Array.isArray(questionIds)) {
+      allIds = questionIds;
+    } else {
+      allIds = Array.from(new Set([...Object.keys(answers || {}), ...Object.keys(overtimeAnswers || {})]));
+    }
     
-    let correctCount = 0;
-    const results = {};
+    const questions = await Question.find({ _id: { $in: allIds } });
+    
+    const questionMap = {};
+    questions.forEach(q => questionMap[q._id.toString()] = q);
+    
+    const sortedQuestions = [];
+    if (questionIds && Array.isArray(questionIds)) {
+      questionIds.forEach(id => {
+        if (questionMap[id]) sortedQuestions.push(questionMap[id]);
+      });
+    } else {
+      sortedQuestions.push(...questions);
+    }
+    
+    const grade = (ansMap) => {
+      let correct = 0;
+      const resMap = {};
+      sortedQuestions.forEach(q => {
+        const userAns = ansMap[q._id.toString()] || [];
+        const isCorrect = userAns.length > 0 && JSON.stringify(userAns.sort()) === JSON.stringify(q.correctAnswers.sort());
+        if (isCorrect) correct++;
+        resMap[q._id] = {
+          questionText: q.text,
+          options: q.options,
+          isCorrect,
+          correctAnswers: q.correctAnswers,
+          userAnswers: userAns,
+          explanation: q.explanation
+        };
+      });
+      const score = totalQuestions > 0 ? parseFloat(((correct / totalQuestions) * 10).toFixed(1)) : 0;
+      return { score, correctCount: correct, results: resMap };
+    };
 
-    questions.forEach(q => {
-      const userAns = answers[q._id.toString()] || [];
-      // So sánh 2 mảng (sắp xếp trước để chuẩn)
-      const isCorrect = JSON.stringify(userAns.sort()) === JSON.stringify(q.correctAnswers.sort());
-      if (isCorrect) correctCount++;
-      
-      results[q._id] = {
-        questionText: q.text,
-        options: q.options,
-        isCorrect,
-        correctAnswers: q.correctAnswers,
-        userAnswers: userAns,
-        explanation: q.explanation // Trả về giải thích sau khi thi xong
-      };
-    });
-
-    const totalQuestions = questions.length;
-    // Điểm thang 10, làm tròn 1 chữ số thập phân
-    const score = totalQuestions > 0 ? parseFloat(((correctCount / totalQuestions) * 10).toFixed(1)) : 0;
+    const onTimeData = grade(answers || {});
+    let overtimeData = null;
+    
+    if (isOvertime && overtimeAnswers) {
+      overtimeData = grade(overtimeAnswers);
+    }
 
     res.json({
-      score,
-      correctCount,
+      score: onTimeData.score,
+      correctCount: onTimeData.correctCount,
       totalQuestions,
-      results,
+      results: isOvertime ? overtimeData.results : onTimeData.results,
+      overtimeScore: overtimeData ? overtimeData.score : null,
+      overtimeCorrectCount: overtimeData ? overtimeData.correctCount : null,
       timeTaken,
       isOvertime
     });

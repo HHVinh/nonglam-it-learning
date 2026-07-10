@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Câu 1: Với MS-Excel, công thức =SUM(4,“1”, FALSE,LEFT(“1A”)) sẽ trả về kết quả",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. #VALUE!"
+    ],
+    "correctAnswers": [
+      "B. 6"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Với MS-Excel, công thức =SUM(4,\"1\",TRUE,RIGHT(\"1A\")) sẽ trả về kết quả",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. #VALUE!"
+    ],
+    "correctAnswers": [
+      "D. #VALUE!"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Hàm SUMIFS của MS-Excel có chức năng tính tổng các dữ lệu number thỏa mãn",
+    "options": [
+      "A. Chỉ 1 điều kiện",
+      "B. 1 số điều kiện giới hạn",
+      "C. Trên 1 điều kiện",
+      "D. 1 hoặc nhiều điều kiện"
+    ],
+    "correctAnswers": [
+      "D. 1 hoặc nhiều điều kiện"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Khi ô  A2 của bảng  tính  MS-Excel chứa dữ liệu number  là 10, nếu nhập công thức trong 1 ô khác là =PRODUCT(A2,2) thì sẽ hiện kết quả",
+    "options": [
+      "A. 5",
+      "B. 8",
+      "C. 12",
+      "D. 20"
+    ],
+    "correctAnswers": [
+      "D. 20"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Khi  ô  A3  của  bảng  tính  MS-Excel  chứa  dữ liệu  number  là 9,  nếu  nhập  công  thức trong 1 ô khác là =SQRT(A3) thì sẽ hiện kết quả",
+    "options": [
+      "A. 3",
+      "B. 9",
+      "C. 81",
+      "D. #VALUE!"
+    ],
+    "correctAnswers": [
+      "A. 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Trường hợp nào sau đây không được MS-Excel chấp nhận",
+    "options": [
+      "A. =MIN(A7:A30)",
+      "B. =MAX(A7:A30)",
+      "C. =AVERAGE(A7:A30)",
+      "D. =DMIN(A7:A30)"
+    ],
+    "correctAnswers": [
+      "D. =DMIN(A7:A30)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Với  MS-Excel,  công  thức  =MAX(2,3,9)-MIN(2,3,9)+COUNT(0,1,\"ABC\")  sẽ trả  về  kết quả",
+    "options": [
+      "A. 7",
+      "B. 8",
+      "C. 9",
+      "D. #VALUE!"
+    ],
+    "correctAnswers": [
+      "C. 9"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Khi vùng A1:A4 của bảng tính MS-Excel chứa dữ liệu lần lượt là: 1,A,B,C, nếu nhập công thức trong 1 ô khác là =AVERAGE(A1:A4) thì sẽ hiện kết quả",
+    "options": [
+      "A. 0.25",
+      "B. 1",
+      "C. #VALUE!",
+      "D. #REF!"
+    ],
+    "correctAnswers": [
+      "B. 1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Khi ô A3 của bảng tính MS-Excel chứa dữ liệu number là 23456, nếu nhập công thức trong 1 ô khác là =ROUND(A3,-3) thì sẽ hiện kết quả",
+    "options": [
+      "A. 23456",
+      "B. 23400",
+      "C. 23000",
+      "D. #VALUE!"
+    ],
+    "correctAnswers": [
+      "C. 23000"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Công thức =INT(15/6)+MOD(3,7) cho kết quả:",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "correctAnswers": [
+      "D. 5"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Nếu ô A3 của bảng tính MS-Excel chứa dữ liệu number là -120 thì công thức nào sau đây sẽ cho giá trị là 120",
+    "options": [
+      "A. =SQRT(A3)",
+      "B. =INT(A3)",
+      "C. =ABS(A3)",
+      "D. =MAX(A3)"
+    ],
+    "correctAnswers": [
+      "C. =ABS(A3)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Khi vùng A1:A4 của bảng tính MS-Excel chứa dữ liệu lần lượt là: A,2,3,4, nếu nhập công thức trong 1 ô khác là =COUNT(A1:A4) thì sẽ hiện kết quả",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 4",
+      "D. 9"
+    ],
+    "correctAnswers": [
+      "B. 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Phát biểu nào sau đây là không đúng về hàm VLOOKUP của MS-Excel",
+    "options": [
+      "A. Dò tìm giá trị từ cột đầu (bên trái) của một bảng dữ liệu để trả về 1 giá trị nằm cùng hàng với giá trị dò được",
+      "B. Dò tìm giá trị từ hàng đầu (bên trên) của một bảng dữ liệu để trả về 1 giá trị nằm cùng cột với giá trị dò được",
+      "C. Về giá trị dò, có thể tùy chọn dò chính xác hoặc tương đối gần bằng",
+      "D. Nếu không dò được sẽ thông báo lỗi #N/A"
+    ],
+    "correctAnswers": [
+      "B. Dò tìm giá trị từ hàng đầu (bên trên) của một bảng dữ liệu để trả về 1 giá trị nằm cùng cột với giá trị dò được"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Phát biểu nào sau đây là không đúng về hàm HLOOKUP của MS-Excel",
+    "options": [
+      "A. Dò tìm giá trị từ cột đầu (bên trái) của một bảng dữ liệu để trả về 1 giá trị nằm cùng hàng với giá trị dò được",
+      "B. Dò tìm giá trị từ hàng đầu (bên trên) của một bảng dữ liệu để trả về 1 giá trị nằm cùng cột với giá trị dò được",
+      "C. Về giá trị dò, có thể tùy chọn dò chính xác hoặc tương đối gần bằng",
+      "D. Nếu không dò được sẽ thông báo lỗi #N/A"
+    ],
+    "correctAnswers": [
+      "A. Dò tìm giá trị từ cột đầu (bên trái) của một bảng dữ liệu để trả về 1 giá trị nằm cùng hàng với giá trị dò được"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Với MS-Excel, có thể thay thế hàm VLOOKUP bằng cách kết hợp các hàm",
+    "options": [
+      "A. HLOOKUP và IF",
+      "B. HLOOKUP và MATCH",
+      "C. INDEX và MATCH",
+      "D. MATCH và IF"
+    ],
+    "correctAnswers": [
+      "C. INDEX và MATCH"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Phát biểu nào sau đây là không đúng về hàm MATCH của MS-Excel",
+    "options": [
+      "A. Kết quả trả về là thứ tự vị trí của giá trị dò tìm được trong vùng dò tìm",
+      "B. Vùng dò tìm có thể là một mảng các giá trị hoặc tập hợp các ô trên cùng một cột hoặc một hàng",
+      "C. Các phần tử trong vùng dò không cần phải sắp xếp theo hướng tăng hoặc giảm với mọi cách dò (match_type)",
+      "D. Nếu không dò được sẽ thông báo lỗi #N/A"
+    ],
+    "correctAnswers": [
+      "C. Các phần tử trong vùng dò không cần phải sắp xếp theo hướng tăng hoặc giảm với mọi cách dò (match_type)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Phát biểu nào sau đây là không đúng về hàm INDEX của MS-Excel",
+    "options": [
+      "A. Trả về một giá trị hay tham chiếu đến một giá trị trong một bảng hoặc một mảng",
+      "B. Cú pháp có 2 dạng: INDEX(array,row_num,col_num) đối với dạng mảng và INDEX(reference,row_num,col_num,area_num) đối với dạng tham chiếu",
+      "C. Không cần sắp xếp các phần tử theo bất kỳ tiêu chí nào",
+      "D. Nếu các giá trị _num vượt quá phạm vi tham chiếu sẽ báo lỗi #REF?"
+    ],
+    "correctAnswers": [
+      "D. Nếu các giá trị _num vượt quá phạm vi tham chiếu sẽ báo lỗi #REF?"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Với MS-Excel, các nội dung trong hộp thoại Data Validation được bố trí thành bao nhiêu tab",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. Trên 4"
+    ],
+    "correctAnswers": [
+      "B. 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Với MS-Excel, nhóm nào sau đây liệt kê tên các tab trong hộp thoại Data Validation",
+    "options": [
+      "A. Settings, Input Message, Error Alert",
+      "B. Settings, Message, Error",
+      "C. Settings, Input, Error",
+      "D. Settings, Message, Alert"
+    ],
+    "correctAnswers": [
+      "A. Settings, Input Message, Error Alert"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Với MS-Excel, phần Validation Criteria  trong hộp thoại Data Validation liệt kê bao nhiêu mục cho phép chọn làm tiêu chí xác nhận dữ liệu",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. Trên 4"
+    ],
+    "correctAnswers": [
+      "D. Trên 4"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Với MS-Excel, muốn loại bỏ tất cả các thiết lập về xác nhận dữ liệu (Data Validation) thì có thể chọn toàn bộ bảng tính rồi",
+    "options": [
+      "A. Nhấn phím Delete",
+      "B. Mở hộp thoại Data Validation và chọn Clear All",
+      "C. Chọn mục lệnh Clear Validation Circles (lần lượt nhấn các phím Alt,A,V,R)",
+      "D. Right-click vào bảng tính và chọn Clear Contents."
+    ],
+    "correctAnswers": [
+      "B. Mở hộp thoại Data Validation và chọn Clear All"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Muốn sắp xếp dữ liệu trong bảng tính MS-Excel thì có thể chọn lệnh từ tab",
+    "options": [
+      "A. Formulas",
+      "B. Data",
+      "C. Review",
+      "D. View"
+    ],
+    "correctAnswers": [
+      "B. Data"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: MS-Excel cho sử dụng bao nhiêu trường làm các cấp tiêu chí sắp xếp dữ liệu",
+    "options": [
+      "A. Tối đa là 2",
+      "B. Tối đa là 3",
+      "C. Tối đa là 4",
+      "D. Tất cả các trường trong vùng dữ liệu"
+    ],
+    "correctAnswers": [
+      "D. Tất cả các trường trong vùng dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Với MS-Excel, không thể chọn lệnh Sort A to Z hoặc Sort Z to A từ",
+    "options": [
+      "A. Trình đơn ngữ cảnh (Context Menu – Right-click để mở)",
+      "B. Tab Home",
+      "C. Tab Data",
+      "D. Tab Review"
+    ],
+    "correctAnswers": [
+      "D. Tab Review"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Với MS-Excel, không thể áp dụng chức năng Filter bằng cách truy cập từ",
+    "options": [
+      "A. Trình đơn ngữ cảnh (Context Menu – Right-click để mở)",
+      "B. Tab Home",
+      "C. Tab Data",
+      "D. Tab Review"
+    ],
+    "correctAnswers": [
+      "D. Tab Review"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Muốn bật / tắt chức năng Filter trong MS-Excel thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Ctrl+L",
+      "B. Ctrl+Shift+L",
+      "C. Ctrl+Alt+L",
+      "D. Alt+Shift+L"
+    ],
+    "correctAnswers": [
+      "B. Ctrl+Shift+L"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Giả sử bảng tính MS-Excel có đủ các trường dữ liệu cần thiết như: Ngày sinh, Giới tính, Địa phương, Chức vụ, Điểm các môn… thì tình huống nào sau đây không cần đến Advanced Filter mà có thể sử dụng AutoFilter để thực hiện",
+    "options": [
+      "A. Lọc cá nhân có ngày sinh nhật trong tháng 3",
+      "B. Lọc cá nhân Nữ ở Đồng Nai hoặc Nam ở Vũng Tàu",
+      "C. Lọc cá nhân đang giữ chức Giám đốc hoặc Nữ đang giữ chức trưởng phòng có trình độ Cao đẳng",
+      "D. Lọc cá nhân có điểm môn Tin học dưới 5"
+    ],
+    "correctAnswers": [
+      "D. Lọc cá nhân có điểm môn Tin học dưới 5"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Chức năng Advanced Filter trong MS-Excel không thể xuất kết quả lọc ra",
+    "options": [
+      "A. Vùng khác trong Worksheet hiện hành",
+      "B. Worksheet khác trong cùng Workbook",
+      "C. Worksheet trong Workbook khác đang mở",
+      "D. Worksheet trong file .xlsx bất kỳ"
+    ],
+    "correctAnswers": [
+      "D. Worksheet trong file .xlsx bất kỳ"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Với  MS-Excel,  muốn  xuất  kết  quả  lọc  ra  vùng  khác  thì  trong  hộp  thoại  Advanced Filter cần thực hiện ít nhất mấy khai báo",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. Trên 3"
+    ],
+    "correctAnswers": [
+      "C. 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Với chức  năng  Advanced  Filter  trong  MS-Excel,  muốn  xuất  kết  quả  lọc  sang  vùng khác thì cần tạo vùng chứa tên các tiêu đề cột xếp trên cùng 1 hàng và vùng này phải có",
+    "options": [
+      "A. Đủ các tiêu đề cột giống vùng dữ liệu nguồn",
+      "B. Thứ tự các tiêu đề cột giống vùng dữ liệu nguồn",
+      "C. Định dạng các tiêu đề cột giống vùng dữ liệu nguồn",
+      "D. Các tiêu đề cột xếp liền kề nhau"
+    ],
+    "correctAnswers": [
+      "D. Các tiêu đề cột xếp liền kề nhau"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Với chức năng Advanced Filter trong MS-Excel, muốn xuất kết quả lọc sang Worksheet khác thì chuẩn bị vùng xuất, tiêu chí lọc và thao tác kế tiếp là",
+    "options": [
+      "A. Đặt con trỏ ô trong vùng dữ liệu nguồn",
+      "B. Chọn vùng dữ liệu nguồn",
+      "C. Mở hộp thoại Advanced Filter",
+      "D. Kích hoạt Worksheet đích trước khi mở hộp thoại Advanced Filter"
+    ],
+    "correctAnswers": [
+      "D. Kích hoạt Worksheet đích trước khi mở hộp thoại Advanced Filter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Phát biểu nào sau đây là sai về Pivot Table trong MS-Excel",
+    "options": [
+      "A. Là công cụ dùng để tổng hợp, lọc, phân tích dữ liệu theo nhiều cách khác nhau",
+      "B. Thao tác tiện lợi, hầu hết chỉ là kéo thả và chọn",
+      "C. Có thể chèn vào 1 vùng trống của Worksheet chứa dữ liệu hoặc 1 Worksheet mới",
+      "D. Pivot Table chỉ tính tổng giá trị dữ liệu"
+    ],
+    "correctAnswers": [
+      "D. Pivot Table chỉ tính tổng giá trị dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Với MS-Excel, muốn tạo Pivot Table thì chọn lệnh từ tab",
+    "options": [
+      "A. Home",
+      "B. Insert",
+      "C. Formulas",
+      "D. Data"
+    ],
+    "correctAnswers": [
+      "B. Insert"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Với  MS-Excel,  có thể  bố  trí  các  tên  field  vào  mấy  khu  vực  trong  vùng  PivotTable Fields List để hình thành bố cục của Pivot Table",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. Trên 4"
+    ],
+    "correctAnswers": [
+      "C. 4"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Không thể tạo biểu đồ (Chart) trong MS-Excel bằng cách sử dụng",
+    "options": [
+      "A. Tab Insert",
+      "B. Trình đơn ngữ cảnh (Context Menu – Right-click để mở)",
+      "C. Phím F11",
+      "D. Tổ hợp phím Alt+F1"
+    ],
+    "correctAnswers": [
+      "B. Trình đơn ngữ cảnh (Context Menu – Right-click để mở)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Phát biểu nào sau đây là không đúng về biểu đồ (Chart) trong MS-Excel",
+    "options": [
+      "A. Là công cụ dùng để minh họa số liệu bằng hình vẽ",
+      "B. Dữ liệu để tạo mỗi biểu đồ phải được bố trí trong cùng 1 Worksheet",
+      "C. Có nhiều kiểu để giúp minh họa số liệu theo nhiều cách, hỗ trợ đắc lực cho các tình huống phân tích.",
+      "D. Có thể kết hợp nhiều kiểu biểu đồ trong cùng 1 khung hình"
+    ],
+    "correctAnswers": [
+      "B. Dữ liệu để tạo mỗi biểu đồ phải được bố trí trong cùng 1 Worksheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Với MS-Excel, muốn minh họa bằng hình ảnh cho số liệu dạng % thì có thể sử dụng biểu đồ (Chart) kiểu nào là hợp lý nhất",
+    "options": [
+      "A. Column",
+      "B. Area",
+      "C. Line",
+      "D. Pie"
+    ],
+    "correctAnswers": [
+      "D. Pie"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Với MS-Excel, khi biểu đồ (Chart) đã được tạo thì không thể",
+    "options": [
+      "A. Thay đổi phạm vi dữ liệu cho biểu đồ",
+      "B. Chuyển đổi kiểu biểu đồ",
+      "C. Chỉnh sửa bố cục của biểu đồ",
+      "D. Xóa biểu đồ bằng cách xóa dữ liệu"
+    ],
+    "correctAnswers": [
+      "D. Xóa biểu đồ bằng cách xóa dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Với MS-Excel, có thể chèn các dạng đối tượng đồ họa khi truy cập vào tab",
+    "options": [
+      "A. Home",
+      "B. Insert",
+      "C. Page Layout",
+      "D. View"
+    ],
+    "correctAnswers": [
+      "B. Insert"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Với MS-Excel, muốn sử dụng 1 file hình ảnh để làm nền cho worksheet hiện hành thì chọn nút Background từ tab",
+    "options": [
+      "A. Home",
+      "B. Insert",
+      "C. Page Layout",
+      "D. View"
+    ],
+    "correctAnswers": [
+      "C. Page Layout"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Với MS-Excel, không thể mở Selection Pane từ tab",
+    "options": [
+      "A. Home",
+      "B. Page Layout",
+      "C. View",
+      "D. Format"
+    ],
+    "correctAnswers": [
+      "C. View"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Selection Pane trong MS-Excel không hỗ trợ",
+    "options": [
+      "A. Chọn 1 hoặc nhiều đối tượng đồ họa",
+      "B. Cho ẩn / hiện các đối tượng đồ họa",
+      "C. Cho ẩn / hiện dữ liệu trong các ô",
+      "D. Chỉnh trật tự xếp chồng giữa các đối tượng đồ họa"
+    ],
+    "correctAnswers": [
+      "C. Cho ẩn / hiện dữ liệu trong các ô"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Với đối tượng Picture trong MS-Excel thì không thể tùy chỉnh",
+    "options": [
+      "A. Màu (color)",
+      "B. Độ trong suốt (Transparency)",
+      "C. Độ nét (sharpness)",
+      "D. Độ sáng (brightness)"
+    ],
+    "correctAnswers": [
+      "B. Độ trong suốt (Transparency)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Với đối tượng Picture trong MS-Excel thì không thể",
+    "options": [
+      "A. Xén bớt (crop) phạm vi",
+      "B. Làm trong suốt 1 số vùng màu",
+      "C. Áp dụng các hiệu ứng Artistic Effects, Shadow, Reflection, Glow, Soft Edges…",
+      "D. Làm khung chứa để nhập text"
+    ],
+    "correctAnswers": [
+      "D. Làm khung chứa để nhập text"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Với  MS-Excel,  tab  Format  sẽ có  nút  Remove  Background  khi  loại  đối  tượng  nào được chọn",
+    "options": [
+      "A. Chart",
+      "B. Shape",
+      "C. Text Box",
+      "D. Picture"
+    ],
+    "correctAnswers": [
+      "D. Picture"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Với MS-Excel, trường hợp nào sau đây không thể làm hình ảnh trong suốt 1 số vùng hoặc toàn bộ",
+    "options": [
+      "A. Sử dụng nút Remove Background",
+      "B. Sử dụng lệnh Set Transparent Color",
+      "C. Sử dụng hình ảnh làm nền cho worksheet",
+      "D. Sử dụng hình ảnh làm thuộc tính fill cho các shape"
+    ],
+    "correctAnswers": [
+      "C. Sử dụng hình ảnh làm nền cho worksheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: MS-Excel không cho sử dụng chức năng Edit Shape (thuộc tab Format) khi chọn loại shape nào sau đây",
+    "options": [
+      "A. Text Box",
+      "B. Các loại Connector (đường nối)",
+      "C. Các loại Brace, Bracket (ngoặc)",
+      "D. Các loại Shape khác"
+    ],
+    "correctAnswers": [
+      "B. Các loại Connector (đường nối)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Với  chức  năng  Edit  Shape  trong  MS-Excel,  ngoài  việc  trực  tiếp  chỉnh  dạng  Shape bằng lệnh Edit Points còn có thể",
+    "options": [
+      "A. Áp dụng hiệu ứng cho Shape",
+      "B. Chuyển đổi dạng Shape",
+      "C. Chuyển Shape thành Picture",
+      "D. Chuyển Shape thành SmartArt"
+    ],
+    "correctAnswers": [
+      "B. Chuyển đổi dạng Shape"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Khi sử dụng lệnh Edit Points để trực tiếp chỉnh dạng Shape trong MS-Excel, muốn bổ sung Point thì có thể click trên đường biên của Shape tại vị trí muốn bổ sung kết hợp với đè giữ phím",
+    "options": [
+      "A. Shift",
+      "B. Alt",
+      "C. Ctrl",
+      "D. Space bar"
+    ],
+    "correctAnswers": [
+      "C. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Khi sử dụng lệnh Edit Points để trực tiếp chỉnh dạng Shape  trong MS-Excel, muốn xóa Point thì có thể click tại Point này kết hợp với đè giữ phím",
+    "options": [
+      "A. Shift",
+      "B. Alt",
+      "C. Ctrl",
+      "D. Space bar"
+    ],
+    "correctAnswers": [
+      "C. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "text": "Câu 1: Với MS-Excel, có thể nhấn phím nào để hiện các Key Tips cho phép truy cập lệnh từ bàn phím",
+    "options": [
+      "A. F6",
+      "B. F8",
+      "C. F10",
+      "D. F12"
+    ],
+    "correctAnswers": [
+      "C. F10"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Theo xác lập ban đầu của MS-Excel, muốn thay đổi tỉ lệ zoom tài liệu thì có thể lăn bánh xe chuột kết hợp với đè giữ phím",
+    "options": [
+      "A. Ctrl",
+      "B. Alt",
+      "C. Shift",
+      "D. Esc"
+    ],
+    "correctAnswers": [
+      "A. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Với MS-Excel, muốn cho ẩn / hiện Ribbon thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Ctrl+F1",
+      "B. Shift+F1",
+      "C. Alt+F1",
+      "D. Ctrl+Shift+F1"
+    ],
+    "correctAnswers": [
+      "A. Ctrl+F1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Phát biểu nào sau đây là sai về thanh trạng thái (Status bar) trong MS-Excel",
+    "options": [
+      "A. Được bố trí ở cuối cửa sổ",
+      "B. Cung cấp các thông tin hữu ích về tài liệu",
+      "C. Có thể tùy chọn thông tin cần hiển thị từ danh sách liệt kê sẵn",
+      "D. Với mọi phiên bản MS-Word đều có thể tùy chọn cho ẩn / hiện Status bar"
+    ],
+    "correctAnswers": [
+      "D. Với mọi phiên bản MS-Word đều có thể tùy chọn cho ẩn / hiện Status bar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Với MS-Excel, thành phần nào sau đây có thể tùy chọn cho hiện / ẩn từ tab View mà không thể xác lập từ hộp thoại Excel Options",
+    "options": [
+      "A. Ruler",
+      "B. Formula Bar",
+      "C. Gridlines",
+      "D. Headings"
+    ],
+    "correctAnswers": [
+      "A. Ruler"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Trong hộp thoại Excel Options, có thể tùy chọn cho hiện / ẩn thành phần nào mà tab View không liệt kê",
+    "options": [
+      "A. Thanh nhập công thức (Formular Bar)",
+      "B. 2 thanh chứa tiêu đề cột và hàng (Headings)",
+      "C. Lưới phân cách các ô (Gridlines)",
+      "D. 2 Scroll bar"
+    ],
+    "correctAnswers": [
+      "D. 2 Scroll bar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Trong hộp thoại Excel Options, không thể tùy chọn",
+    "options": [
+      "A. Hướng di chuyển con trỏ ô khi nhấn phím Enter",
+      "B. Hướng di chuyển con trỏ ô khi nhấn phím Tab",
+      "C. Lăn bánh xe chuột để zoom tài liệu mà không cần kết hợp đè giữ phím",
+      "D. Bổ sung lệnh cho Ribbon và Quick Access Toolbar"
+    ],
+    "correctAnswers": [
+      "B. Hướng di chuyển con trỏ ô khi nhấn phím Tab"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Với MS-Excel, muốn bổ  sung  nút  chức năng vào  Quick  Access  Toolbar thì ngoài  việc thiết lập từ hộp thoại Excel Option còn có thể",
+    "options": [
+      "A. Thiết lập từ tab Insert",
+      "B. Thiết lập từ tab Review",
+      "C. Thiết lập từ tab View",
+      "D. Right-click vào nút này trên Ribbon rồi chọn lệnh Add to Quick Access Toolbar"
+    ],
+    "correctAnswers": [
+      "D. Right-click vào nút này trên Ribbon rồi chọn lệnh Add to Quick Access Toolbar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Với MS-Excel, muốn sắp xếp lại vị trí các nút chức năng trong Quick Access Toolbar thì có thể",
+    "options": [
+      "A. Đè giữ Ctrl + Drag nút này thả sang vị trí đích",
+      "B. Đè giữ Alt + Drag nút này thả sang vị trí đích",
+      "C. Đè giữ Shift + Drag nút này thả sang vị trí đích",
+      "D. Thực hiện trong hộp thoại Excel Options"
+    ],
+    "correctAnswers": [
+      "D. Thực hiện trong hộp thoại Excel Options"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Trong hộp thoại Excel Options, không thể tùy chọn",
+    "options": [
+      "A. Folder mặc định khi Open file lần đầu trong ca làm việc",
+      "B. Folder mặc định khi Save lần đầu",
+      "C. Dạng thức [format] file mặc định khi save",
+      "D. Tên file mặc định khi save lần đầu"
+    ],
+    "correctAnswers": [
+      "D. Tên file mặc định khi save lần đầu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Trong hộp thoại Excel Options, nếu  bật  hộp  kiểm “Save AutoRecover information…” thì sau mỗi khoảng thời gian được xác lập, chương trình sẽ tự động",
+    "options": [
+      "A. Save lại file hiện hành",
+      "B. Sao lưu thông tin của tài liệu vào 1 file dự phòng",
+      "C. Hiện thông báo nhắc save tài liệu",
+      "D. Phục hồi lại trạng thái của lần save trước đó cho tài liệu"
+    ],
+    "correctAnswers": [
+      "B. Sao lưu thông tin của tài liệu vào 1 file dự phòng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Với MS-Excel, ngoài thao tác double-click vào tên worksheet rồi khai báo lại còn có thể đổi tên cho worksheet bằng cách chọn lệnh Rename Sheet từ tab",
+    "options": [
+      "A. Home",
+      "B. Data",
+      "C. Review",
+      "D. View"
+    ],
+    "correctAnswers": [
+      "A. Home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Với 1 tài liệu MS-Excel, không thể",
+    "options": [
+      "A. Bổ sung thêm worksheet",
+      "B. Di chuyển hoặc nhân bản worksheet",
+      "C. Cho ẩn (Hide) worksheet",
+      "D. Xóa worksheet duy nhất còn hiện"
+    ],
+    "correctAnswers": [
+      "D. Xóa worksheet duy nhất còn hiện"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Với MS-Excel, muốn nhân bản worksheet thì có thể drag Sheet Tab thả đến vị trí đích kết hợp với đè giữ phím",
+    "options": [
+      "A. Alt",
+      "B. Shift",
+      "C. Ctrl",
+      "D. Space bar"
+    ],
+    "correctAnswers": [
+      "C. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Với 1 tài liệu MS-Excel, có thể xóa Worksheet",
+    "options": [
+      "A. Duy nhất còn lại",
+      "B. Duy nhất còn hiện",
+      "C. Đang ẩn (Hide)",
+      "D. Đang được bảo vệ (Protect)"
+    ],
+    "correctAnswers": [
+      "D. Đang được bảo vệ (Protect)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Với MS-Excel, muốn tạo tài liệu mới thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Alt+N",
+      "B. Ctrl+N",
+      "C. Shift+N",
+      "D. Ctrl+Shif+N"
+    ],
+    "correctAnswers": [
+      "B. Ctrl+N"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Với MS-Excel, thao tác nào sau đây không thể tạo tài liệu mới",
+    "options": [
+      "A. Chọn File > New",
+      "B. Lần lượt nhấn các phím F10,F,N,L",
+      "C. Lần lượt nhấn các phím Alt,F,N,L",
+      "D. Lần lượt nhấn các phím Ctrl,F,N,L"
+    ],
+    "correctAnswers": [
+      "D. Lần lượt nhấn các phím Ctrl,F,N,L"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Với MS-Excel, lệnh File > Open",
+    "options": [
+      "A. Không mở được file có dạng thức .xlsx",
+      "B. Chỉ mở được file có dạng thức .xlsx",
+      "C. Mở được file có dạng thức .xlsx và những dạng thức tương thích khác",
+      "D. Mở được tất cả dạng thức file"
+    ],
+    "correctAnswers": [
+      "C. Mở được file có dạng thức .xlsx và những dạng thức tương thích khác"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Nhóm nào dưới đây có dạng thức file mà MS-Excel chưa save được",
+    "options": [
+      "A. xls, xlsx, xlsm",
+      "B. xlt, xltx, xltm",
+      "C. txt, ppt, pdf",
+      "D. htm, mht, prn"
+    ],
+    "correctAnswers": [
+      "C. txt, ppt, pdf"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Dạng thức nào dưới đây mà khi save, MS-Excel sẽ tạo đính kèm 1 folder dữ liệu",
+    "options": [
+      "A. xlsm",
+      "B. htm",
+      "C. mht",
+      "D. pdf"
+    ],
+    "correctAnswers": [
+      "B. htm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: MS-Excel có thể save thành 1 file .xlsx cho",
+    "options": [
+      "A. Toàn bộ workbook",
+      "B. Phạm vi ô được chọn",
+      "C. Worksheet được chọn",
+      "D. 1 số worksheet được chọn"
+    ],
+    "correctAnswers": [
+      "A. Toàn bộ workbook"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Với những phiên bản save được tài liệu MS-Excel theo dạng thức pdf, khi chọn nút lệnh Options từ hộp thoại Save As vẫn chưa có tùy chọn lưu thành 1 file pdf cho",
+    "options": [
+      "A. Phạm vi ô được chọn",
+      "B. Các Objects được chọn",
+      "C. Toàn bộ dữ liệu trong worksheet hiện hành",
+      "D. Toàn bộ dữ liệu trong workbook"
+    ],
+    "correctAnswers": [
+      "B. Các Objects được chọn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Khi save tài liệu MS-Excel theo dạng thức .xlsx, danh sách Tools trong hộp thoại Save As liệt kê bao nhiêu mục chọn",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. Trên 3"
+    ],
+    "correctAnswers": [
+      "D. Trên 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Với MS-Excel, muốn chức năng Lock Cell có hiệu lực thì",
+    "options": [
+      "A. Không cần điều kiện gì",
+      "B. Phải Save tài liệu thành file .xlsx",
+      "C. Phải Protect Workbook",
+      "D. Phải Protect Sheet"
+    ],
+    "correctAnswers": [
+      "D. Phải Protect Sheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Với MS-Excel, không thể thiết lập chức năng Protect Sheet khi truy cập tab",
+    "options": [
+      "A. File",
+      "B. Home",
+      "C. Review",
+      "D. View"
+    ],
+    "correctAnswers": [
+      "D. View"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Với MS-Excel, muốn sử dụng chức năng in tài liệu thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Ctrl+I",
+      "B. Ctrl+P",
+      "C. Alt+I",
+      "D. Alt+P"
+    ],
+    "correctAnswers": [
+      "B. Ctrl+P"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Khi sử dụng chức năng in tài liệu MS-Excel, không thể tùy chọn",
+    "options": [
+      "A. Chỉ in trong phạm vi ô được chọn",
+      "B. Chỉ in hình ảnh và các object được chọn",
+      "C. In toàn bộ dữ liệu trong worksheet hiện hành",
+      "D. In toàn bộ dữ liệu trong workbook"
+    ],
+    "correctAnswers": [
+      "B. Chỉ in hình ảnh và các object được chọn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Khi sử dụng chức năng in tài liệu MS-Excel, không có tùy chọn",
+    "options": [
+      "A. Kích cỡ (size) và lề (margins) trang in",
+      "B. In các đường phân cách ô (gridlines) và thanh chứa tiêu đề cột và hàng (Headings)",
+      "C. In thanh nhập công thức (Formular Bar)",
+      "D. Số bản in (copies)"
+    ],
+    "correctAnswers": [
+      "C. In thanh nhập công thức (Formular Bar)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Với MS-Excel, muốn đóng tài liệu thì không thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Ctrl+W",
+      "B. Ctrl+F4",
+      "C. Alt+W",
+      "D. Alt+F4"
+    ],
+    "correctAnswers": [
+      "C. Alt+W"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Với MS-Excel, phát biểu nào sau đây là sai",
+    "options": [
+      "A. Các ký số trong dãy số tự nhiên 1,2,3… được sử dụng để ghi thứ tự hàng trong thanh Row-header",
+      "B. Các ký số trong dãy số tự nhiên 1,2,3… có thể ghi thứ tự cột trong thanh Column- header",
+      "C. Các chữ cái tiếng Anh như A, B, C, D, E, F… được sử dụng để ghi thứ tự cột trong thanh Column-header",
+      "D. Các chữ cái tiếng Anh như A, B, C, D, E, F… có thể ghi thứ tự hàng trong thanh Row-header"
+    ],
+    "correctAnswers": [
+      "D. Các chữ cái tiếng Anh như A, B, C, D, E, F… có thể ghi thứ tự hàng trong thanh Row-header"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Theo xác lập ban đầu của MS-Excel, trường hợp nào sau đây không thể di chuyển con trỏ ô sang ô liền kề theo chiều ngang",
+    "options": [
+      "A. Click tại ô này",
+      "B. Nhấn phím mũi tên phải – trái (Right Arrow , Left Arrow )",
+      "C. Nhấn Tab hoặc Shift+Tab",
+      "D. Nhấn Enter hoặc Shift+Enter"
+    ],
+    "correctAnswers": [
+      "D. Nhấn Enter hoặc Shift+Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Theo xác lập ban đầu của MS-Excel, trường hợp nào sau đây không thể di chuyển con trỏ ô sang ô liền kề theo chiều dọc",
+    "options": [
+      "A. Click tại ô này",
+      "B. Nhấn phím mũi tên xuống – lên (Down Arrow , Up Arrow )",
+      "C. Nhấn Tab hoặc Shift+Tab",
+      "D. Nhấn Enter hoặc Shift+Enter"
+    ],
+    "correctAnswers": [
+      "C. Nhấn Tab hoặc Shift+Tab"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Với MS-Excel, không thể tùy chọn để khi nhấn phím Enter thì con trỏ ô",
+    "options": [
+      "A. Không di chuyển",
+      "B. Di chuyển sang ô liền kề bên trên",
+      "C. Di chuyển sang ô liền kề bên trái",
+      "D. Di chuyển sang ô liền kề bên phải"
+    ],
+    "correctAnswers": [
+      "A. Không di chuyển"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Với MS-Excel, phím PageUp và PageDown có tác dụng di chuyển con trỏ ô",
+    "options": [
+      "A. Lên hoặc xuống một trang in",
+      "B. Lên hoặc xuống 1 màn hình hiển thị",
+      "C. Đến biên trên và biên dưới trang in",
+      "D. Đến worksheet kế tiếp và quay trở lại"
+    ],
+    "correctAnswers": [
+      "B. Lên hoặc xuống 1 màn hình hiển thị"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Với MS-Excel, muốn di chuyển con trỏ ô đến ô đầu của worksheet thì có thể sử dụng phím",
+    "options": [
+      "A. Home",
+      "B. Ctrl+Home",
+      "C. Alt+Home",
+      "D. Shift+Home"
+    ],
+    "correctAnswers": [
+      "B. Ctrl+Home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Với MS-Excel, muốn di chuyển con trỏ ô đến ô đầu của hàng thì có thể sử dụng phím",
+    "options": [
+      "A. Home",
+      "B. Shift + mũi tên sang trái",
+      "C. Alt + mũi tên sang trái",
+      "D. Ctrl+Alt + mũi tên sang trái"
+    ],
+    "correctAnswers": [
+      "A. Home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Với MS-Excel, muốn di chuyển nhanh con trỏ ô đến ô rìa của các khu vực chứa dữ liệu (nếu không còn dữ liệu thì sẽ đến các biên của worksheet) thì có thể sử dụng",
+    "options": [
+      "A. Phím mũi tên",
+      "B. Ctrl + phím mũi tên",
+      "C. Shift + phím mũi tên",
+      "D. Alt + phím mũi tên"
+    ],
+    "correctAnswers": [
+      "B. Ctrl + phím mũi tên"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Với MS-Excel, muốn di chuyển nhanh con trỏ ô đến ô giao giữa hàng và cột cuối cùng của worksheet đang hoặc đã từng có có dữ liệu trong ca làm việc hiện hành thì có thể sử dụng phím",
+    "options": [
+      "A. End",
+      "B. Ctrl+End",
+      "C. Shift+End",
+      "D. Alt+End"
+    ],
+    "correctAnswers": [
+      "B. Ctrl+End"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Trong  1  tài  liệu  MS-Excel  có  nhiều  worksheet,  muốn  di  chuyển  qua  lại  giữa  các worksheet thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. PageUp hoặc PageDown",
+      "B. Shift+PageUp hoặc Shift+PageDown",
+      "C. Alt+PageUp hoặc Alt+PageDown",
+      "D. Ctrl+PageUp hoặc Ctrl+PageDown"
+    ],
+    "correctAnswers": [
+      "D. Ctrl+PageUp hoặc Ctrl+PageDown"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Với MS-Excel, muốn chọn toàn bộ các ô trong worksheet thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Alt+A",
+      "B. Ctrl+A",
+      "C. Shift+A",
+      "D. Ctrl+Shift+A"
+    ],
+    "correctAnswers": [
+      "B. Ctrl+A"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Với MS-Excel, muốn chọn toàn bộ các ô cùng cột với 1 hoặc nhiều ô đang được chọn thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Ctrl + Space bar",
+      "B. Shift + Space bar",
+      "C. Alt + Space bar",
+      "D. Ctrl + Alt + Space bar"
+    ],
+    "correctAnswers": [
+      "A. Ctrl + Space bar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Với MS-Excel,  muốn  chọn toàn  bộ  các  ô  cùng  hàng  với 1 hoặc  nhiều  ô  đang được chọn thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Ctrl + Space bar",
+      "B. Shift + Space bar",
+      "C. Alt + Space bar",
+      "D. Ctrl + Alt + Space bar"
+    ],
+    "correctAnswers": [
+      "B. Shift + Space bar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Với MS-Excel, muốn chọn 1 số ô liền kề có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Alt + Phím mũi tên",
+      "B. Ctrl + phím mũi tên",
+      "C. Shift + Phím mũi tên",
+      "D. Ctrl + Alt + Phím mũi tên"
+    ],
+    "correctAnswers": [
+      "C. Shift + Phím mũi tên"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Theo xác lập ban đầu của  MS-Excel, muốn điền dữ liệu nhập từ Formula Bar vào ô hiện hành và chuyển con trỏ ô sang ô liền kề bên dưới thì có thể sử dụng phím",
+    "options": [
+      "A. Enter",
+      "B. Shift+Enter",
+      "C. Tab",
+      "D. Shift+Tab"
+    ],
+    "correctAnswers": [
+      "A. Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Theo xác lập ban đầu của  MS-Excel, muốn điền dữ liệu nhập từ Formula Bar vào ô hiện hành và chuyển con trỏ ô sang ô liền kề bên trên thì có thể sử dụng phím",
+    "options": [
+      "A. Enter",
+      "B. Shift+Enter",
+      "C. Tab",
+      "D. Shift+Tab"
+    ],
+    "correctAnswers": [
+      "B. Shift+Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Theo xác lập ban đầu của  MS-Excel, muốn điền dữ liệu nhập từ Formula Bar vào ô hiện hành và chuyển con trỏ ô sang ô liền kề bên phải thì có thể sử dụng phím",
+    "options": [
+      "A. Enter",
+      "B. Shift+Enter",
+      "C. Tab",
+      "D. Shift+Tab"
+    ],
+    "correctAnswers": [
+      "C. Tab"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Theo xác lập ban đầu của  MS-Excel, muốn điền dữ liệu nhập từ Formula Bar vào ô hiện hành và chuyển con trỏ ô sang ô liền kề bên trái thì có thể sử dụng phím",
+    "options": [
+      "A. Enter",
+      "B. Shift+Enter",
+      "C. Tab",
+      "D. Shift+Tab"
+    ],
+    "correctAnswers": [
+      "D. Shift+Tab"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Với MS-Excel, muốn điền dữ liệu nhập từ Formula Bar vào ô hiện hành và con trỏ ô không chuyển sang ô lân cận thì nhấn",
+    "options": [
+      "A. Enter",
+      "B. Shift+Enter",
+      "C. Alt+Enter",
+      "D. Ctrl+Enter"
+    ],
+    "correctAnswers": [
+      "D. Ctrl+Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Với MS-Excel, muốn dữ liệu nhập được điền cùng lúc cho nhiều ô đang chọn thì nhấn",
+    "options": [
+      "A. Enter",
+      "B. Shift+Enter",
+      "C. Alt+Enter",
+      "D. Ctrl+Enter"
+    ],
+    "correctAnswers": [
+      "D. Ctrl+Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Với MS-Excel, nếu muốn ngắt dòng trong cùng 1 ô khi nhập dữ liệu chuỗi thì nhấn",
+    "options": [
+      "A. Enter",
+      "B. Shift+Enter",
+      "C. Alt+Enter",
+      "D. Ctrl+Enter"
+    ],
+    "correctAnswers": [
+      "C. Alt+Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 51: Thiết bị nào là máy tính dễ dàng di chuyển gồm một phần cứng duy nhất có màn hình cảm ứng hoặc đa cảm ứng thay vì sử dụng một bàn phím riêng biệt?",
+    "options": [
+      "A. Máy tính xách tay",
+      "B. Điện thoại thông minh",
+      "C. Máy tính bảng",
+      "D. Notebook"
+    ],
+    "correctAnswers": [
+      "C. Máy tính bảng"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 1.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 52: Phát biểu nào sau đây về công cụ tìm kiếm (search engine) trên internet?",
+    "options": [
+      "A. Nó là một chương trình nằm trên máy tính của bạn",
+      "B. Tất cả các trang hiện có trên web đều chứa csdl của công cụ tìm kiếm",
+      "C. Nó là 1 trang internet cho phép thực hiện việc tìm kiếm của web",
+      "D. Công cụ tìm kiếm cho phép người dùng tùy chọn các chức năng nâng cao để tinh chỉnh việc tìm kiếm"
+    ],
+    "correctAnswers": [
+      "D. Công cụ tìm kiếm cho phép người dùng tùy chọn các chức năng nâng cao để tinh chỉnh việc tìm kiếm"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 6.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 53: Trong Microsoft Word 2010, cách nào sau đây dùng để viết (bỏ) chữ chỉ số trên?",
+    "options": [
+      "A. Bấm tổ hợp phím CTRL+SHIFT +”=”",
+      "B. Bấm tổ hợp phím ALT và F8",
+      "C. Bấm tổ hợp phím SHIFT +”=”",
+      "D. Bấm tổ hợp phím CTRL +”T”"
+    ],
+    "correctAnswers": [
+      "A. Bấm tổ hợp phím CTRL+SHIFT +”=”"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 4.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 54: Trong Microsoft Word 2010, thanh Quick Access Toolbar có tác dụng gì?",
+    "options": [
+      "A. Giúp người dùng có thể thao tác một vài chức năng nhanh chóng và tức thời",
+      "B. Chỉ dùng để chèn hình ảnh vào văn bản",
+      "C. Dùng để thoát nhanh Microsoft Word",
+      "D. Chỉ dùng để xoá nội dung văn bản nhanh hơn"
+    ],
+    "correctAnswers": [
+      "A. Giúp người dùng có thể thao tác một vài chức năng nhanh chóng và tức thời"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 4.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 55: Bạn vừa mua một bộ định tuyến không dây mới và muốn tăng cường an ninh. Lựa chọn nào sau đây cung cấp mức độ bảo mật cao nhất?",
+    "options": [
+      "A. WPA",
+      "B. TCP / IP",
+      "C. WPA2",
+      "D. WEP"
+    ],
+    "correctAnswers": [
+      "C. WPA2"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 3.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 56: Những máy tính và thiết bị di động làm việc trên một mạng dựa vào máy chủ (server) cho nguồn tài nguyên của nó",
+    "options": [
+      "A. Latency (thời gian đợi)",
+      "B. SMS",
+      "C. Clients.",
+      "D. WiMAX"
+    ],
+    "correctAnswers": [
+      "C. Clients."
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 2.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 57: Lệnh nào sau đây được sử dụng để hiển thị tất cả các cấu hình IP trên một hệ thống Windows?",
+    "options": [
+      "A. Ipconfig",
+      "B. Tracert",
+      "C. Ipconfig / all",
+      "D. Ping"
+    ],
+    "correctAnswers": [
+      "C. Ipconfig / all"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 4.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 58: Làm thế nào bạn có thể tăng dung lượng không gian trống trên đĩa cứng của máy tính?",
+    "options": [
+      "A. Cài đặt chương trình chống virus",
+      "B. Xóa bớt các tập tin lớn",
+      "C. Chạy chương trình disk cleanup",
+      "D. Định dạng(format) lại các ổ đĩa"
+    ],
+    "correctAnswers": [
+      "B. Xóa bớt các tập tin lớn"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 6.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 59: Trong Microsoft office 2010, ba nút mặc định trên Quick Access Toolbar trước khi bạn tùy biến là?",
+    "options": [
+      "A. Undo, Redo, Save",
+      "B. Print, Undo, Redo",
+      "C. New, Redo, Save",
+      "D. Open, Undo, Save"
+    ],
+    "correctAnswers": [
+      "A. Undo, Redo, Save"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 1.txt",
+    "used": true
+  },
+  {
+    "text": "Câu 60: Dùng toán tử tìm kiếm “tên site:” để làm gì?",
+    "options": [
+      "A. Có kết quả về một chủ đề nhất định",
+      "B. Có kết quả từ một trang web hoặc tên miền nhất định",
+      "C. Không bao gồm các kết quả từ một trang web hoặc tên miền nhất định",
+      "D. Giúp bạn tìm thấy giá trên một tên miền nhất định"
+    ],
+    "correctAnswers": [
+      "B. Có kết quả từ một trang web hoặc tên miền nhất định"
+    ],
+    "explanation": "",
+    "courseType": "B",
+    "sourceFile": "Quiz - Trắc nghiệm tin A - Đề 4.txt",
+    "used": true
+  }
+]

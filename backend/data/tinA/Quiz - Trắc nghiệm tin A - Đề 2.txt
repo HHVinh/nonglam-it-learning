@@ -1,0 +1,842 @@
+[
+  {
+    "text": "Câu 1: Phát biểu nào sau đây là sai trong Microsoft Excel 2010:",
+    "options": [
+      "A. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu luận lý (true/false) canh giữa",
+      "B. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu text canh thẳng lề trái",
+      "C. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu số sẽ căn thẳng lề trái",
+      "D. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu Date/Time canh lề phải"
+    ],
+    "correctAnswers": [
+      "C. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu số sẽ căn thẳng lề trái"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Tại sao bạn đổi tên một trang tính (bảng tính)?",
+    "options": [
+      "A. Để giúp xác định trang tính này như một Sổ tính 2010",
+      "B. Để trợ giúp cho việc xác định các nội dung",
+      "C. Để cho phù hợp với tên của sổ tính",
+      "D. Để có thể thêm một màu sắc cho bảng tính tiếp sau nó"
+    ],
+    "correctAnswers": [
+      "B. Để trợ giúp cho việc xác định các nội dung"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Thành phần bên trong nào thực hiện các tính toán và các phép toán logic?",
+    "options": [
+      "A. Bo mạch chủ",
+      "B. Bộ vi xử lý",
+      "C. Các chip RAM",
+      "D. ROM –BIOS"
+    ],
+    "correctAnswers": [
+      "B. Bộ vi xử lý"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Một phần tỷ của một giây",
+    "options": [
+      "A. Bus mở rộng",
+      "B. Card âm thanh",
+      "C. Đơn vị kiểm soát",
+      "D. Một nano giây (ns) ."
+    ],
+    "correctAnswers": [
+      "D. Một nano giây (ns) ."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Tên của bộ công cụ và lệnh dọc theo phía trên của Word 2010 được gọi là gì?",
+    "options": [
+      "A. Ribbon",
+      "B. Command tab",
+      "C. Microsoft Office Strip",
+      "D. Chipboard"
+    ],
+    "correctAnswers": [
+      "A. Ribbon"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Nhanh hơn 10 lần so với USB 2.0",
+    "options": [
+      "A. Unicode",
+      "B. Byte.",
+      "C. Bay",
+      "D. USB 3.0"
+    ],
+    "correctAnswers": [
+      "D. USB 3.0"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Nếu bạn thường xuyên ghé thăm một vài trang web, bạn có thể thực hiện điều gì sau?",
+    "options": [
+      "A. Đánh dấu mỗi trang",
+      "B. Xóa mỗi trang từ thư mục History để nó sẽ trở nên kích hoạt",
+      "C. Định nghĩa mỗi trang thành trang chủ của trình duyệt.",
+      "D. Cài điều khiển ActiveX cho mỗi trang"
+    ],
+    "correctAnswers": [
+      "A. Đánh dấu mỗi trang"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: RAM viết tắt của cụm từ nào dưới đây?",
+    "options": [
+      "A. Random Output Measure",
+      "B. Random Access Memory",
+      "C. Resources of Memory",
+      "D. StoRage of Memory"
+    ],
+    "correctAnswers": [
+      "B. Random Access Memory"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Những thiết bị nào sau đây được xem là thiết bị xuất?",
+    "options": [
+      "A. Microphone",
+      "B. Bàn phím",
+      "C. Webcam",
+      "D. Màn hình"
+    ],
+    "correctAnswers": [
+      "D. Màn hình"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Phát biểu nào là đúng đối với các địa chỉ email",
+    "options": [
+      "A. Các địa chỉ email được tạo thành bởi hai phần chính: tên người dùng và tên miền. Cả hai phần được phân cách bởi ký hiệu #",
+      "B. Tên người dùng của địa chỉ email được cấp bởi nhà cung cấp (supplier)",
+      "C. Có thể có tên người dùng giống nhau trong cùng một tên miền",
+      "D. Các địa chỉ email được tạo thành bởi hai phần chính: tên người dùng và tên miền. Cả hai phần được phân cách bởi ký hiệu @"
+    ],
+    "correctAnswers": [
+      "D. Các địa chỉ email được tạo thành bởi hai phần chính: tên người dùng và tên miền. Cả hai phần được phân cách bởi ký hiệu @"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Phím nào được dùng kết hợp trong khi chọn các đoạn văn bản không liền kề nhau?",
+    "options": [
+      "A. Shift",
+      "B. Alt",
+      "C. Fn",
+      "D. Ctrl"
+    ],
+    "correctAnswers": [
+      "D. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Một truy vấn thêm, xóa hoặc cập nhật dữ liệu được gọi là?",
+    "options": [
+      "A. Select query",
+      "B. Action query",
+      "C. Total query",
+      "D. Parameter query"
+    ],
+    "correctAnswers": [
+      "B. Action query"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Một siêu liên kết (hyperlink) là gì?",
+    "options": [
+      "A. Một tham chiếu tới dữ liệu có thể được truy cập bằng cách nhấp chuột vào nó",
+      "B. Địa chỉ của một website hoặc một trang web trên WWW",
+      "C. Địa chỉ mạng của một trang web",
+      "D. Đoạn văn bản hiển thị trong một màu sắc khác nhau bởi các trình duyệt web"
+    ],
+    "correctAnswers": [
+      "A. Một tham chiếu tới dữ liệu có thể được truy cập bằng cách nhấp chuột vào nó"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Phần mở rộng của file tài liệu với chương trình ứng dụng Microsoft Word 2010 là:",
+    "options": [
+      "A. Txt",
+      "B. Docx",
+      "C. Xlsx",
+      "D. Pptx"
+    ],
+    "correctAnswers": [
+      "B. Docx"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Quan hệ giữa bit và byte như thế nào là đúng",
+    "options": [
+      "A. 1 byte = 8 bit",
+      "B. 1 bit = 2 bytes",
+      "C. 1 bit = 24 byte",
+      "D. 1 bit = 8 bytes"
+    ],
+    "correctAnswers": [
+      "A. 1 byte = 8 bit"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Thay đổi màn hình nền desktop trong nhóm nào sau trong Control Panel?",
+    "options": [
+      "A. User Accounts",
+      "B. Appearance and Personalization",
+      "C. Network and Internet",
+      "D. Clock, Language, and Region"
+    ],
+    "correctAnswers": [
+      "B. Appearance and Personalization"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Một tập hợp các điều kiện mà một bộ lọc dùng để xác định các bản ghi để hiển thị gọi là?",
+    "options": [
+      "A. Truy vấn Query",
+      "B. Datasheet",
+      "C. Điều kiện (tiêu chuẩn)-Criteria",
+      "D. Điều kiện cho trước"
+    ],
+    "correctAnswers": [
+      "C. Điều kiện (tiêu chuẩn)-Criteria"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Sau khi chọn 1 mẫu Template được định nghĩa trước, tùy chọn nào sao đây để thay đổi màu nền?",
+    "options": [
+      "A. Design Effect",
+      "B. Animation Scheme",
+      "C. Design Template",
+      "D. Color Effect hoặc Color Scheme"
+    ],
+    "correctAnswers": [
+      "D. Color Effect hoặc Color Scheme"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Nhanh hơn các nhiệm vụ chuyển dữ liệu, mà kết quả trong các chương trình chạy nhanh hơn.",
+    "options": [
+      "A. Tốc độ đồng hồ",
+      "B. FireWire trung tâm.",
+      "C. Bus tốc độ cao.",
+      "D. Cung cấp điện"
+    ],
+    "correctAnswers": [
+      "C. Bus tốc độ cao."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Phương pháp nào nhanh nhất cho phép bạn xem hai hay nhiều website trên trình duyệt.",
+    "options": [
+      "A. Thiết lập một màn hình riêng rẽ để mở một cửa sổ mới.",
+      "B. Mở một thẻ mới và nhập địa chỉ của website",
+      "C. Nhập địa chỉ mới của website vào thanh đ/c trên trang hiện tại",
+      "D. Bắt đầu một phiên làm việc khác trên trình duyệt"
+    ],
+    "correctAnswers": [
+      "B. Mở một thẻ mới và nhập địa chỉ của website"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Thiết bị kết nối với hệ thống và được điều khiển bởi bộ vi xử lý trong máy tính.",
+    "options": [
+      "A. Ngoại vi.",
+      "B. Khoang ổ đĩa",
+      "C. Firmware.",
+      "D. RAM"
+    ],
+    "correctAnswers": [
+      "A. Ngoại vi."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Tại sao bạn có thể muốn thiết lập một trang web như là một trang ưa thích(favorite)?",
+    "options": [
+      "A. Để đánh dấu địa chỉ website giúp bạn nhanh chóng truy cập vào trang này bất cứ lúc nào",
+      "B. Để ghi lại nội dung trang web trong lịch sử web",
+      "C. Để tự động thêm trang web vào danh sách ứng dụng truyền thông xã hội ưa thích của bạn",
+      "D. Để đánh dấu các trang web như trang chủ sẽ xuất hiện khi bạn khởi động trình duyệt"
+    ],
+    "correctAnswers": [
+      "A. Để đánh dấu địa chỉ website giúp bạn nhanh chóng truy cập vào trang này bất cứ lúc nào"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Phương pháp xử lý có sử dụng nhiều bộ xử lý đồng thời để thực hiện một chương trình duy nhất hoặc nhiệm vụ, để tăng tốc độ thời gian xử lý.",
+    "options": [
+      "A. Cổng nối tiếp",
+      "B. Xử lý",
+      "C. Xử lý song song",
+      "D. Xử lý lõi kép"
+    ],
+    "correctAnswers": [
+      "C. Xử lý song song"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Tên của các tính năng mà bạn có thể sử dụng để quản lý các tập tin trong bộ Office?",
+    "options": [
+      "A. Windows Explorer",
+      "B. Choose File",
+      "C. Backstage View",
+      "D. Office File Manager"
+    ],
+    "correctAnswers": [
+      "C. Backstage View"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Những loại máy tính nào sau đây có phần cứng rất mạnh và được sử dụng để cung cấp các dịch vụ chuyên nghiệp cho các máy tính khác trên mạng?",
+    "options": [
+      "A. Máy Tính Xách Tay",
+      "B. Điện thoại thông minh",
+      "C. Máy tính bảng",
+      "D. Máy chủ"
+    ],
+    "correctAnswers": [
+      "D. Máy chủ"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Những phát biểu nào là Đúng khi nói về tùy chọn Change trong công cụ Uninstall a program",
+    "options": [
+      "A. Khi chỉnh sửa một chương trình, nó trở thành chương trình nguyên bản trong Windows 7",
+      "B. Tất cả các chương trình hiển thị trong cửa sổ chương trình hoặc các đặc tính của chúng có thể thay đổi hoặc sửa chữa",
+      "C. Thay đổi một chương trình bao gồm các tùy chọn cài đặt và gỡ bỏ của một ứng dụng",
+      "D. Khi thay đổi một chương trình, nó không xuất hiện trong cửa sổ danh sách các chương trình"
+    ],
+    "correctAnswers": [
+      "C. Thay đổi một chương trình bao gồm các tùy chọn cài đặt và gỡ bỏ của một ứng dụng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Sử dụng …….. trước một từ để báo với các công cụ tìm kiếm loại trừ tất cả các trang có chứa từ đó",
+    "options": [
+      "A. Từ Without",
+      "B. Dấu trừ -",
+      "C. Dấu ngoặc đơn ()",
+      "D. Dấu ngoặc móc {}"
+    ],
+    "correctAnswers": [
+      "B. Dấu trừ -"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Phỉ báng khác với vu khống như thế nào?",
+    "options": [
+      "A. Không có sự khác biệt.",
+      "B. Vu khống chỉ xảy ra khi có những điều nói sai bằng lời nói trong khi đó phỉ báng là bằng văn bản.",
+      "C. Phỉ báng chỉ áp dụng khi nói về những người nổi tiếng.",
+      "D. Kết quả của việc vu khống bị phạt tiền nhiều hơn."
+    ],
+    "correctAnswers": [
+      "B. Vu khống chỉ xảy ra khi có những điều nói sai bằng lời nói trong khi đó phỉ báng là bằng văn bản."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Phần mềm Microsoft Excel là:",
+    "options": [
+      "A. Phần mềm soạn thảo văn bản",
+      "B. Phần mềm quản lý cơ sở dữ liệu quan hệ",
+      "C. Phần mềm xử lý bảng thực hiện tính toán và xây dựng các số liệu thống kê trực quan có trong bảng",
+      "D. Phần mềm chỉnh sửa hình ảnh"
+    ],
+    "correctAnswers": [
+      "C. Phần mềm xử lý bảng thực hiện tính toán và xây dựng các số liệu thống kê trực quan có trong bảng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Phím nào dưới đây để thực hiện việc kiểm tra chính tả (Spelling)?",
+    "options": [
+      "A. F5",
+      "B. F3",
+      "C. F9",
+      "D. F7"
+    ],
+    "correctAnswers": [
+      "D. F7"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Phần mở rộng nào sau đây không liên quan đến tập tin bảng tính mà Microsoft Excel 2010 có thể xử lý và lưu trữ:",
+    "options": [
+      "A. BMP",
+      "B. XLS",
+      "C. XLA",
+      "D. XLSX"
+    ],
+    "correctAnswers": [
+      "A. BMP"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Những vùng dữ liệu nào được tự động điền vào của các chương trình email hoặc dịch vụ khi gửi một email?",
+    "options": [
+      "A. To/From",
+      "B. Date/From",
+      "C. Subject/Date",
+      "D. From/Subject"
+    ],
+    "correctAnswers": [
+      "B. Date/From"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Safe Mode là gì?",
+    "options": [
+      "A. Giao thức mạng",
+      "B. Thông báo lỗi trên Windows",
+      "C. Quá trình cập nhật firmware trên một thiết bị phần cứng",
+      "D. Một cách khác để khởi động lại Windows mà chỉ nạp những yếu tố cần thiết nhất cho các chức năng cơ bản của Windows."
+    ],
+    "correctAnswers": [
+      "D. Một cách khác để khởi động lại Windows mà chỉ nạp những yếu tố cần thiết nhất cho các chức năng cơ bản của Windows."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Những đơn vị đo lường nào sau đây bạn sử dụng để đo dung lượng lưu trữ trên một đĩa cứng?",
+    "options": [
+      "A. Số lượng lõi",
+      "B. GHz",
+      "C. GB",
+      "D. SSD"
+    ],
+    "correctAnswers": [
+      "C. GB"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Phát biểu nào là đúng khi nói đến CPU",
+    "options": [
+      "A. CPU là viết tắt của Processing Unit",
+      "B. CPU thường được tích hợp với một chip gọi là vi xử lý",
+      "C. CPU nhắm đền phần mềm người sử dụng",
+      "D. CPU được tạo bởi bộ nhớ RAM và ROM"
+    ],
+    "correctAnswers": [
+      "B. CPU thường được tích hợp với một chip gọi là vi xử lý"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Một phần của bus mà truyền dữ liệu thực tế.",
+    "options": [
+      "A. Khoang ổ đĩa",
+      "B. Bus dữ liệu",
+      "C. Địa chỉ bus",
+      "D. PCI bus"
+    ],
+    "correctAnswers": [
+      "B. Bus dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Tại sao bạn muốn tùy chỉnh một phong cách trình bày dấu hoa thị (bullet style) cho một danh sách?",
+    "options": [
+      "A. Để thay đổi phong cách danh sách từ đánh số sang dấu hoa thị",
+      "B. Để thụt lề trái cho danh sách",
+      "C. Để thay đổi phong cách danh sách từ dấu hoa thị thành đánh số",
+      "D. Để tạo ra một hình thức trình bày khác cho tài liệu"
+    ],
+    "correctAnswers": [
+      "D. Để tạo ra một hình thức trình bày khác cho tài liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Người và máy tính giao tiếp với nhau thông qua",
+    "options": [
+      "A. Bàn phím.",
+      "B. Đĩa cứng.",
+      "C. Hệ điều hành.",
+      "D. Chuột."
+    ],
+    "correctAnswers": [
+      "C. Hệ điều hành."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Số lượng điểm ảnh theo chiều ngang và theo chiều dọc trong một thiết bị hiển thị",
+    "options": [
+      "A. Đầu ra",
+      "B. Độ phân giải",
+      "C. Giám sát",
+      "D. Chuột."
+    ],
+    "correctAnswers": [
+      "B. Độ phân giải"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Một tập hợp các trang liên kết thông tin với nhau về một công ty cụ thể, một người, sản phẩm hay dịch vụ nào đó là?",
+    "options": [
+      "A. Internet",
+      "B. Một nhà cung cấp dịch vụ Internet(ISP)",
+      "C. Một trang web",
+      "D. Một máy chủ web"
+    ],
+    "correctAnswers": [
+      "C. Một trang web"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Những hoạt động nào sau đây có thể được thực hiện với một ứng dụng giải trí cá nhân?",
+    "options": [
+      "A. Soạn nhạc",
+      "B. Soạn thảo văn bản",
+      "C. Xem phim",
+      "D. Tạo cơ sở dữ liệu"
+    ],
+    "correctAnswers": [
+      "C. Xem phim"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Thao tác nào sau đây dược dùng để chọn nhiều đối tượng không liên tiếp nhau trong hệ điều hành Windows?",
+    "options": [
+      "A. Nhấn giữ phím Shift và nháy chuột vào từng đối tượng.",
+      "B. Nháy chuột vào từng đối tượng.",
+      "C. Nhấn giữ phím Ctrl và nháy chuột vào từng đối tượng.",
+      "D. Nháy phải chuột tại từng đối tượng."
+    ],
+    "correctAnswers": [
+      "C. Nhấn giữ phím Ctrl và nháy chuột vào từng đối tượng."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Trong Word 2010, muốn kẻ đường thẳng cho thật thẳng, phải nhấn phím gì trước khi kéo chuột.",
+    "options": [
+      "A. Shift",
+      "B. Alt + Shift",
+      "C. Ctrl",
+      "D. Ctrl + Alt"
+    ],
+    "correctAnswers": [
+      "A. Shift"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Thành phần nào quyết định việc khởi động máy tính?",
+    "options": [
+      "A. RAM",
+      "B. CPU",
+      "C. ROM-BIOS",
+      "D. USB"
+    ],
+    "correctAnswers": [
+      "C. ROM-BIOS"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Một giấy phép theo trung tâm(site license) là gì?",
+    "options": [
+      "A. Giấy phép cài đặt và sử dụng chương trình phần mềm trên một máy tính cụ thể ở một địa điểm",
+      "B. Giấy phép cài đặt và sử dụng chương trình phần mềm trên một máy tính cụ thể ở bất kỳ vị trí nào",
+      "C. Giấy phép cài đặt và sử dụng chương trình phần mềm trên nhiều máy tính tại một địa điểm",
+      "D. Giấy phép cài đặt và sử dụng chương trình phần mềm trên nhiều máy tính ở bất kỳ vị trí nào"
+    ],
+    "correctAnswers": [
+      "A. Giấy phép cài đặt và sử dụng chương trình phần mềm trên một máy tính cụ thể ở một địa điểm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Phân biệt trang tính (sheet - bảng tính) và một sổ tính (book)?",
+    "options": [
+      "A. Sổ tính có thể được chia sẻ tự động bởi những người khác",
+      "B. Sổ tính là toàn bộ tập tin chứa các trang tính",
+      "C. Trang tính có thể được sử dụng trong các chương trình bảng tính khác",
+      "D. Sổ tính là thuật ngữ được sử dụng khi bạn dùng nhiều hơn một trang tính trong một file"
+    ],
+    "correctAnswers": [
+      "B. Sổ tính là toàn bộ tập tin chứa các trang tính"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Phím nào bạn dùng để chọn các đoạn văn bản liền kề nhau?",
+    "options": [
+      "A. Shift",
+      "B. Alt",
+      "C. Fn",
+      "D. Ctrl"
+    ],
+    "correctAnswers": [
+      "A. Shift"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Những phát biểu nào là đúng",
+    "options": [
+      "A. Tốc độ của một bộ vi xử lý được đo bằng Hertz (Hz)",
+      "B. Một máy tính với bộ vi xử lý có tốc độ 2 GHz thì có tốc độ gấp đôi máy tính có vi xử lý tốc độ 1GHz",
+      "C. Một bộ vi xử lý có số Gigahertz (GHz) lớn thì nhanh hơn bộ vi xử lý với kiến trúc khác có số Gigahertz nhỏ hơn",
+      "D. Tốc độ của hệ thống chỉ nhanh như tốc độ của bộ vi xử lý"
+    ],
+    "correctAnswers": [
+      "A. Tốc độ của một bộ vi xử lý được đo bằng Hertz (Hz)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Một giá trị số có thể được xem là giá trị nhãn nếu có ….. đứng trước?",
+    "options": [
+      "A. Hash(#)",
+      "B. Exclamation(!)",
+      "C. Apostrophe(‘)",
+      "D. Tilde(~)"
+    ],
+    "correctAnswers": [
+      "C. Apostrophe(‘)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Sự khác biệt giữa biểu mẫu (form) và báo cáo (report)?",
+    "options": [
+      "A. Các biểu mẫu có thể tạo ra bởi người sử dụng trong khi báo cáo được thiết đặt bới Microsoft",
+      "B. Các biểu mẫu nhận dữ liệu đầu vào trong khi báo cáo xuất dữ liệu",
+      "C. Các biểu mẫu xuất dữ liệu trong khi báo cáo nhận dữ liệu đầu vào",
+      "D. Các biểu mẫu và báo cáo đều xuất dữ liệu"
+    ],
+    "correctAnswers": [
+      "B. Các biểu mẫu nhận dữ liệu đầu vào trong khi báo cáo xuất dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 51: Phát biểu nào là ĐÚNG khi nói đến bộ nhớ ROM và RAM",
+    "options": [
+      "A. Bộ nhớ ROM thường được sử dụng bởi các chương trình và ứng dụng để lưu trữ tạm thời các kết quả của quá trình thực hiện. Bộ nhớ RAM được dùng để lưu các phần mềm cơ sở trên các thiết bị máy tính",
+      "B. RAM và ROM hai bộ nhớ truy cập ngẫu nhiên",
+      "C. Bộ nhớ RAM là bộ nhớ đọc và ghi, trong khi ROM là bộ nhớ chỉ đọc",
+      "D. RAM là bộ nhớ không biến động. Nói cách khác, bộ nhớ RAM không bị xóa khi máy tính đã tắt, Bộ nhớ ROM bị xóa khi máy tính tắt."
+    ],
+    "correctAnswers": [
+      "C. Bộ nhớ RAM là bộ nhớ đọc và ghi, trong khi ROM là bộ nhớ chỉ đọc"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 52: Những máy tính và thiết bị di động làm việc trên một mạng dựa vào máy chủ (server) cho nguồn tài nguyên của nó",
+    "options": [
+      "A. Latency (thời gian đợi)",
+      "B. SMS",
+      "C. Clients.",
+      "D. WiMAX"
+    ],
+    "correctAnswers": [
+      "C. Clients."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 53: Mục tiêu chính của một hệ điều hành là:",
+    "options": [
+      "A. Tách người sử dụng khỏi sự phức tạp của phần cứng",
+      "B. Làm máy tính hấp dẫn hơn",
+      "C. Để quản lý truy cập của người dùng",
+      "D. Cho phép người sử dụng máy tính đúng cách"
+    ],
+    "correctAnswers": [
+      "A. Tách người sử dụng khỏi sự phức tạp của phần cứng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 54: Đánh dấu phát biểu xác định các đặc tính của một công cụ tìm kiếm phân cấp.",
+    "options": [
+      "A. Công cụ tìm kiếm phân cấp đi qua các trang web và biên dịch thông tin về nội dung của các trang này",
+      "B. Chỉ mục của công cụ tìm kiếm phân cấp được cập nhật hàng tháng hoặc mỗi tháng hai lần",
+      "C. Kết quả tài trợ bị cấm",
+      "D. Công cụ tìm kiếm phân cấp có một giới hạn tìm kiếm hàng ngày tùy thuộc vào người sử dụng"
+    ],
+    "correctAnswers": [
+      "A. Công cụ tìm kiếm phân cấp đi qua các trang web và biên dịch thông tin về nội dung của các trang này"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 55: Những phát biểu nào là Đúng khi nói về tùy chọn Change trong công cụ Uninstall a program",
+    "options": [
+      "A. Khi thay đổi một chương trình, nó không xuất hiện trong cửa sổ danh sách các chương trình",
+      "B. Thay đổi một chương trình bao gồm các tùy chọn cài đặt và gỡ bỏ của một ứng dụng",
+      "C. Tất cả các chương trình hiển thị trong cửa sổ chương trình hoặc các đặc tính của chúng có thể thay đổi hoặc sửa chữa",
+      "D. Khi chỉnh sửa một chương trình, nó trở thành chương trình nguyên bản trong Windows 7"
+    ],
+    "correctAnswers": [
+      "B. Thay đổi một chương trình bao gồm các tùy chọn cài đặt và gỡ bỏ của một ứng dụng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 56: ROM là viết tắt cụm từ nào sau đây?",
+    "options": [
+      "A. Từ thực đơn Start",
+      "B. Read Only Memory",
+      "C. Random Output Measure",
+      "D. Resources of Memory"
+    ],
+    "correctAnswers": [
+      "B. Read Only Memory"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 57: Tai sao bạn nên chọn 1 chủ đề (Theme) đã được tích hợp trong phần mềm để áp dụng cho bản trình chiếu?",
+    "options": [
+      "A. Để sử dụng một bài thuyết trình đã được tạo trước với các tiêu chuẩn cho một chủ đề ví dụ như tiếp thị",
+      "B. Để đạt được 1 thể thống nhất cho các phông chữ và màu sắc",
+      "C. Để thêm 1 chương trình âm thanh cho bản trình chiếu",
+      "D. Để thêm nhiều chương trình âm thanh cho bản trình chiếu"
+    ],
+    "correctAnswers": [
+      "B. Để đạt được 1 thể thống nhất cho các phông chữ và màu sắc"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 58: Tại sao biểu đồ đem lại nhiều cách mô tả dữ liệu hơn sơ với một bảng?",
+    "options": [
+      "A. Nhiều dữ liệu có thể xuất hiện trên biểu đồ so với bảng",
+      "B. Biểu đồ có thể được in trên một tờ giấy lớn hơn so với một bảng",
+      "C. Một biểu đồ có nhiều màu sắc hơn",
+      "D. Một biểu đồ minh họa xu hướng hay dáng điệu dữ liệu rõ ràng hơn"
+    ],
+    "correctAnswers": [
+      "D. Một biểu đồ minh họa xu hướng hay dáng điệu dữ liệu rõ ràng hơn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 59: Theo mặc định, mỗi sổ tính(Workbook) có 3 trang tính Sheet1, Sheet2, Sheet3. Để chèn thêm 1 trang tính mới giữa Sheet 1 và Sheet 2, tùy chọn nào dưới đây là thao tác sẽ sử dụng?",
+    "options": [
+      "A. Nhấp chuột phải vào Sheet 2 và chọn insert",
+      "B. Nhấp chuột phải vào Sheet 3 và chọn insert",
+      "C. Không có thao tác nào đúng",
+      "D. Nhấp chuột phải vào Sheet 1 và chọn insert"
+    ],
+    "correctAnswers": [
+      "A. Nhấp chuột phải vào Sheet 2 và chọn insert"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 60: Người và máy tính giao tiếp với nhau thông qua",
+    "options": [
+      "A. Hệ điều hành.",
+      "B. Bàn phím.",
+      "C. Chuột.",
+      "D. Đĩa cứng."
+    ],
+    "correctAnswers": [
+      "A. Hệ điều hành."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

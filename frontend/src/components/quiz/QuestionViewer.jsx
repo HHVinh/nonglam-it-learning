@@ -12,6 +12,7 @@ export default function QuestionViewer({
   onPrev 
 }) {
   if (!question) return null;
+  const cleanText = question.text.replace(/^Câu \d+[:\.]?\s*/i, '');
 
   return (
     <div className="bg-white dark:bg-slate-800 p-6 rounded-lg shadow border border-slate-200 dark:border-slate-700 h-full flex flex-col">
@@ -33,7 +34,17 @@ export default function QuestionViewer({
       </div>
 
       <div className="flex-1 overflow-y-auto mb-6 pr-2">
-        <p className="text-lg mb-6 whitespace-pre-wrap">{question.text}</p>
+        <p className="text-lg mb-6 whitespace-pre-wrap">{cleanText}</p>
+        
+        {question.imageUrl && (
+          <div className="mb-6 flex justify-center">
+            <img 
+              src={question.imageUrl} 
+              alt={`Hình ảnh minh họa cho câu ${index + 1}`} 
+              className="max-w-full max-h-80 object-contain rounded border shadow-sm"
+            />
+          </div>
+        )}
         
         <div className="space-y-3">
           {question.options.map((option, i) => {
@@ -48,10 +59,11 @@ export default function QuestionViewer({
                 }`}
               >
                 <input 
-                  type="checkbox" // Dùng checkbox để hỗ trợ chọn nhiều
-                  className="mt-1 w-5 h-5 text-blue-600 cursor-pointer"
+                  type={question.isMultipleChoice ? "checkbox" : "radio"}
+                  name={`question-${question._id}`}
+                  className={`mt-1 w-5 h-5 text-blue-600 cursor-pointer ${!question.isMultipleChoice ? 'rounded-full' : ''}`}
                   checked={isSelected}
-                  onChange={() => onSelectAnswer(option)}
+                  onChange={() => onSelectAnswer(option, question.isMultipleChoice)}
                 />
                 <span className="text-base">{option}</span>
               </label>

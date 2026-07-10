@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Câu 1: Để chuyển file Excel thành file Pdf, thì tại file Excel đang mở chúng ta?",
+    "options": [
+      "A. File – Export – Create PDF/XPS Document – “Tên file”.pdf",
+      "B. File – Save As – Save As Type – “Tên file”.pdf",
+      "C. Cả 2 đáp án đều đúng",
+      "D. Đáp án A sai, B đúng"
+    ],
+    "correctAnswers": [
+      "C. Cả 2 đáp án đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Để lưu Macro trong Excel ta chọn?",
+    "options": [
+      "A. Developer – Code – Visual Basic – Modules – Modules 1 – Export File",
+      "B. File – Save As – Save As Type – “Tên file”.xlsm",
+      "C. Developer – Code – Visual Basic – Modules – Modules 1 – Copy toàn bộ Code – Tạo file Text Document – Dán vào và lưu lại",
+      "D. Cả 3 đáp án đều đúng"
+    ],
+    "correctAnswers": [
+      "D. Cả 3 đáp án đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Trong Excel, để tạo một Macro ta cần?",
+    "options": [
+      "A. Developer – Code – Record Macro",
+      "B. Developer – Add ins – Record Macro",
+      "C. Developer – Controls – Record Macro",
+      "D. Developer – Add ins – Visual Basic"
+    ],
+    "correctAnswers": [
+      "A. Developer – Code – Record Macro"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Trong Excel, tổ hợp phím nào thực hiện mở hộp thoại Insert Hyperlink?",
+    "options": [
+      "A. Ctrl + H",
+      "B. Ctrl + F",
+      "C. Ctrl + G",
+      "D. Ctrl + K"
+    ],
+    "correctAnswers": [
+      "D. Ctrl + K"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Phát biểu nào sau đây là sai trong Microsoft Excel 2010?",
+    "options": [
+      "A. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu luận lý (true/false) canh giữa",
+      "B. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu text canh thẳng lề trái",
+      "C. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu số sẽ căn thẳng lề trái",
+      "D. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu Date/Time canh lề phải"
+    ],
+    "correctAnswers": [
+      "C. Khi nhập dữ liệu vào bảng tính, theo mặc định thì dữ liệu kiểu số sẽ căn thẳng lề trái"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Tại sao bạn đổi tên một trang tính (bảng tính)?",
+    "options": [
+      "A. Để giúp xác định trang tính này như một Sổ tính 2010",
+      "B. Để trợ giúp cho việc xác định các nội dung",
+      "C. Để cho phù hợp với tên của sổ tính",
+      "D. Để có thể thêm một màu sắc cho bảng tính tiếp sau nó"
+    ],
+    "correctAnswers": [
+      "B. Để trợ giúp cho việc xác định các nội dung"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Trong Excel, tổ hợp phím nào thực hiện mở thẻ Replace trong hộp thoại Find and Replace?",
+    "options": [
+      "A. Ctrl + H",
+      "B. Ctrl + F",
+      "C. Ctrl + G",
+      "D. Ctrl + K"
+    ],
+    "correctAnswers": [
+      "A. Ctrl + H"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Phần mở rộng của file tài liệu với chương trình ứng dụng Microsoft Excel 2010 là?",
+    "options": [
+      "A. Txt",
+      "B. Docx",
+      "C. Xlsx",
+      "D. Pptx"
+    ],
+    "correctAnswers": [
+      "C. Xlsx"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Một tập hợp các điều kiện mà một bộ lọc dùng để xác định các bản ghi để hiển thị gọi là?",
+    "options": [
+      "A. Truy vấn Query",
+      "B. Datasheet",
+      "C. Điều kiện (tiêu chuẩn) - Criteria",
+      "D. Điều kiện cho trước"
+    ],
+    "correctAnswers": [
+      "C. Điều kiện (tiêu chuẩn) - Criteria"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Trong Excel, tổ hợp phím nào thực hiện mở một bảng tính khác (bảng tính đã có)?",
+    "options": [
+      "A. Ctrl + H",
+      "B. Ctrl + N",
+      "C. Ctrl + A",
+      "D. Ctrl + O"
+    ],
+    "correctAnswers": [
+      "D. Ctrl + O"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Phần mềm Microsoft Excel là?",
+    "options": [
+      "A. Phần mềm soạn thảo văn bản",
+      "B. Phần mềm quản lý cơ sở dữ liệu quan hệ",
+      "C. Phần mềm xử lý bảng thực hiện tính toán và xây dựng các số liệu thống kê trực quan có trong bảng",
+      "D. Phần mềm chỉnh sửa hình ảnh"
+    ],
+    "correctAnswers": [
+      "C. Phần mềm xử lý bảng thực hiện tính toán và xây dựng các số liệu thống kê trực quan có trong bảng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Phần mở rộng nào sau đây không liên quan đến tập tin bảng tính mà Microsoft Excel 2010 có thể xử lý và lưu trữ?",
+    "options": [
+      "A. BMP",
+      "B. XLS",
+      "C. XLA",
+      "D. XLSX"
+    ],
+    "correctAnswers": [
+      "A. BMP"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Trong Excel, tổ hợp phím nào thực hiện đóng bảng tính đang làm việc?",
+    "options": [
+      "A. Ctrl + W",
+      "B. Ctrl + L",
+      "C. Ctrl + P",
+      "D. Ctrl + O"
+    ],
+    "correctAnswers": [
+      "A. Ctrl + W"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Phân biệt trang tính (sheet - bảng tính) và một sổ tính (book)?",
+    "options": [
+      "A. Sổ tính có thể được chia sẻ tự động bởi những người khác",
+      "B. Sổ tính là toàn bộ tập tin chứa các trang tính",
+      "C. Trang tính có thể được sử dụng trong các chương trình bảng tính khác",
+      "D. Sổ tính là thuật ngữ được sử dụng khi bạn dùng nhiều hơn một trang tính trong một file"
+    ],
+    "correctAnswers": [
+      "B. Sổ tính là toàn bộ tập tin chứa các trang tính"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Tại sao biểu đồ đem lại nhiều cách mô tả dữ liệu hơn so với một bảng?",
+    "options": [
+      "A. Nhiều dữ liệu có thể xuất hiện trên biểu đồ so với bảng",
+      "B. Biểu đồ có thể được in trên một tờ giấy lớn hơn so với một bảng",
+      "C. Một biểu đồ có nhiều màu sắc hơn",
+      "D. Một biểu đồ minh họa xu hướng hay dáng điệu dữ liệu rõ ràng hơn"
+    ],
+    "correctAnswers": [
+      "D. Một biểu đồ minh họa xu hướng hay dáng điệu dữ liệu rõ ràng hơn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Giả sử chúng ta có bảng dữ liệu Excel về một khoản đầu tư với các thông số như trong hình dưới đây. Câu hỏi đặt ra là phải mất bao lâu ta mới thu được khoản tiền 850 triệu USD?",
+    "options": [
+      "A. =NPER(B1,B3,B4,B2,1)",
+      "B. =NPER(B1,B2,B4,B3,1)",
+      "C. =NPER(B1,B2,B3,B4,1)",
+      "D. =NPER(B1,B3,B2,B4,1)"
+    ],
+    "correctAnswers": [
+      "C. =NPER(B1,B2,B3,B4,1)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Trong các dạng địa chỉ sau đây, địa chỉ nào khi copy công thức đến vị trí khác trong cùng trang tính (Wordsheet) vẫn không thay đổi địa chỉ tham chiếu tại vị trí mới?",
+    "options": [
+      "A. B$2:D$8",
+      "B. $B$2:$D$8",
+      "C. $B2:$D8",
+      "D. B$2$:D$8$"
+    ],
+    "correctAnswers": [
+      "B. $B$2:$D$8"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Trong Excel, một tập tin mà trên đó bạn làm việc (tính toán, vẽ đồ thị, …) và lưu trữ dữ liệu được gọi là?",
+    "options": [
+      "A. Document",
+      "B. Presentation",
+      "C. File",
+      "D. WorkBook"
+    ],
+    "correctAnswers": [
+      "D. WorkBook"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Trong hàm tài chính của Excel, hàm nào dùng tính thời gian để được tiền trong tương lai?",
+    "options": [
+      "A. =NPER(rate,pmt,pv,[fv],[type])",
+      "B. =RATE(nper, pmt, pv, [fv], [type], [guess])",
+      "C. =FV(rate,nper,pmt,[pv],[type])",
+      "D. =Không có hàm này"
+    ],
+    "correctAnswers": [
+      "A. =NPER(rate,pmt,pv,[fv],[type])"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 25; Tại ô B2 gõ vào công thức =SQRT(A2) thì nhận được kết quả?",
+    "options": [
+      "A. 52",
+      "B. 5",
+      "C. #VALUE!",
+      "D. #NAME!"
+    ],
+    "correctAnswers": [
+      "B. 5"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi \"Tin hoc\"; ô B2 có giá trị số 2008. Tại ô C2 gõ vào công thức =A2+B2 thì nhận được kết quả?",
+    "options": [
+      "A. #VALUE!",
+      "B. Tin hoc",
+      "C. 2008",
+      "D. Tin hoc2008"
+    ],
+    "correctAnswers": [
+      "A. #VALUE!"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Để xoá tên của một vùng trong bảng tính Excel, chúng ta thực hiện thao tác?",
+    "options": [
+      "A. Home – Chọn Name Manager – Chọn tên vùng - Delete",
+      "B. Design – Chọn Name Manager – Chọn tên vùng - Delete",
+      "C. Formulas – Chọn Name Manager – Chọn tên vùng - Delete",
+      "D. Trong ô Name box – Chọn tên vùng – Nhấn Delete"
+    ],
+    "correctAnswers": [
+      "C. Formulas – Chọn Name Manager – Chọn tên vùng - Delete"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Khi xác lập thuộc tính fill cho đối tượng shape trong MS-Excel, không thể tùy chỉnh độ trong suốt (transparent) đối với",
+    "options": [
+      "A. Màu đồng nhất (solid color)",
+      "B. Màu chuyển sắc (gradient color)",
+      "C. Mẫu texture",
+      "D. Mẫu pattern"
+    ],
+    "correctAnswers": [
+      "D. Mẫu pattern"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Trong bảng tính Excel, tại ô A2 có sẵn giá trị số không (0); Tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả?",
+    "options": [
+      "A. 0",
+      "B. 5",
+      "C. #VALUE!",
+      "D. #DIV/0!"
+    ],
+    "correctAnswers": [
+      "D. #DIV/0!"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?",
+    "options": [
+      "A. #",
+      "B. <>",
+      "C. ><",
+      "D. &"
+    ],
+    "correctAnswers": [
+      "B. <>"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự \"Tin hoc van phong\" ; Tại ô B2 gõ vào công thức =LOWER(A2) thì nhận được kết quả?",
+    "options": [
+      "A. TIN HOC VAN PHONG",
+      "B. Tin hoc van phong",
+      "C. tin hoc van phong",
+      "D. Tin Hoc Van Phong"
+    ],
+    "correctAnswers": [
+      "C. tin hoc van phong"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Trong bảng tính Excel, tại ô A2 có sẵn dãy kí tự \"1Angiang2\". Nếu sử dụng chuột để nắm kéo (drag) dữ liệu đến các cột B2, C2, D2, E2; thì kết quả nhận được tại ô E2 là?",
+    "options": [
+      "A. 1Angiang6",
+      "B. 5Angiang6",
+      "C. 5Angiang2",
+      "D. 1Angiang2"
+    ],
+    "correctAnswers": [
+      "A. 1Angiang6"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Để chuẩn bị in một bảng tính Excel ra giấy?",
+    "options": [
+      "A. Excel bắt buộc phải đánh số trang ở vị trí bên phải đầu mỗi trang",
+      "B. Có thể khai báo đánh số trang in hoặc không",
+      "C. Excel tự đánh số trang in nếu bảng tính gồm nhiều trang",
+      "D. Vị trí của số trang luôn luôn ở góc dưới bên phải"
+    ],
+    "correctAnswers": [
+      "B. Có thể khai báo đánh số trang in hoặc không"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự \"Tin hoc van phong\"; Tại ô B2 gõ vào công thức =PROPER(A2) thì nhận được kết quả?",
+    "options": [
+      "A. Tin hoc van phong",
+      "B. Tin hoc Van phong",
+      "C. TIN HOC VAN PHONG",
+      "D. Tin Hoc Van Phong"
+    ],
+    "correctAnswers": [
+      "D. Tin Hoc Van Phong"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Trong bảng tính Excel, giao của một hàng và một cột được gọi là?",
+    "options": [
+      "A. Dữ liệu",
+      "B. Ô",
+      "C. Trường",
+      "D. Công thức"
+    ],
+    "correctAnswers": [
+      "B. Ô"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Giả sử ngày hệ thống của máy tính là: 8/18/2008; Khi đó tại ô A2 gõ vào công thức =Today()-1 thì nhận được kết quả là?",
+    "options": [
+      "A. 0",
+      "B. #VALUE!",
+      "C. #NAME!",
+      "D. 8/17/2008"
+    ],
+    "correctAnswers": [
+      "D. 8/17/2008"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Trong Excel, tại ô A2 có giá trị là số 10; ô B2 có giá trị là số 3. Tại ô C2 gõ công thức =MOD(A2;B2) thì nhận được kết quả?",
+    "options": [
+      "A. 10",
+      "B. 3",
+      "C. #Value",
+      "D. 1"
+    ],
+    "correctAnswers": [
+      "D. 1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Trong bảng tính Excel, tại ô D2 có công thức =B2*C2/100. Nếu sao chép công thức đến ô G6 thì sẽ có công thức là?",
+    "options": [
+      "A. E7*F7/100",
+      "B. B6*C6/100",
+      "C. E6*F6/100",
+      "D. E2*C2/100"
+    ],
+    "correctAnswers": [
+      "C. E6*F6/100"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 10; Tại ô B2 gõ vào công thức =PRODUCT(A2;5) thì nhận được kết quả?",
+    "options": [
+      "A. #VALUE!",
+      "B. 2",
+      "C. 0,5",
+      "D. 50"
+    ],
+    "correctAnswers": [
+      "D. 50"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Trong Microsoft Excel 2010, để tạo một ghi chú (comment) của một ô ta chọn ô đó thực hiện?",
+    "options": [
+      "A. View\\ New comment",
+      "B. Home\\ New comment",
+      "C. Review\\ New comment",
+      "D. Insert\\ New comment"
+    ],
+    "correctAnswers": [
+      "C. Review\\ New comment"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi TINHOC ; Tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả?",
+    "options": [
+      "A. #VALUE!",
+      "B. Tinhoc",
+      "C. TINHOC",
+      "D. 6"
+    ],
+    "correctAnswers": [
+      "A. #VALUE!"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Các kiểu dữ liệu thông dụng của Excel là?",
+    "options": [
+      "A. Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng",
+      "B. Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức",
+      "C. Kiểu số, kiểu lôgic, kiểu ngày tháng",
+      "D. Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng"
+    ],
+    "correctAnswers": [
+      "B. Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Kết quả của công thức sau : = INT (SQRT (-4)) là?",
+    "options": [
+      "A. 2",
+      "B. -2",
+      "C. -4",
+      "D. Tất cả các đáp án đều sai"
+    ],
+    "correctAnswers": [
+      "D. Tất cả các đáp án đều sai"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Trong bảng tính Excel, hộp thoại Chart Wizard cho phép xác định các thông tin nào sau đây cho biểu đồ?",
+    "options": [
+      "A. Tiêu đề",
+      "B. Có đường lưới hay không",
+      "C. Chú giải cho các trục",
+      "D. Cả 3 câu đều đúng"
+    ],
+    "correctAnswers": [
+      "D. Cả 3 câu đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự \"Tin hoc van phong\"; Tại ô B2 gõ vào công thức =UPPER(A2) thì nhận được kết quả?",
+    "options": [
+      "A. TIN HOC VAN PHONG",
+      "B. Tin hoc van phong",
+      "C. Tin Hoc Van Phong",
+      "D. Tin hoc van phong"
+    ],
+    "correctAnswers": [
+      "A. TIN HOC VAN PHONG"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Trong Excel, tổ hợp phím nào thực hiện việc tạo mới một bảng tính?",
+    "options": [
+      "A. Shift + Ctrl + N",
+      "B. Ctrl + N",
+      "C. Ctrl + A",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correctAnswers": [
+      "B. Ctrl + N"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Excel đưa ra bao nhiêu loại phép toán chính?",
+    "options": [
+      "A. 3 loại",
+      "B. 4 loại",
+      "C. 5 loại",
+      "D. Tất cả các đáp án đều sai"
+    ],
+    "correctAnswers": [
+      "B. 4 loại"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Khi di chuyển con trỏ trong bảng, tổ hợp phím Shift + Tab dùng để?",
+    "options": [
+      "A. Di chuyển con trỏ đến ô liền trước",
+      "B. Di chuyển con trỏ đến hàng trên",
+      "C. Thêm 1 tab vào ô",
+      "D. Di chuyển con trỏ đến ô liền sau"
+    ],
+    "correctAnswers": [
+      "A. Di chuyển con trỏ đến ô liền trước"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Để có thể cuộn chữ thành nhiều dòng trong ô, ta dùng?",
+    "options": [
+      "A. Format Cells, chọn Wrap Text",
+      "B. Format Cells, Chọn Shrink to Fit",
+      "C. Cả A và B đều sai",
+      "D. Cả A và B đều đúng"
+    ],
+    "correctAnswers": [
+      "A. Format Cells, chọn Wrap Text"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Trong Excel, chúng ta chọn thẻ Margins trong Page setup để làm gì?",
+    "options": [
+      "A. Chỉnh cỡ giấy khi in",
+      "B. Chỉnh hướng giấy in",
+      "C. Căn chỉnh lề đoạn văn cần in",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correctAnswers": [
+      "C. Căn chỉnh lề đoạn văn cần in"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Khi vào Format Cells, thẻ Border có tác dụng gì?",
+    "options": [
+      "A. Chỉnh Font chữ cho đoạn văn",
+      "B. Tạo khung viền cho bảng tính cần chọn",
+      "C. Chỉnh màu cho chữ",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correctAnswers": [
+      "B. Tạo khung viền cho bảng tính cần chọn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Lệnh Ctrl + F trong Excel có tác dụng gì?",
+    "options": [
+      "A. Tìm kiếm một chuỗi ký tự nào đó",
+      "B. Thay thế chuỗi ký tự này bằng ký tự khác",
+      "C. Xoá bỏ các ký tự vừa tìm được",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correctAnswers": [
+      "A. Tìm kiếm một chuỗi ký tự nào đó"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Biểu thức sau cho kết quả là bao nhiêu nếu A2 = 9?\n=If(A2>=5; \"TB\";If( A2>=6.5; \"Kha\";If( A2>= 8; \"Gioi\"; \"Yeu\")))",
+    "options": [
+      "A. Gioi",
+      "B. Kha",
+      "C. TB",
+      "D. Yeu"
+    ],
+    "correctAnswers": [
+      "C. TB"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Biểu thức sau cho kết quả là bao nhiêu nếu A2 = 6?\n=If(A2>=5; Dau; Truot)",
+    "options": [
+      "A. Dau",
+      "B. Truot",
+      "C. #Name?",
+      "D. Cả 3 phương án trên đều sai"
+    ],
+    "correctAnswers": [
+      "C. #Name?"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Biểu thức sau cho kết quả là bao nhiêu nếu ô DTB = 9 và ô HK loại C. Trong đó DTB: Điểm trung bình. HK: Hạnh kiểm? =IF(OR(ô DTB>9; ô HK=\"C\");1000;300)",
+    "options": [
+      "A. 1000",
+      "B. 300",
+      "C. False",
+      "D. Cả 3 phương án trên đều sai"
+    ],
+    "correctAnswers": [
+      "A. 1000"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

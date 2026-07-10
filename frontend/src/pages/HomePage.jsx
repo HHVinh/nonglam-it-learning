@@ -148,6 +148,10 @@ export default function HomePage() {
                  className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-green-600 hover:border-green-300 transition-colors">
                 📜 Quyết định về chuẩn đầu ra
               </a>
+              <a href="https://docs.google.com/document/d/1F2QWqOfda-bFr0L7QRgGuZZk3FCJxwkjab-fIiGfbao/edit?tab=t.0" target="_blank" rel="noopener noreferrer"
+                 className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-red-600 hover:border-red-300 transition-colors">
+                🚨 Học bằng Link Dự Phòng (Khi web bị lỗi)
+              </a>
             </div>
 
           </div>
@@ -155,7 +159,7 @@ export default function HomePage() {
       </section>
 
       {/* Community Materials Section */}
-      <section className="py-12 bg-white dark:bg-slate-900/40">
+      <section id="community" className="py-12 bg-white dark:bg-slate-900/40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex items-center justify-between mb-6">
             <div>

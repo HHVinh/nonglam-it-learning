@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Câu 1: Trong bảng tính MS Excel 2007, để chèn hình ảnh, ta thực hiện:",
+    "options": [
+      "A. Thẻ Formulas – Picture",
+      "B. Thẻ Data – Picture",
+      "C. Thẻ Insert – Picture",
+      "D. Thẻ Review – Picture"
+    ],
+    "correctAnswers": [
+      "C. Thẻ Insert – Picture"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Trong bảng tính Excel khi thực hiện công thức thông báo lỗi nào sau đây cho biết người sử dụng nhập sai tên hàm hoặc chuỗi không đặt trong cặp dấu \"\":",
+    "options": [
+      "A. #Div/0",
+      "B. #Value",
+      "C. #Name",
+      "D. #REF!"
+    ],
+    "correctAnswers": [
+      "C. #Name"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Để đặt mật khẩu cho một file bảng tính trong Excel 2010, thực hiện nào sau đây là đúng:",
+    "options": [
+      "A. Home (Font (Protection))",
+      "B. File (Info (Protected Workbook))",
+      "C. View (trong nhóm Change chọn Protect Workbook)",
+      "D. View (chọn Protect)"
+    ],
+    "correctAnswers": [
+      "B. File (Info (Protected Workbook))"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:",
+    "options": [
+      "A. Page Up; Page Down",
+      "B. Ctrl-Page Up; Ctrl- Page Down",
+      "C. Alt-Page Up; Alt- Page Down",
+      "D. Shift-Page Up; Shift- PageDown"
+    ],
+    "correctAnswers": [
+      "B. Ctrl-Page Up; Ctrl- Page Down"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Trong bảng tính MS Excel 2007, để thay đổi kiểu trang in ngang hoặc dọc, ta thực hiện:",
+    "options": [
+      "A. Thẻ Page Layout – Orientation – Portrait/Landscape",
+      "B. Thẻ File – Page Setup – Portrait/Landscape",
+      "C. Thẻ Format - Page Setup – Portrait/Landscape",
+      "D. Thẻ Home - Orientation – Portrait/Landscape"
+    ],
+    "correctAnswers": [
+      "A. Thẻ Page Layout – Orientation – Portrait/Landscape"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Trong bảng tính MS Excel 2007, để giữ cố định hàng hoặc cột trong cửa sổ soạn thảo, ta đánh dấu hàng hoặc cột, chọn:",
+    "options": [
+      "A. Thẻ Review – Freeze Panes",
+      "B. Thẻ View – Freeze Panes",
+      "C. Thẻ Page Layout – Freeze Panes",
+      "D. Thẻ Home – Freeze Panes"
+    ],
+    "correctAnswers": [
+      "B. Thẻ View – Freeze Panes"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Với MS-Excel, muốn gỡ siêu liên kết (Hyperlink) cho đối tượng được chọn thì không thể",
+    "options": [
+      "A. Chọn lệnh từ tab Insert",
+      "B. Chọn lệnh từ trình đơn ngữ cảnh (Context Menu – Right-click để mở)",
+      "C. Sử dụng tổ hợp phím Ctrl+K",
+      "D. Xóa thành phần được liên kết với đối tượng"
+    ],
+    "correctAnswers": [
+      "D. Xóa thành phần được liên kết với đối tượng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Tài liệu của MS Excel được lưu trên đĩa với phần mở rộng:",
+    "options": [
+      "A. DOCX",
+      "B. XLSX",
+      "C. JPG",
+      "D. BMP"
+    ],
+    "correctAnswers": [
+      "B. XLSX"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Để tắt/mở thanh Ribbon ta thực hiện:",
+    "options": [
+      "A. Ctr + F1",
+      "B. Ctr + F2",
+      "C. Ctr + F3",
+      "D. Shift + F2"
+    ],
+    "correctAnswers": [
+      "A. Ctr + F1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: List Separator dùng để xác định:",
+    "options": [
+      "A. Dấu ngăn cách giữa các đối số.",
+      "B. Dấu ngăn cách số thập phân.",
+      "C. Dấu ngăn cách số hàng ngàn",
+      "D. Dấu kết thúc một hàm trong Excel."
+    ],
+    "correctAnswers": [
+      "A. Dấu ngăn cách giữa các đối số."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Sử dụng Office Clipboard, bạn có thể lưu trữ tối đa bao nhiêu clipboard:",
+    "options": [
+      "A. 10",
+      "B. 16",
+      "C. 18",
+      "D. 24"
+    ],
+    "correctAnswers": [
+      "D. 24"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Một công thức trong Excel sẽ bao gồm:",
+    "options": [
+      "A. Biểu thức gồm tối thiểu hai toán hạng được liên kết bằng một toán tử.",
+      "B. Hai toán hạng được liên kết bằng một toán tử.",
+      "C. Dấu = rồi đến biểu thức gồm tối thiểu hai toán hạng được liên kết bằng một toán tử.",
+      "D. Tất cả đều sai."
+    ],
+    "correctAnswers": [
+      "C. Dấu = rồi đến biểu thức gồm tối thiểu hai toán hạng được liên kết bằng một toán tử."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Trong bảng tính MS Excel 2007, để tách dữ liệu trong một ô thành hai hoặc nhiều ô, ta thực hiện:",
+    "options": [
+      "A. Thẻ Insert – Text to Columns – Delimited",
+      "B. Thẻ Home – Text to Columns – Delimited",
+      "C. Thẻ Formulas - Text to Columns – Delimited",
+      "D. Thẻ Data - Text to Columns – Delimited"
+    ],
+    "correctAnswers": [
+      "D. Thẻ Data - Text to Columns – Delimited"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Trong Excel 2010, tổ hợp phím nào sau đây tương ứng lệnh Redo:",
+    "options": [
+      "A. Ctrl + Y",
+      "B. Ctrl + Z",
+      "C. Ctrl + U",
+      "D. Ctrl + A"
+    ],
+    "correctAnswers": [
+      "A. Ctrl + Y"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Khi đang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính?",
+    "options": [
+      "A. Shift+Home",
+      "B. Alt+Home",
+      "C. Ctrl+Home",
+      "D. Shift+Ctrl+Home"
+    ],
+    "correctAnswers": [
+      "C. Ctrl+Home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Hàm INDEX dùng để: (Chọn ý đúng nhất)",
+    "options": [
+      "A. Xác định giá trị của một ô trong bảng tra được xác định bởi chỉ số dòng và cột đã cho",
+      "B. Xác định giá trị của một ô trong bảng tra được xác định bởi hàm Match dòng và Match cột đã cho",
+      "C. Xác định giá trị của một ô trong bảng tra được xác định bởi chỉ số cột và dòng đã cho",
+      "D. Xác định giá trị của một ô trong bảng tra được xác định bởi hàm Match cột và Match dòng đã cho"
+    ],
+    "correctAnswers": [
+      "A. Xác định giá trị của một ô trong bảng tra được xác định bởi chỉ số dòng và cột đã cho"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Trong bảng tính Excel, vùng là tập hợp nhiều ô kế cận tạo thành hình chữ nhật, địa chỉ vùng được thể hiện như câu nào sau đây là đúng?",
+    "options": [
+      "A. B1...H15",
+      "B. B1:H15",
+      "C. B1-H15",
+      "D. H15:B1"
+    ],
+    "correctAnswers": [
+      "B. B1:H15"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Trong Excel để bảo vệ trang tính bằng mật khẩu, bạn sử dụng lựa chọn nào sau đây:",
+    "options": [
+      "A. File\\Protect\\ Protect Sheet",
+      "B. Review\\Protect\\ Protect Sheet",
+      "C. Review\\Changes\\ Protect Sheet",
+      "D. Cả 3 lựa trên đều sai"
+    ],
+    "correctAnswers": [
+      "C. Review\\Changes\\ Protect Sheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Câu nào sau đây sai? Khi nhập dữ liệu vào bảng tính Excel thì:",
+    "options": [
+      "A. Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái",
+      "B. Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng lề trái",
+      "C. Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề phải",
+      "D. Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải"
+    ],
+    "correctAnswers": [
+      "A. Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Trong bảng tính MS Excel 2007, để thiết lập nhãn in, ta thực hiện:",
+    "options": [
+      "A. Thẻ Insert - Page Setup - Print",
+      "B. Thẻ Page Layout - Page Setup - Print Titles",
+      "C. Thẻ File - Page Setup - Print",
+      "D. Thẻ Format - Page Setup - Print Titles"
+    ],
+    "correctAnswers": [
+      "B. Thẻ Page Layout - Page Setup - Print Titles"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Tại office 2007, trong bảng tính Excel, để chèn thêm một cột vào trang tính, ta thực hiện chọn vị trí cột cần chèn:",
+    "options": [
+      "A. Insert - Insert Columns",
+      "B. Format - Cells - Insert Columns",
+      "C. Page Layout - Insert",
+      "D. Home – Insert"
+    ],
+    "correctAnswers": [
+      "D. Home – Insert"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Để hủy bỏ thao tác vừa thực hiện ta nhấn tổ hợp phím:",
+    "options": [
+      "A. Ctrl + X",
+      "B. Ctrl + Z",
+      "C. Ctrl + C",
+      "D. Ctrl + V"
+    ],
+    "correctAnswers": [
+      "B. Ctrl + Z"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Trong bảng tính MS Excel 2007, để ẩn cột, ta thực hiện:",
+    "options": [
+      "A. Thẻ Home - Cells – Format - Hide&Unhide – Hide Columns",
+      "B. Thẻ Data - Cells – Format - Hide&Unhide – Hide Columns",
+      "C. Thẻ Formulas - Cells – Format - Hide&Unhide – Hide Columns",
+      "D. Thẻ View - Cells – Format - Hide&Unhide – Hide Columns"
+    ],
+    "correctAnswers": [
+      "A. Thẻ Home - Cells – Format - Hide&Unhide – Hide Columns"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Để xuống dòng trong cùng một ô, ta ấn tổ hợp phím :",
+    "options": [
+      "A. Ctrl – Shift – Enter.",
+      "B. Ctrl – Enter.",
+      "C. Shift – Enter.",
+      "D. Alt – Enter."
+    ],
+    "correctAnswers": [
+      "D. Alt – Enter."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Hàm Goal seek dùng để:",
+    "options": [
+      "A. Áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi một chi tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả",
+      "B. Áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi một nhiều chi tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả",
+      "C. Áp dụng trong các bài toán tổng hợp dữ liệu",
+      "D. Áp dụng trong các bài toán giải hệ phương trình"
+    ],
+    "correctAnswers": [
+      "A. Áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi một chi tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Với MS-Excel, muốn tạo Comment cho một ô thì có thể sử dụng phím",
+    "options": [
+      "A. F2",
+      "B. Shift+F2",
+      "C. Ctrl+F2",
+      "D. Alt+F2"
+    ],
+    "correctAnswers": [
+      "B. Shift+F2"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Hai tổ hợp phím tắt nào mà bạn có thể sử dụng để cắt và dán một nội dung vào một vị trí khác",
+    "options": [
+      "A. Ctrl + C và Ctrl + V",
+      "B. Ctrl + X và Ctrl + P",
+      "C. Ctrl + X và Ctrl + V",
+      "D. Ctrl + C và Ctrl + X"
+    ],
+    "correctAnswers": [
+      "C. Ctrl + X và Ctrl + V"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Trong office 2007, tại bảng tính Excel, muốn xóa hẳn một hàng ra khỏi trang tính, ta đánh dấu khối chọn hàng này và thực hiện:",
+    "options": [
+      "A. Home - Delete",
+      "B. Table – Delete",
+      "C. Insert - Delete",
+      "D. Tools – Delete"
+    ],
+    "correctAnswers": [
+      "A. Home - Delete"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?",
+    "options": [
+      "A. Chương trình bảng tính bị nhiễm virus",
+      "B. Công thức nhập sai và Excel thông báo lỗi",
+      "C. Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số",
+      "D. Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số"
+    ],
+    "correctAnswers": [
+      "D. Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Để tạo một hàm do người dùng tự định nghĩa và vận dụng hàm đó vào Excel, bạn dùng:",
+    "options": [
+      "A. Visual Basic For Application",
+      "B. Trendline",
+      "C. Define name",
+      "D. Define methods"
+    ],
+    "correctAnswers": [
+      "A. Visual Basic For Application"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Chức năng Data/Consolidate thì Reference dùng để xác định dữ liệu dùng để thống kê thông qua địa chỉ của nó. Điều quan trọng là field đầu tiên của phạm vi này phải là:",
+    "options": [
+      "A. Là field mà ta dùng để phân nhóm thống kê",
+      "B. Là field mà ta cần tính",
+      "C. Là field có chứa dữ liệu kết hợp",
+      "D. Là field có phạm vi dữ liệu"
+    ],
+    "correctAnswers": [
+      "D. Là field có phạm vi dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Để tương tác trực quan (không cần sử dụng công thức) với bảng dữ liệu hiện có tạo ra bảng tổng hợp nhanh từ bảng dữ liệu này, ta chọn",
+    "options": [
+      "A. Lệnh PivotTable",
+      "B. Lệnh Validation",
+      "C. Subtotal",
+      "D. Advanced Filter"
+    ],
+    "correctAnswers": [
+      "A. Lệnh PivotTable"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Khảo sát chi phí sản xuất X và sản lượng Y của 10 công ty cùng loại, để đánh giá sự phụ thuộc giữa X và Y, bạn dùng:",
+    "options": [
+      "A. Descriptive Statistics",
+      "B. Trend",
+      "C. Correlation",
+      "D. Moving Average"
+    ],
+    "correctAnswers": [
+      "C. Correlation"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Trong Excel, để làm ẩn một sheet sau đó có thể cho hiện lại bằng lệnh Unhide, bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Chọn toàn bộ bảng tính, chuột phải tại 1 dòng bất kì\\ chọn Hide",
+      "B. Chọn toàn bộ bảng tính, vào Home\\Format\\Hide & Unhide\\Hide Columns",
+      "C. Vào Data\\Format\\Hide & Unhide\\Hide Sheet",
+      "D. Chuột phải vào thẻ sheet cần làm ẩn\\chọn Hide"
+    ],
+    "correctAnswers": [
+      "D. Chuột phải vào thẻ sheet cần làm ẩn\\chọn Hide"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Cho một CSDL quản lý về thông tin bán hàng, trong đó có các thuộc tính (tên sản phẩm, số lượng, đơn giá, thành tiền), hãy tìm những mẫu tin có thành tiền lớn nhất của từng sản phẩm, ta dùng",
+    "options": [
+      "A. Max(…)",
+      "B. Min(…)",
+      "C. Dmax(…)",
+      "D. Dsum(…)"
+    ],
+    "correctAnswers": [
+      "C. Dmax(…)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Những từ khóa nào sau đây không dùng trong VBA",
+    "options": [
+      "A. Dim",
+      "B. As",
+      "C. End",
+      "D. Abc"
+    ],
+    "correctAnswers": [
+      "D. Abc"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Kiểu đo trong hàm Match có ý nghĩa,",
+    "options": [
+      "A. Kiểu dò là 1: Lớn hơn hay bằng giá trị tìm kiếm<trị dò>, mảng dò phải được sắp xếp tăng dần",
+      "B. Kiểu dò là 0: Chính xác giá trị tìm kiếm <trị dò>, mảng dò không cần sắp xếp theo thứ tự",
+      "C. Kiểu dò là -1: Nhỏ hơn hay bằng giá trị tìm kiếm<trị dò>, mảng dò phải được sắp xếp theo kiểu giảm dần",
+      "D. Kiểu dò là 1: Nhỏ hơn hay bằng giá trị tìm kiếm<trị dò>, mảng dò không sắp xếp tăng dần"
+    ],
+    "correctAnswers": [
+      "B. Kiểu dò là 0: Chính xác giá trị tìm kiếm <trị dò>, mảng dò không cần sắp xếp theo thứ tự"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Xác định mức khấu hao đều cho các năm",
+    "options": [
+      "A. DDB",
+      "B. DB",
+      "C. SLN",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "C. SLN"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Để tạo một mẫu cho vùng dữ liệu A1:G9, cụ thể: tô vùng màu đỏ, kẻ đường viền ngoài 2 nét, chữ màu vàng, ta dùng",
+    "options": [
+      "A. Format as Cells",
+      "B. Format as Table",
+      "C. Conditional Formatting",
+      "D. Styles"
+    ],
+    "correctAnswers": [
+      "B. Format as Table"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Cách khai báo biến đúng trong VBA",
+    "options": [
+      "A. Lim Hoten as String",
+      "B. Dim as Hoten String",
+      "C. Dim String as Hoten",
+      "D. Dim Hoten as String"
+    ],
+    "correctAnswers": [
+      "D. Dim Hoten as String"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Trước khi tạo bảng Pivot Table, ta phải kiểm tra lại xem bảng tính đã",
+    "options": [
+      "A. Đã sort theo vùng thứ tự chưa",
+      "B. Đã có vùng tổng hợp chưa",
+      "C. Đã là tiêu chuẩn của cơ sở dữ liệu chưa",
+      "D. Không cần gì thêm"
+    ],
+    "correctAnswers": [
+      "C. Đã là tiêu chuẩn của cơ sở dữ liệu chưa"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Trong Microsoft Excel 2010, để xóa các định dạng có điều kiện ta chọn vùng cần xóa sau đó thực hiện các bước",
+    "options": [
+      "A. Insert\\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule",
+      "B. Home\\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule",
+      "C. Insert\\ Conditional formatting\\ chọn định dạng cần xóa và Delete Rule",
+      "D. Home\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule"
+    ],
+    "correctAnswers": [
+      "B. Home\\ Conditional formatting\\ manager Rules\\ chọn định dạng cần xóa và Delete Rule"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Cho một CSDL quản lý về thông tin bán hàng, trong đó có các thuộc tính (tên sản phẩm, số lượng, đơn giá, thành tiền), hãy rút trích những mẫu tin có thành tiền >= 5.000.000 và có số lượng >=100, ta dùng",
+    "options": [
+      "A. Auto Filter",
+      "B. Sort Filter",
+      "C. Subtotal",
+      "D. Advanced Filter"
+    ],
+    "correctAnswers": [
+      "D. Advanced Filter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Trong Microsoft Excel 2010, để tìm 3 giá trị lớn nhất trên vùng ta thực hiện chọn vùng dữ liệu sau đó",
+    "options": [
+      "A. Home \\ Conditional formatting\\ top/bottom rules \\top 10 Items.. Và nhập giá trị 3",
+      "B. Home \\ Conditional formatting\\ top/bottom rules \\top 10% Items.. Và nhập giá trị 3",
+      "C. Home \\ Conditional formatting\\ top/bottom rules \\Bottom 10 Items.. Và nhập giá trị 3",
+      "D. Home \\ Conditional formatting\\ top/bottom rules \\Bottom 10% Items.. Và nhập giá trị 3"
+    ],
+    "correctAnswers": [
+      "A. Home \\ Conditional formatting\\ top/bottom rules \\top 10 Items.. Và nhập giá trị 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Hàm Solver dùng để:",
+    "options": [
+      "A. Để tổng hợp dữ liệu từ nhiều nguồn khác nhau",
+      "B. Áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi một chi tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả",
+      "C. Áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi nhiều chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả",
+      "D. Để giải bài toán a+b"
+    ],
+    "correctAnswers": [
+      "C. Áp dụng trong các bài toán như tính doanh thu hòa vốn, thay đổi nhiều chỉ tiêu chi phí nào đó để có được lợi nhuận như mong muốn, tính tổng chi phí cho tổng chi phí ròng phải trả"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Cho một CSDL quản lý về thông tin bán hàng, trong đó có các thuộc tính (tên sản phẩm, số lượng, đơn giá, thành tiền), hãy tính tổng thành tiền của sản phẩm có số lượng trên 10, ta dùng:",
+    "options": [
+      "A. Sum(…)",
+      "B. Sumifs(…)",
+      "C. Dsum(…)",
+      "D. Tất cả đều đúng"
+    ],
+    "correctAnswers": [
+      "D. Tất cả đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Để tổng hợp dữ liệu (đếm, tính tổng, trung bình,….) theo phân cấp từng nhóm thuộc tính có trong một danh sách cho trước, bạn chọn",
+    "options": [
+      "A. Lệnh Sum",
+      "B. Lệnh Subtotal",
+      "C. Lệnh AdvancedFilter",
+      "D. Lệnh Sort"
+    ],
+    "correctAnswers": [
+      "B. Lệnh Subtotal"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Để xác định vị trí giá trị nào đó với một mảng dữ liệu cho trước, bạn chọn",
+    "options": [
+      "A. Index",
+      "B. Hlookup",
+      "C. Vlookup",
+      "D. Match"
+    ],
+    "correctAnswers": [
+      "D. Match"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Muốn tô màu vàng thỏa điều kiện số lượng trên 5 cho vùng dữ liệu A1:A10, ta dùng",
+    "options": [
+      "A. Format as Cells",
+      "B. Format as Table",
+      "C. Conditional Formatting",
+      "D. Styles"
+    ],
+    "correctAnswers": [
+      "C. Conditional Formatting"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Một trường học ABC có nhiều lớp, mỗi lớp được trình bày trên một Sheet trong Excel, gồm những thông tin: họ tên, phái, năm sinh, nơi sinh. Dùng lệnh thích hợp để thống kê số lượng nam, nữ trong toàn trường",
+    "options": [
+      "A. PivotChart",
+      "B. Subtotal",
+      "C. Consolidate",
+      "D. Countif"
+    ],
+    "correctAnswers": [
+      "C. Consolidate"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

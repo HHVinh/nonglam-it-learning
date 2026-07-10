@@ -1,0 +1,849 @@
+[
+  {
+    "text": "Câu 1: Trong Excel cửa sổ mà bạn vẽ biểu đồ, tính toán … là gì?",
+    "options": [
+      "A. WorkSheet",
+      "B. Workbook",
+      "C. Presentations",
+      "D. Layout"
+    ],
+    "correctAnswers": [
+      "B. Workbook"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Loại đơn vị nào để đo dung lượng ổ đĩa cứng?",
+    "options": [
+      "A. Mbps",
+      "B. Gbps",
+      "C. GB",
+      "D. Ghz"
+    ],
+    "correctAnswers": [
+      "C. GB"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Safe mode là gì?",
+    "options": [
+      "A. Là chế độ khởi động với những dịch vụ tối thiểu để người dùng kiểm tra, chuẩn đoán xem thiết bị đang gặp lỗi ở đâu để khắc phục lỗi.",
+      "B. Thông báo lỗi trên Windows",
+      "C. Giao thức mạng",
+      "D. Khởi động nhanh"
+    ],
+    "correctAnswers": [
+      "A. Là chế độ khởi động với những dịch vụ tối thiểu để người dùng kiểm tra, chuẩn đoán xem thiết bị đang gặp lỗi ở đâu để khắc phục lỗi."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Loại dữ liệu nào Excel không hỗ trợ?",
+    "options": [
+      "A. BMP",
+      "B. XML",
+      "C. XLA",
+      "D. TXT"
+    ],
+    "correctAnswers": [
+      "A. BMP"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Làm sao để phân biết liên kết trong văn bản?",
+    "options": [
+      "A. Văn bản màu đỏ gạch chân",
+      "B. Văn bản in nghiêng màu xanh lá cây",
+      "C. Văn bản màu xanh lam, gạch chân",
+      "D. Văn bản màu tím in đậm."
+    ],
+    "correctAnswers": [
+      "C. Văn bản màu xanh lam, gạch chân"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Độ rộng dữ liệu kiểu số trong Excel khi quá chật hẹp sẽ xuất hiện ký tự nào?",
+    "options": [
+      "A. @",
+      "B. $",
+      "C. #",
+      "D. ^"
+    ],
+    "correctAnswers": [
+      "C. #"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Quyền nào không thay đổi nội dung tập tin?",
+    "options": [
+      "A. Read",
+      "B. Write",
+      "C. View",
+      "D. Execute"
+    ],
+    "correctAnswers": [
+      "A. Read"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Sử dụng dấu nào để tìm kiếm loại trừ?",
+    "options": [
+      "A. –",
+      "B. ()",
+      "C. [*]",
+      "D. +"
+    ],
+    "correctAnswers": [
+      "A. –"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Phím tắt đóng văn bản hiện hành?",
+    "options": [
+      "A. Ctrl W",
+      "B. Shift W",
+      "C. Alt W",
+      "D. Ctrl Shift W"
+    ],
+    "correctAnswers": [
+      "A. Ctrl W"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Các chương trình và công cụ cơ bản của Windows là gì?",
+    "options": [
+      "A. All Program",
+      "B. Recommender Program",
+      "C. Windows Accessory",
+      "D. Printer"
+    ],
+    "correctAnswers": [
+      "A. All Program"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Khi bạn cần thụt lề đoạn văn bản, bạn có thể làm điều này ở đâu? (chọn nhiều)",
+    "options": [
+      "A. Trong menu Insert",
+      "B. Trong menu home",
+      "C. Trong menu Page Layout",
+      "D. Sử dụng phím Tab"
+    ],
+    "correctAnswers": [
+      "B. Trong menu home",
+      "D. Sử dụng phím Tab"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Bạn làm gì trong Windows 7 để thay đổi hình nền desktop hoặc hình ảnh?",
+    "options": [
+      "A. Start Control panel, Clock, Language Region",
+      "B. Start Control panel, Appearance and personalization display",
+      "C. Start Control panel, Appearance and personalization personalization",
+      "D. Start Control panel, Appearance and personalization desktop Gadgets"
+    ],
+    "correctAnswers": [
+      "D. Start Control panel, Appearance and personalization desktop Gadgets"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Bạn cần gửi 24 tập tin có kích thước lớn bằng email. Làm thế nào để bạn có thể gửi chúng nhanh và hiệu quả hơn?",
+    "options": [
+      "A. Tạo 1 tập tin chưa 24 tập tịn ban đầu",
+      "B. Nhóm các tập tin này thành từng nhóm sao cho ít tập tin hơn được gửi với cùng nội dung và dung lượng",
+      "C. Gửi từng tập tin",
+      "D. Sử dụng chương trình nén để nén và gửi tập tin nén này với dung lượng nhỏ hơn"
+    ],
+    "correctAnswers": [
+      "D. Sử dụng chương trình nén để nén và gửi tập tin nén này với dung lượng nhỏ hơn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Những cách xem nào trong Windows Explorer cho phép bạn biết được thời gian tạo tập tin?",
+    "options": [
+      "A. Smail icons",
+      "B. Large icons",
+      "C. Content",
+      "D. Tiles"
+    ],
+    "correctAnswers": [
+      "C. Content"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Làm thế nào bạn có thể tăng dung lượng không gian trống trên đĩa cứng của máy tính?",
+    "options": [
+      "A. Cài đặt chương trình chống virus",
+      "B. Xóa bớt các tập tin lớn",
+      "C. Chạy chương trình disk cleanup",
+      "D. Định dạng(format) lại các ổ đĩa"
+    ],
+    "correctAnswers": [
+      "B. Xóa bớt các tập tin lớn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Dấu hiệu mô tả lỗi chính tả khi gõ văn bản?",
+    "options": [
+      "A. Đường lượn sóng màu đỏ",
+      "B. Đường lượn sóng màu xanh da trời",
+      "C. Đường lượn sóng màu xanh lá cây",
+      "D. Đường lượn sóng màu đen"
+    ],
+    "correctAnswers": [
+      "A. Đường lượn sóng màu đỏ"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Phím nào dùng kết hợp trong khi chọn các đoạn văn bản không liền kề nhau?",
+    "options": [
+      "A. Ctrl",
+      "B. Shift",
+      "C. Fn",
+      "D. Alt"
+    ],
+    "correctAnswers": [
+      "A. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Trong Word 2010, khi nào bạn nhấn enter trong lúc nhập văn bản?",
+    "options": [
+      "A. Khi lần đầu tiên bạn mở tài liệu để đi chuyển con trỏ văn bản ra khỏi khu vực tiêu đề",
+      "B. Khi bạn đến cuối mỗi dòng ở lề phải",
+      "C. Khi bạn đến cuối dòng đầu tiên để bắt đầu viết từ cho mỗi dòng sau",
+      "D. Khi bạn kết thúc 1 đoạn văn bản hoặc khi bạn muốn chèn 1 dòng trống."
+    ],
+    "correctAnswers": [
+      "D. Khi bạn kết thúc 1 đoạn văn bản hoặc khi bạn muốn chèn 1 dòng trống."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Dạng view nào thường dùng trình bày, thiết kế nội dung trong quá trình soạn thảo slide PowerPoint 2010 2010?",
+    "options": [
+      "A. Gird",
+      "B. Normal",
+      "C. Slide show",
+      "D. List"
+    ],
+    "correctAnswers": [
+      "B. Normal"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Làm thế nào để bạn biết 1 slide bị ẩn trong danh sách các slide trong khung bên trái?",
+    "options": [
+      "A. Số hiệu slide bị ẩn có 1 đường xuyên qua nhưng slide đó không còn tồn tại trong danh sách",
+      "B. Slide đó không còn tồn tại trong danh sách",
+      "C. Nhấp vào slide sorter trong menu view",
+      "D. Slide bị ẩn xuất hiện với nền màu xám và số hiệu của slide có một đường xuyên qua nó"
+    ],
+    "correctAnswers": [
+      "A. Số hiệu slide bị ẩn có 1 đường xuyên qua nhưng slide đó không còn tồn tại trong danh sách"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Trong PowerPoint 2010 2010 chọn phát biểu không đúng?",
+    "options": [
+      "A. Khi đang mở 1 file trình chiếu, vào file/save để lưu với 1 tên mới",
+      "B. Khi vừa mở 1 cửa sổ trình chiếu, vào file/save as để lưu với 1 tên mới",
+      "C. Khi vừa mở 1 cửa sổ trình chiếu, việc vào file, chọn save hay save as để lưu lại với 1 tên mới là như nhau.",
+      "D. Khi đang mở 1 file trình chiếu, nhấn phím Ctrl kết hợp phím S để lưu lại"
+    ],
+    "correctAnswers": [
+      "C. Khi vừa mở 1 cửa sổ trình chiếu, việc vào file, chọn save hay save as để lưu lại với 1 tên mới là như nhau."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Phát biểu nào sau đây về công cụ tìm kiếm (search engine) trên internet?",
+    "options": [
+      "A. Nó là một chương trình nằm trên máy tính của bạn",
+      "B. Tất cả các trang hiện có trên web đều chứa csdl của công cụ tìm kiếm",
+      "C. Nó là 1 trang internet cho phép thực hiện việc tìm kiếm của web",
+      "D. Công cụ tìm kiếm cho phép người dùng tùy chọn các chức năng nâng cao để tinh chỉnh việc tìm kiếm"
+    ],
+    "correctAnswers": [
+      "D. Công cụ tìm kiếm cho phép người dùng tùy chọn các chức năng nâng cao để tinh chỉnh việc tìm kiếm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Làm thế nào để ẩn, hiện thanh Ribbon?",
+    "options": [
+      "A. Ctrl F1",
+      "B. Ctrl H",
+      "C. View/Show Ribbon",
+      "D. Home/ Format painter"
+    ],
+    "correctAnswers": [
+      "A. Ctrl F1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Bạn chọn hộp danh sách thả xuống khi muốn tìm (find)?",
+    "options": [
+      "A. Find What",
+      "B. With in",
+      "C. Look in",
+      "D. Search"
+    ],
+    "correctAnswers": [
+      "A. Find What"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Phím nào kết hợp chữ cái đại diện sẽ mở thẻ người dùng?",
+    "options": [
+      "A. Ctrl",
+      "B. Alt",
+      "C. Shift",
+      "D. Windows"
+    ],
+    "correctAnswers": [
+      "B. Alt"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Chương trình nào là một ví dụ về chương trình dùng để trình chiếu? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Microsoft PowerPoint 2010 2010",
+      "B. Microsoft Word",
+      "C. Microsoft Publisher",
+      "D. LibreOffice Impress"
+    ],
+    "correctAnswers": [
+      "A. Microsoft PowerPoint 2010 2010",
+      "D. LibreOffice Impress"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Chương trình nào sau đây là một ví dụ của trình duyệt web?",
+    "options": [
+      "A. Microsoft Word",
+      "B. Skype",
+      "C. Internet Explorer",
+      "D. OneDrive"
+    ],
+    "correctAnswers": [
+      "C. Internet Explorer"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Mã nguồn mở là gì?",
+    "options": [
+      "A. Một trình duyệt web",
+      "B. Một loại phần cứng",
+      "C. Một bản quyền thương mại cho phần mềm",
+      "D. Một loại bản quyền phần mềm"
+    ],
+    "correctAnswers": [
+      "D. Một loại bản quyền phần mềm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Quan hệ giữa bit và byte như thế nào là đúng?",
+    "options": [
+      "A. 1 bit = 8 bytes",
+      "B. 1 bit = 24 byte",
+      "C. 1 byte = 8 bit",
+      "D. 1 bit = 2 bytes"
+    ],
+    "correctAnswers": [
+      "C. 1 byte = 8 bit"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Safe Mode là gì?",
+    "options": [
+      "A. Một cách khác để khởi động lại Windows mà chỉ nạp những yếu tố cần thiết nhất cho các chức năng cơ bản của Windows.",
+      "B. Thông báo lỗi trên Windows",
+      "C. Giao thức mạng",
+      "D. Quá trình cập nhật firmware trên một thiết bị phần cứng"
+    ],
+    "correctAnswers": [
+      "A. Một cách khác để khởi động lại Windows mà chỉ nạp những yếu tố cần thiết nhất cho các chức năng cơ bản của Windows."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Thành phần bên trong nào thực hiện các tính toán và các phép toán logic?",
+    "options": [
+      "A. Các chip RAM",
+      "B. Bộ vi xử lý",
+      "C. Bo mạch chủ",
+      "D. ROM –BIOS"
+    ],
+    "correctAnswers": [
+      "B. Bộ vi xử lý"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: WWW là viết tắt của?",
+    "options": [
+      "A. Wild Wild West",
+      "B. World Wide WAN",
+      "C. World Wide Fund for Nature",
+      "D. World Wide Web"
+    ],
+    "correctAnswers": [
+      "D. World Wide Web"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Để xem các chương trình được cài đặt trên hệ thống của bạn, với tùy chọn từ nút Start bạn sẽ sử dụng?",
+    "options": [
+      "A. Search",
+      "B. Documents",
+      "C. All Programs",
+      "D. Danh sách các mục trong Quick Start"
+    ],
+    "correctAnswers": [
+      "C. All Programs"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Đơn vị đo lường thường được sử dụng để chỉ dung lượng RAM được lắp trong một máy tính là gì?",
+    "options": [
+      "A. MHz",
+      "B. GHz",
+      "C. MB",
+      "D. GB"
+    ],
+    "correctAnswers": [
+      "D. GB"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Ba nút mặc định trên Quick Access Toolbar trước khi bạn tùy biến là?",
+    "options": [
+      "A. Print, Undo, Redo",
+      "B. Undo, Redo, Save",
+      "C. Undo, File, View",
+      "D. Redo, Design, Insert"
+    ],
+    "correctAnswers": [
+      "B. Undo, Redo, Save"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Cách khởi động Microsoft Excel?",
+    "options": [
+      "A. Click Start, Microsoft Office, Microsoft Excel 2010",
+      "B. Click Start, All Programs, Microsoft Excel 2010",
+      "C. Click Start, All Programs, Microsoft Office, Microsoft Excel 2010",
+      "D. Click Start, Programs, Microsoft Excel 2010"
+    ],
+    "correctAnswers": [
+      "C. Click Start, All Programs, Microsoft Office, Microsoft Excel 2010"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Chế độ hiển thị nào bạn nên áp dụng cho các văn bản mà bạn nhận được từ bên ngoài thông qua email?",
+    "options": [
+      "A. Read Only View",
+      "B. Protected View",
+      "C. Web Layout View",
+      "D. Full Screen Reading View"
+    ],
+    "correctAnswers": [
+      "B. Protected View"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Cho biết phần mở rộng của chương trình Microsoft Access?",
+    "options": [
+      "A. *.xlsx",
+      "B. *.doc, *.docx",
+      "C. *.pptx",
+      "D. *.accdb"
+    ],
+    "correctAnswers": [
+      "D. *.accdb"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Cho biết phần mở rộng của chương trình Microsoft Excel?",
+    "options": [
+      "A. *.accdb",
+      "B. *.pptx",
+      "C. *.xlsx",
+      "D. *.doc, *.docx"
+    ],
+    "correctAnswers": [
+      "C. *.xlsx"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Cho biết phần mở rộng của chương trình Microsoft PowerPoint 2010 2010?",
+    "options": [
+      "A. *.accdb",
+      "B. *.doc, *.docx",
+      "C. *.xlsx",
+      "D. *.pptx"
+    ],
+    "correctAnswers": [
+      "D. *.pptx"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Cho biết phần mở rộng của chương trình Microsoft Word ?",
+    "options": [
+      "A. *.xlsx",
+      "B. *.doc, *.docx",
+      "C. *.pptx",
+      "D. *.accdb"
+    ],
+    "correctAnswers": [
+      "B. *.doc, *.docx"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Trong PowerPoint 2010 2010 hiệu ứng chuyển trang slide là?",
+    "options": [
+      "A. Animations",
+      "B. Switch page",
+      "C. Switch slide",
+      "D. Transition"
+    ],
+    "correctAnswers": [
+      "D. Transition"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Phím nào bạn dùng để chọn các đoạn văn bản không liền kề nhau?",
+    "options": [
+      "A. Ctrl",
+      "B. Shift",
+      "C. Alt",
+      "D. Fn"
+    ],
+    "correctAnswers": [
+      "A. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: RAM viết tắt của cụm từ nào dưới đây?",
+    "options": [
+      "A. StoRage of Memory",
+      "B. Resources of Memory",
+      "C. Random Output Measure",
+      "D. Random Access Memory"
+    ],
+    "correctAnswers": [
+      "D. Random Access Memory"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: ROM là viết tắt cụm từ nào sau đây?",
+    "options": [
+      "A. Read Only Memory",
+      "B. Từ thực đơn Start",
+      "C. Random Output Measure",
+      "D. Resources of Memory"
+    ],
+    "correctAnswers": [
+      "A. Read Only Memory"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Thành phần nào quyết định việc khởi động máy tính?",
+    "options": [
+      "A. CPU",
+      "B. RAM",
+      "C. ROM-BIOS",
+      "D. RAM-CPU"
+    ],
+    "correctAnswers": [
+      "C. ROM-BIOS"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Tiện ích nào sau đây có thể bảo vệ máy tính của bạn khỏi bị tấn công?",
+    "options": [
+      "A. Antivirus software – phần mềm diệt virus",
+      "B. Disk compression- nén đĩa",
+      "C. Disk check – kiểm tra lỗi ổ đĩa",
+      "D. Disk defragmentation - chống phân mãnh ổ đĩa"
+    ],
+    "correctAnswers": [
+      "A. Antivirus software – phần mềm diệt virus"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Trong Word, phím tắt nào được sử dụng để di chuyển nhanh về đầu dòng?",
+    "options": [
+      "A. Home",
+      "B. Ctrl+Home",
+      "C. PgDn-Page Down",
+      "D. Ctrl+ Down Arrow"
+    ],
+    "correctAnswers": [
+      "A. Home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Trong Word, phím tắt nào được sử dụng để di chuyển nhanh về đầu trang?",
+    "options": [
+      "A. Home",
+      "B. Ctrl+Home",
+      "C. PgDn-Page Down",
+      "D. Ctrl+ Down Arrow"
+    ],
+    "correctAnswers": [
+      "B. Ctrl+Home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Bạn muốn di chuyển một thư mục vào vị trí khác. Hai lệnh nào để bạn thực hiện nhiệm vụ này? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Cut",
+      "B. Paste",
+      "C. Copy",
+      "D. Move"
+    ],
+    "correctAnswers": [
+      "A. Cut",
+      "B. Paste"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 51: Các tùy chọn nào sao đây không phải là ví dụ của Ribbon?",
+    "options": [
+      "A. Insert",
+      "B. Home",
+      "C. Review",
+      "D. Clipboard"
+    ],
+    "correctAnswers": [
+      "D. Clipboard"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 52: Hai tổ hợp phím tắt nào mà bạn có thể sử dụng để sao chép và dán một tập tin vào một vị trí khác?",
+    "options": [
+      "A. Ctrl + C và Ctrl + X",
+      "B. Ctrl + C và Ctrl + V",
+      "C. Ctrl + X và Ctrl + V",
+      "D. Ctrl + X và Ctrl + P"
+    ],
+    "correctAnswers": [
+      "B. Ctrl + C và Ctrl + V"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 53: Lệnh nào sau đây mà bạn có thể sử dụng để kiểm tra kết nối giữa hai thiết bị trên mạng?",
+    "options": [
+      "A. ping",
+      "B. ipconfig",
+      "C. FTP",
+      "D. Google"
+    ],
+    "correctAnswers": [
+      "A. ping"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 54: Lệnh nào sau đây được sử dụng để hiển thị tất cả các cấu hình IP trên một hệ thống Windows?",
+    "options": [
+      "A. ipconfig",
+      "B. tracert",
+      "C. ping",
+      "D. ipconfig / all"
+    ],
+    "correctAnswers": [
+      "D. ipconfig / all"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 55: Lựa chọn nào sao đây là hệ điều hành? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Hardware",
+      "B. Android",
+      "C. Microsoft Office",
+      "D. Windows"
+    ],
+    "correctAnswers": [
+      "B. Android",
+      "D. Windows"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 56: Lựa chọn nào sau đây là chương trình trình chiếu?",
+    "options": [
+      "A. Google",
+      "B. Mozilla Firefox",
+      "C. Microsoft PowerPoint 2010 2010",
+      "D. Microsoft Word"
+    ],
+    "correctAnswers": [
+      "C. Microsoft PowerPoint 2010 2010"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 57: Lựa chọn nào sau đây là công cụ tìm kiếm? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Bing",
+      "B. Google",
+      "C. Facebook",
+      "D. Yahoo!"
+    ],
+    "correctAnswers": [
+      "A. Bing",
+      "B. Google",
+      "D. Yahoo!"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 58: Lựa chọn nào sau đây là đặc điểm của các hệ điều hành hiện đại? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Không thể học được.",
+      "B. Đa nhiệm.",
+      "C. Có thể được sử dụng trong một thời gian hạn chế.",
+      "D. Thời gian thực."
+    ],
+    "correctAnswers": [
+      "B. Đa nhiệm.",
+      "D. Thời gian thực."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 59: Phím nào dưới đây để thực hiện việc kiểm tra chính tả (Spelling)?",
+    "options": [
+      "A. F3",
+      "B. F7",
+      "C. F5",
+      "D. F9"
+    ],
+    "correctAnswers": [
+      "B. F7"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 60: Để sắp xếp và lọc dữ liệu trong Excel ta dùng chức năng nào sau đây?",
+    "options": [
+      "A. Sort and Filter",
+      "B. Find and Replace",
+      "C. Find and Filter",
+      "D. Filter and Find"
+    ],
+    "correctAnswers": [
+      "A. Sort and Filter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

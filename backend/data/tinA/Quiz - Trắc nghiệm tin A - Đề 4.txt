@@ -1,0 +1,842 @@
+[
+  {
+    "text": "Câu 1: Một khóa chính phải",
+    "options": [
+      "A. Xác định duy nhất một mẫu tin",
+      "B. Có giá trị duy nhất (không trùng nhau); không được rỗng; xác định duy nhất một mẫu tin",
+      "C. Không được rỗng",
+      "D. Có giá trị duy nhất (không trùng nhau)"
+    ],
+    "correctAnswers": [
+      "B. Có giá trị duy nhất (không trùng nhau); không được rỗng; xác định duy nhất một mẫu tin"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Trong Excel, một tập tin mà trên đó bạn làm việc (tính toán, vẽ đồ thị, …) và lưu trữ dữ liệu được gọi là?",
+    "options": [
+      "A. Document",
+      "B. Presentation",
+      "C. File",
+      "D. WorkBook"
+    ],
+    "correctAnswers": [
+      "D. WorkBook"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Lựa chọn nào sau đây là một ví dụ về một mạng WAN?",
+    "options": [
+      "A. TELNET",
+      "B. Các mạng trong nhà của bạn",
+      "C. Internet",
+      "D. Các mạng trong tòa nhà văn phòng của bạn"
+    ],
+    "correctAnswers": [
+      "C. Internet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Trong Microsoft Word 2010, thanh công cụ Quick Access",
+    "options": [
+      "A. Giúp người dùng thực hiện nhanh một số chức năng thông dụng",
+      "B. Chỉ dùng để chèn nhanh hình ảnh vào văn bản",
+      "C. Chỉ dùng để thoát nhanh Microsoft Word",
+      "D. Chỉ dùng để xóa nhanh nội dung trong văn bản"
+    ],
+    "correctAnswers": [
+      "A. Giúp người dùng thực hiện nhanh một số chức năng thông dụng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Trong Microsoft Word 2010, khi bấm tổ hợp phím Ctrl + N?",
+    "options": [
+      "A. Đóng cửa sổ hiện hành",
+      "B. Đặt tên lại cho file tài liệu",
+      "C. Mở cửa sổ để nhập tài liệu mới",
+      "D. Mở hộp thoại để cung cấp thông tin cho việc lưu trữ tài liệu mới"
+    ],
+    "correctAnswers": [
+      "C. Mở cửa sổ để nhập tài liệu mới"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Muốn thiết lập quan hệ giữa các bảng, ta thực hiện lệnh",
+    "options": [
+      "A. Tool\\Relationships",
+      "B. Insert\\Relationships",
+      "C. View\\Relationships",
+      "D. Edit\\Tool…"
+    ],
+    "correctAnswers": [
+      "A. Tool\\Relationships"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Trong khi soạn thảo văn bản với Microsoft Word 2010, nếu kết thúc 1 đoạn (Paragraph) và muốn sang 1 đoạn mới",
+    "options": [
+      "A. Bấm tổ hợp phím Shift + Enter",
+      "B. Bấm phím Enter",
+      "C. Bấm tổ hợp phím Ctrl – Enter",
+      "D. Word 2010 tự động, không cần bấm phím"
+    ],
+    "correctAnswers": [
+      "B. Bấm phím Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Muốn thay đổi đồng loạt một giá trị nào đó trong Field thành giá trị khác, chọn cách nào là thích hợp nhất",
+    "options": [
+      "A. Mở Table, dùng thao tác tìm và thay đổi đồng loạt",
+      "B. Dùng Append Query",
+      "C. Dùng Update Query",
+      "D. Dùng Make Table Query"
+    ],
+    "correctAnswers": [
+      "C. Dùng Update Query"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Trong Microsoft Word 2010, cách nào sau đây dùng để viết (bỏ) chữ chỉ số trên?",
+    "options": [
+      "A. Bấm tổ hợp phím CTRL+SHIFT +”=”",
+      "B. Bấm tổ hợp phím ALT và F8",
+      "C. Bấm tổ hợp phím SHIFT +”=”",
+      "D. Bấm tổ hợp phím CTRL +”T”"
+    ],
+    "correctAnswers": [
+      "A. Bấm tổ hợp phím CTRL+SHIFT +”=”"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Web là gì?",
+    "options": [
+      "A. Toàn bộ Internet",
+      "B. Một hệ thống của trang web được kết nối bằng các đường link",
+      "C. Một loại phần mềm",
+      "D. Một giao thức mạng"
+    ],
+    "correctAnswers": [
+      "B. Một hệ thống của trang web được kết nối bằng các đường link"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Trong phần mềm Microsoft Word 2010, cách nào dùng để ẩn/hiện thanh Ribbon?",
+    "options": [
+      "A. Nhấn nút phải chuột tại một thẻ bất kỳ trên thanh Ribbon/Chọn Minimize the Ribbon",
+      "B. Nhấp đúp chuột vào thanh ruler",
+      "C. Nhấn tổ hợp phím Ctrl + Shift+F4",
+      "D. Nhấn tổ hợp phím Ctrl + F5"
+    ],
+    "correctAnswers": [
+      "A. Nhấn nút phải chuột tại một thẻ bất kỳ trên thanh Ribbon/Chọn Minimize the Ribbon"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Trong Microsoft Word 2010, để di chuyển con trỏ văn bản đến đầu đoạn văn bản tiếp theo, ta sử dụng:",
+    "options": [
+      "A. Phím Home",
+      "B. Tổ hợp phím Ctrl + Home",
+      "C. Phím Page Down",
+      "D. Tổ hợp phím Ctrl + Down Arrow"
+    ],
+    "correctAnswers": [
+      "D. Tổ hợp phím Ctrl + Down Arrow"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Phát biểu nào là đúng khi nói đến CPU",
+    "options": [
+      "A. CPU là viết tắt của Processing Unit",
+      "B. CPU nhắm đền phần mềm người sử dụng",
+      "C. CPU được tạo bởi bộ nhớ RAM và ROM",
+      "D. CPU thường được tích hợp với một chip gọi là vi xử lý"
+    ],
+    "correctAnswers": [
+      "D. CPU thường được tích hợp với một chip gọi là vi xử lý"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: LAN đại diện cho:",
+    "options": [
+      "A. Wide area network (mạng diện rộng)",
+      "B. Local area nature (tính chất khu vực địa phương)",
+      "C. Local area network (mạng cục bộ)",
+      "D. Legal area network (mạng diện pháp lý)"
+    ],
+    "correctAnswers": [
+      "C. Local area network (mạng cục bộ)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Trong Microsoft Word 2010, thanh Quick Access Toolbar có tác dụng gì?",
+    "options": [
+      "A. Giúp người dùng có thể thao tác một vài chức năng nhanh chóng và tức thời",
+      "B. Chỉ dùng để chèn hình ảnh vào văn bản",
+      "C. Dùng để thoát nhanh Microsoft Word",
+      "D. Chỉ dùng để xoá nội dung văn bản nhanh hơn"
+    ],
+    "correctAnswers": [
+      "A. Giúp người dùng có thể thao tác một vài chức năng nhanh chóng và tức thời"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Trong Microsoft Word 2010, khi chọn một đối tượng (Object) trong văn bản thì:",
+    "options": [
+      "A. Các đối tượng thay đổi sang màu đen và màu trắng nếu nó có màu",
+      "B. Tám ô vuông nhỏ xuất hiện xung quanh đối tượng",
+      "C. Các đối tượng xuất hiện trong cửa sổ riêng của nó để chỉnh sửa",
+      "D. Các đối tượng được được đánh dấu nổi bật như khi chọn văn bản thông thường"
+    ],
+    "correctAnswers": [
+      "B. Tám ô vuông nhỏ xuất hiện xung quanh đối tượng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Một hệ điều hành nắm giữ các thông tin từ Clipboard trong bao lâu?",
+    "options": [
+      "A. Cho đến khi bạn cập nhật hệ điều hành",
+      "B. Cho đến khi bạn nhấn Alt + F4 trên bàn phím",
+      "C. Cho đến khi bạn sử dụng một công cụ tìm kiếm để sao chép thông tin đó",
+      "D. Cho đến khi bạn sử dụng lệnh Paste"
+    ],
+    "correctAnswers": [
+      "D. Cho đến khi bạn sử dụng lệnh Paste"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Khái niệm nào cho biết hệ điều hành thực thi nhiều tiến trình khác nhau cùng lúc?",
+    "options": [
+      "A. Đa người dùng",
+      "B. Đơn nhiệm",
+      "C. Đa nhiệm",
+      "D. Đa phiên"
+    ],
+    "correctAnswers": [
+      "C. Đa nhiệm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Chương trình nào sau đây bạn có thể sử dụng để xem các ứng dụng đang chạy trên máy tính Windows của bạn?",
+    "options": [
+      "A. Control Panel",
+      "B. Windows Update",
+      "C. Windows Media Player",
+      "D. Task Manager"
+    ],
+    "correctAnswers": [
+      "D. Task Manager"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Việc sử dụng đúng các * (dấu sao) khi tìm kiếm trên Google hay Bing có ý nghĩa gì?",
+    "options": [
+      "A. Thêm nó để đặt một từ hoặc cụm từ trong dấu ngoặc kép.",
+      "B. Thêm nó như là công cụ để tìm giá.",
+      "C. Thêm nó như là một đại diện cho bất kỳ nội dung chưa biết.",
+      "D. Thêm nó để tìm các chủ đề theo xu hướng trên các mạng xã hội như Twitter."
+    ],
+    "correctAnswers": [
+      "C. Thêm nó như là một đại diện cho bất kỳ nội dung chưa biết."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Các chức năng của một VPN là gì?",
+    "options": [
+      "A. Bảo vệ một mạng từ khác",
+      "B. Mã hóa các gói dữ liệu từ các thiết bị gửi và nhận",
+      "C. Mã hóa các gói dữ liệu từ các thiết bị nhận và gửi",
+      "D. Tạo một kết nối point-to-point trên mạng công cộng"
+    ],
+    "correctAnswers": [
+      "D. Tạo một kết nối point-to-point trên mạng công cộng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Trong Microsoft Word 2010, tổ hợp phím phím tắt nào sau đây có thể dùng để thay đổi font chữ cho phần văn bản đã chọn?",
+    "options": [
+      "A. Ctrl + Shift + P",
+      "B. Ctrl + O",
+      "C. Ctrl + H",
+      "D. Ctrl + Shift + K"
+    ],
+    "correctAnswers": [
+      "A. Ctrl + Shift + P"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Đặc điểm chính của hệ thống truyền giọng nói trên giao thức IP (Voice over Internet Protocol- VoIP)",
+    "options": [
+      "A. Chỉ thực hiện được phần mềm",
+      "B. Phụ thuộc vào phần cứng sử dụng",
+      "C. Phụ thuộc vào loại mạng vật lý hỗ trợ nó",
+      "D. Không trả thêm bất kỳ một khoảng chi phí nào"
+    ],
+    "correctAnswers": [
+      "D. Không trả thêm bất kỳ một khoảng chi phí nào"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Làm thế nào bạn có thể biết nếu có những cập mới cho hệ điều hành Microsoft Windows 7 của bạn?",
+    "options": [
+      "A. Microsoft có một chương trình trong phần mềm của nó có thể được cấu hình để phát hiện và cài đặt tất cả các bản cập nhật.",
+      "B. Microsoft không đưa ra thông báo cập nhật",
+      "C. Microsoft gửi mail đến người sử dụng sau mỗi 15 ngày",
+      "D. Microsoft gửi thư đến người dùng"
+    ],
+    "correctAnswers": [
+      "A. Microsoft có một chương trình trong phần mềm của nó có thể được cấu hình để phát hiện và cài đặt tất cả các bản cập nhật."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Trong MS Word 2010, khi bấm tổ hợp phím nào sẽ thực hiện đóng cửa sổ văn bản hiện hành?",
+    "options": [
+      "A. Shift –W",
+      "B. Ctrl –W",
+      "C. Ctrl -V",
+      "D. Alt -W"
+    ],
+    "correctAnswers": [
+      "B. Ctrl –W"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Lựa chọn nào là triệu chứng lỗi của bộ nhớ RAM",
+    "options": [
+      "A. Hệ thống luôn khởi động ở chế độ Safe mode",
+      "B. Hệ thống khởi động chính xác nhưng không có âm thanh",
+      "C. Hệ thống chỉ cho phép người quản trị truy nhập",
+      "D. Hệ thống không khởi động và bạn nghe thấy tiếng kêu bíp lặp đi lặp lại."
+    ],
+    "correctAnswers": [
+      "D. Hệ thống không khởi động và bạn nghe thấy tiếng kêu bíp lặp đi lặp lại."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Trong Microsoft PowerPoint 2010 2010 2010, chọn phát biểu đúng nhất về việc sử dụng mẫu thiết kế (themes):",
+    "options": [
+      "A. Người dùng có thể tạo ra một số themes mới và áp dụng trên nhiều bản trình chiếu",
+      "B. Người dùng không thể sử dụng một themes bên ngoài vào bài báo cáo của mình",
+      "C. Người dùng chỉ có thể sử dụng các themes sẵn có trong thư viện của chương trình",
+      "D. Người dùng có thể tạo ra một số themes mới và chỉ có thể áp dụng trên bản trình chiếu đang mở."
+    ],
+    "correctAnswers": [
+      "A. Người dùng có thể tạo ra một số themes mới và áp dụng trên nhiều bản trình chiếu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Kiểu bộ nhớ nào sau đây là bộ nhớ KHÔNG bị mất dữ liệu khi tắt điện?",
+    "options": [
+      "A. CACHE",
+      "B. RAM",
+      "C. SSD",
+      "D. SRAM"
+    ],
+    "correctAnswers": [
+      "C. SSD"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Với Microsoft Word 2010, khi bạn nhìn thấy biểu tượng ¶ trong văn bản, biểu tượng đó có ý nghĩa gì:",
+    "options": [
+      "A. Ký tự này xuất hiện tự động khi bạn tạo một tài liệu mới",
+      "B. Bạn đã nhấn phím Tab",
+      "C. Khi bạn đã nhấn phím Enter",
+      "D. Hiện kí hiệu đánh dấu đoạn văn bản"
+    ],
+    "correctAnswers": [
+      "D. Hiện kí hiệu đánh dấu đoạn văn bản"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Kiểu bộ nhớ nào nhỏ hơn, nhanh hơn, giảm thời gian chờ và lưu trữ dữ liệu của vi xử lý cho các hoạt động tiếp theo mà không cần truy cập vào nhớ RAM",
+    "options": [
+      "A. Bộ nhớ ảo",
+      "B. Bộ nhớ Cache",
+      "C. Bộ nhớ tĩnh",
+      "D. Bộ nhớ động"
+    ],
+    "correctAnswers": [
+      "B. Bộ nhớ Cache"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Mạng tốc độ cao kết nối đến LAN trong 1 khu vực đô thị, thành phố và xử lý số lượng lớn kết nối hoạt động thông qua khu vực đó.",
+    "options": [
+      "A. Mạng gia đình –home network.",
+      "B. Mạng client/server –client/server network.",
+      "C. Mạng cục bộ – Local area network (LAN).",
+      "D. Mạng đô thị (thành phố…) – metropolitan area network (MAN)"
+    ],
+    "correctAnswers": [
+      "D. Mạng đô thị (thành phố…) – metropolitan area network (MAN)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Ký tự nào sau đây có thể được sử dụng để thực hiện tìm kiếm trên Google?",
+    "options": [
+      "A. ~",
+      "B. \\",
+      "C. ^",
+      "D. \"\""
+    ],
+    "correctAnswers": [
+      "D. \"\""
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Lệnh nào sau đây được sử dụng để hiển thị tất cả các cấu hình IP trên một hệ thống Windows?",
+    "options": [
+      "A. Ipconfig",
+      "B. Tracert",
+      "C. Ipconfig / all",
+      "D. Ping"
+    ],
+    "correctAnswers": [
+      "C. Ipconfig / all"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Lựa chọn nào sau đây không là công cụ tìm kiếm?",
+    "options": [
+      "A. Facebook",
+      "B. Google",
+      "C. Bing",
+      "D. Yahoo!"
+    ],
+    "correctAnswers": [
+      "A. Facebook"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Trong khi soạn thảo văn bản với Microsoft Word 2010, xuống dòng và sang trang mới, sử dụng tổ hợp phím nào sau đây:",
+    "options": [
+      "A. Ctrl + Enter",
+      "B. Shift+tab",
+      "C. Shift+Enter",
+      "D. Alt + Enter"
+    ],
+    "correctAnswers": [
+      "A. Ctrl + Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: …….. là một phần của giao diện đồ họa (GUI) trong Windows. Cho phép người dùng thiết lập hệ thống bằng cách thêm phần cứng mới (Adding new hardware), thêm hoặc gỡ bỏ chương trình (Adding or Removing programs), và chỉnh sửa tài khoản người dùng (User accounts), tùy chỉnh âm thanh và hiển thị (Sound, Display).",
+    "options": [
+      "A. Windows Explorer",
+      "B. Phần mềm người dùng",
+      "C. Action Center",
+      "D. Control panel"
+    ],
+    "correctAnswers": [
+      "D. Control panel"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Trong PowerPoint 2010 2010 2010, để hiển thị một bản trình bày chứa ba khung: Outline, Slide and Notes, bạn dùng",
+    "options": [
+      "A. Normal",
+      "B. Slide Show",
+      "C. Reading View",
+      "D. Slide Sorter"
+    ],
+    "correctAnswers": [
+      "A. Normal"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Kiểu kết nối Internet nào có khả năng truyền với tốc độ nhanh nhất?",
+    "options": [
+      "A. POTS",
+      "B. ISDN",
+      "C. Cáp quang",
+      "D. Cáp đồng trục"
+    ],
+    "correctAnswers": [
+      "C. Cáp quang"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Lựa chọn nào sau đây là một ví dụ về một mạng WAN?",
+    "options": [
+      "A. Internet",
+      "B. Các mạng trong tòa nhà văn phòng của bạn",
+      "C. TELNET",
+      "D. Các mạng trong nhà của bạn"
+    ],
+    "correctAnswers": [
+      "A. Internet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Tại sao bạn nên sao lưu dữ liệu của bạn?",
+    "options": [
+      "A. Để mất nó khi máy tính của bạn bị hỏng",
+      "B. Giảm bộ nhớ trong máy tính của bạn",
+      "C. Để có thể khôi phục lại khi máy tính của bạn bị mất cắp",
+      "D. Để có nó trong lưu trữ đám mây"
+    ],
+    "correctAnswers": [
+      "C. Để có thể khôi phục lại khi máy tính của bạn bị mất cắp"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Điều gì xảy ra khi bạn sử dụng các nút Reply All thay vì trả lời cho việc gửi trả lời vào một email mà bạn nhận được?",
+    "options": [
+      "A. Bạn chỉ trả lời cho người gửi email.",
+      "B. Bạn trả lời cho tất cả mọi người bao gồm trong danh sách gửi email, không bao gồm người gửi.",
+      "C. Bạn trả lời cho chính mình.",
+      "D. Bạn trả lời cho tất cả những người được đưa vào danh sách gửi email, bao gồm cả người gửi."
+    ],
+    "correctAnswers": [
+      "D. Bạn trả lời cho tất cả những người được đưa vào danh sách gửi email, bao gồm cả người gửi."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Trong hệ điều hành Windows, để phục hồi tất cả các đối tượng trong Recycle Bin (thùng rác) ta nháy phải chuột tại Recycle Bin và chọn lệnh:",
+    "options": [
+      "A. Undo Delete",
+      "B. Restore",
+      "C. Redo",
+      "D. Delete"
+    ],
+    "correctAnswers": [
+      "B. Restore"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Lựa chọn nào sau đây là những đặc điểm của lưu trữ đám mây?",
+    "options": [
+      "A. Dữ liệu của bạn có thể được truy cập từ các máy tính và các thiết bị khác nhau với một kết nối Internet miễn là bạn có các thông tin chính xác để truy cập nó.",
+      "B. Dữ liệu của bạn được lưu trữ trên một máy chủ vật lý duy nhất.",
+      "C. Dữ liệu của bạn có thể được phục hồi từ bất cứ nơi nào bất cứ lúc nào không cần kết nối mạng.",
+      "D. Dữ liệu của bạn có thể được phục hồi chỉ trong một thời gian giới hạn."
+    ],
+    "correctAnswers": [
+      "A. Dữ liệu của bạn có thể được truy cập từ các máy tính và các thiết bị khác nhau với một kết nối Internet miễn là bạn có các thông tin chính xác để truy cập nó."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Kiểu bộ nhớ nào sau đây là bộ nhớ bị mất dữ liệu khi tắt điện?",
+    "options": [
+      "A. SSD",
+      "B. RAM",
+      "C. DVD",
+      "D. Ổ đĩa flash USB"
+    ],
+    "correctAnswers": [
+      "B. RAM"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Quy định nhập kiểu Text tự động đổi thành chữ thường sử dụng mã Fomat là",
+    "options": [
+      "A. >",
+      "B. <",
+      "C. @",
+      "D. &"
+    ],
+    "correctAnswers": [
+      "B. <"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Lựa chọn nào sau đây là ví dụ của các mật khẩu mạnh?",
+    "options": [
+      "A. 1234567",
+      "B. hellokitty",
+      "C. 12345",
+      "D. Th1s1 $ Year2015"
+    ],
+    "correctAnswers": [
+      "D. Th1s1 $ Year2015"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Bộ xử lý của máy tính làm gì?",
+    "options": [
+      "A. Kết nối máy tính vào mạng",
+      "B. Xử lý và tạo ra những hình ảnh được hiển thị bằng máy tính của bạn",
+      "C. Thực thi các câu lệnh được truyền đi bởi các phần mềm bạn chạy",
+      "D. Lưu trữ các dữ liệu của bạn dưới các hình thức của các tập tin và thư mục"
+    ],
+    "correctAnswers": [
+      "B. Xử lý và tạo ra những hình ảnh được hiển thị bằng máy tính của bạn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Dùng toán tử tìm kiếm “tên site:” để làm gì?",
+    "options": [
+      "A. Có kết quả về một chủ đề nhất định",
+      "B. Có kết quả từ một trang web hoặc tên miền nhất định",
+      "C. Không bao gồm các kết quả từ một trang web hoặc tên miền nhất định",
+      "D. Giúp bạn tìm thấy giá trên một tên miền nhất định"
+    ],
+    "correctAnswers": [
+      "B. Có kết quả từ một trang web hoặc tên miền nhất định"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Phát biểu nào là đúng đối với các địa chỉ email",
+    "options": [
+      "A. Có thể có tên người dùng giống nhau trong cùng một tên miền",
+      "B. Các địa chỉ email được tạo thành bởi hai phần chính: tên người dùng và tên miền. Cả hai phần được phân cách bởi ký hiệu #",
+      "C. Tên người dùng của địa chỉ email được cấp bởi nhà cung cấp (supplier)",
+      "D. Các địa chỉ email được tạo thành bởi hai phần chính: tên người dùng và tên miền. Cả hai phần được phân cách bởi ký hiệu @"
+    ],
+    "correctAnswers": [
+      "D. Các địa chỉ email được tạo thành bởi hai phần chính: tên người dùng và tên miền. Cả hai phần được phân cách bởi ký hiệu @"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Trong Microsoft office 2010, ba nút mặc định trên Quick Access Toolbar trước khi bạn tùy biến là?",
+    "options": [
+      "A. Undo, Redo, Save",
+      "B. Print, Undo, Redo",
+      "C. New, Redo, Save",
+      "D. Open, Undo, Save"
+    ],
+    "correctAnswers": [
+      "A. Undo, Redo, Save"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 51: Mục tiêu chính của một hệ điều hành là:",
+    "options": [
+      "A. Để quản lý truy cập của người dùng",
+      "B. Tách người sử dụng khỏi sự phức tạp của phần cứng",
+      "C. Cho phép người sử dụng máy tính đúng cách",
+      "D. Làm máy tính hấp dẫn hơn"
+    ],
+    "correctAnswers": [
+      "B. Tách người sử dụng khỏi sự phức tạp của phần cứng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 52: Phát biểu nào là ĐÚNG khi nói đến bộ nhớ ROM và RAM",
+    "options": [
+      "A. RAM là bộ nhớ không biến động. Nói cách khác, bộ nhớ RAM không bị xóa khi máy tính đã tắt, Bộ nhớ ROM bị xóa khi máy tính tắt.",
+      "B. Bộ nhớ ROM thường được sử dụng bởi các chương trình và ứng dụng để lưu trữ tạm thời các kết quả của quá trình thực hiện. Bộ nhớ RAM được dùng để lưu các phần mềm cơ sở trên các thiết bị máy tính",
+      "C. Bộ nhớ RAM là bộ nhớ đọc và ghi, trong khi ROM là bộ nhớ chỉ đọc",
+      "D. RAM và ROM hai bộ nhớ truy cập ngẫu nhiên"
+    ],
+    "correctAnswers": [
+      "C. Bộ nhớ RAM là bộ nhớ đọc và ghi, trong khi ROM là bộ nhớ chỉ đọc"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 53: Trong Microsoft Word 2010, nhóm công cụ nào trong thanh Ribbon có chứa chức năng cho phép bạn thay đổi khoảng cách dòng?",
+    "options": [
+      "A. Font",
+      "B. Paragraph",
+      "C. Page Setup",
+      "D. Drawing"
+    ],
+    "correctAnswers": [
+      "B. Paragraph"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 54: Đánh dấu phát biểu xác định các đặc tính của một công cụ tìm kiếm phân cấp.",
+    "options": [
+      "A. Kết quả tài trợ bị cấm",
+      "B. Chỉ mục của công cụ tìm kiếm phân cấp được cập nhật hàng tháng hoặc mỗi tháng hai lần",
+      "C. Công cụ tìm kiếm phân cấp có một giới hạn tìm kiếm hàng ngày tùy thuộc vào người sử dụng",
+      "D. Công cụ tìm kiếm phân cấp đi qua các trang web và biên dịch thông tin về nội dung của các trang này"
+    ],
+    "correctAnswers": [
+      "D. Công cụ tìm kiếm phân cấp đi qua các trang web và biên dịch thông tin về nội dung của các trang này"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 55: Trong hệ điều hành Windows, muốn đóng (thoát) cửa sổ chương trình ứng dụng đang làm việc ta:",
+    "options": [
+      "A. Nhấn tổ hợp phím Alt + F4.",
+      "B. Nhấn tổ hợp phím Shift + F4.",
+      "C. Vào bảng chọn Edit à Office Clipboard...",
+      "D. Nhấn tổ hợp phím Ctrl + F3"
+    ],
+    "correctAnswers": [
+      "A. Nhấn tổ hợp phím Alt + F4."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 56: Kết nối nào là kết nối không dây?",
+    "options": [
+      "A. 4G LTE/3G GPRS",
+      "B. RJ45",
+      "C. Hotspot",
+      "D. Parallel"
+    ],
+    "correctAnswers": [
+      "A. 4G LTE/3G GPRS"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 57: Trong hệ điều hành Windows, để xem danh sách các tài liệu (tệp) vừa thao tác gần nhất, ta:",
+    "options": [
+      "A. Nháy Start và My Recent Documents",
+      "B. Nháy File và Open Recent Documents",
+      "C. Nháy File và Open Near Documents",
+      "D. Nháy Start và My Documents"
+    ],
+    "correctAnswers": [
+      "A. Nháy Start và My Recent Documents"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 58: Phát biểu nào là đúng khi nói đến CPU",
+    "options": [
+      "A. CPU được tạo bởi bộ nhớ RAM và ROM",
+      "B. CPU nhắm đền phần mềm người sử dụng",
+      "C. CPU thường được tích hợp với một chip gọi là vi xử lý",
+      "D. CPU là viết tắt của Processing Unit"
+    ],
+    "correctAnswers": [
+      "C. CPU thường được tích hợp với một chip gọi là vi xử lý"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 59: Trong phần mềm Microsoft Word 2010, cách nào dùng để ẩn/hiện thanh Ribbon?",
+    "options": [
+      "A. Nhấn tổ hợp phím Ctrl + Shift+F4",
+      "B. Nhấn nút phải chuột tại một thẻ bất kỳ trên thanh Ribbon/Chọn Minimize the Ribbon",
+      "C. Nhấp đúp chuột vào thanh ruler",
+      "D. Nhấn tổ hợp phím Ctrl + F5"
+    ],
+    "correctAnswers": [
+      "B. Nhấn nút phải chuột tại một thẻ bất kỳ trên thanh Ribbon/Chọn Minimize the Ribbon"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 60: Trong hệ điều hành Windows, thuộc tính nào dưới đây dùng để hiển thị thanh công việc (Taskbar) trên các cửa sổ chương trình?",
+    "options": [
+      "A. Keep the Taskbar on top of other Windows",
+      "B. Lock the Taskbar",
+      "C. Show the clock",
+      "D. Auto-Hide the Taskbar"
+    ],
+    "correctAnswers": [
+      "A. Keep the Taskbar on top of other Windows"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

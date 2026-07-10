@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Câu 1: Để xóa đồng thời nội dung, định dạng, ghi chú, liên kết trong bảng tính sau khi chọn toàn bộ bảng tính bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Vào Home\\Clear\\Clear Contents",
+      "B. Vào Home\\Clear\\Clear Formats",
+      "C. Vào Home\\Clear\\Clear Hyperlink",
+      "D. Vào Home\\Clear\\Clear all"
+    ],
+    "correctAnswers": [
+      "D. Vào Home\\Clear\\Clear all"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Một người gửi vào ngân hàng $10,000 với lãi suất 5% một năm và trong các năm sau mỗi năm gửi thêm vào $200. Công thức tính số tiền người đó có được sau 10 năm là:",
+    "options": [
+      "A. PPMT",
+      "B. PV",
+      "C. PMT",
+      "D. FV"
+    ],
+    "correctAnswers": [
+      "D. FV"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Cho x là ĐK1, y là ĐK2, z là ĐK3. Đặt điều kiện là x và y hoặc z để dò tìm nâng cao (Advanced Filter) : = Or(and(x;y);z) thì:",
+    "options": [
+      "A. x, y, z nằm cùng hàng",
+      "B. x, y cùng hàng, z khác hàng",
+      "C. x khác hàng với y và z",
+      "D. x, y, z khác hàng"
+    ],
+    "correctAnswers": [
+      "B. x, y cùng hàng, z khác hàng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Trong Excel để đưa vào trang tính các dữ liệu từ Access, bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Vào Insert\\Object/ chọn Microsoft Access",
+      "B. Vào Data\\From Other Sources\\ chọn Access",
+      "C. Vào Data\\Get External Data\\From Access",
+      "D. Cả 3 lựa chọn trên đều sai"
+    ],
+    "correctAnswers": [
+      "B. Vào Data\\From Other Sources\\ chọn Access"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Trong Excel để tạo một liên kết từ ô A40 đến 1 trang web, bạn sử dụng lựa chọn nào trong hộp Link To:",
+    "options": [
+      "A. Existing File or Web Page",
+      "B. Place in This Document",
+      "C. Email Address",
+      "D. Cả 3 lựa chọn trên đều sai"
+    ],
+    "correctAnswers": [
+      "A. Existing File or Web Page"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Các địa chỉ sau đây là địa chỉ gì: $A1,B$5,C6,$L9,$D$7",
+    "options": [
+      "A. Địa chỉ tuyệt đối",
+      "B. Địa chỉ tương đối",
+      "C. Địa chỉ hỗn hợp",
+      "D. Tất cả đều đúng"
+    ],
+    "correctAnswers": [
+      "D. Tất cả đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Trong bảng tính Excel để thực hiện nội dung chữ 1 ô thành nhiều dòng ta dùng chức năng nào sau đây",
+    "options": [
+      "A. Home/Midle Align & Center",
+      "B. Home /Alignment/Merge Cells",
+      "C. Home /Alignment/ Wrap Text",
+      "D. Home /Alignment/ Shrink to Fit"
+    ],
+    "correctAnswers": [
+      "C. Home /Alignment/ Wrap Text"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Trong Excel, để đặt tên một vùng gồm nhiều ô, bạn sử dụng lựa chọn nào",
+    "options": [
+      "A. Formulas – Chọn Name Manager – New – đặt tên vùng chọn vùng và chọn vùng cần đặt tên",
+      "B. Formulas – Define Name – đặt tên vùng và chọn vùng cần đặt tên",
+      "C. Cả 2 lựa chọn đều sai",
+      "D. Cả 2 lựa chọn đều đúng"
+    ],
+    "correctAnswers": [
+      "D. Cả 2 lựa chọn đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Tại sao bạn tick vào ô “My data has headers” trong hộp thoại sắp xếp (Sort) trong Excel?",
+    "options": [
+      "A. Báo Excel biết dữ liệu của tôi không có tiêu đề",
+      "B. Báo Excel biết dữ liệu của tôi có tiêu đề",
+      "C. Tất cả đều đúng",
+      "D. Tất cả đều sai"
+    ],
+    "correctAnswers": [
+      "B. Báo Excel biết dữ liệu của tôi có tiêu đề"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Chọn phát biểu đúng nhất:",
+    "options": [
+      "A. Khi nhập dữ liệu số, ngày tháng và văn bản tự động canh trái",
+      "B. Khi nhập dữ liệu số, ngày tháng và văn bản tự động canh phải",
+      "C. Khi nhập dữ liệu số, ngày tháng tự động canh trái, văn bản tự động canh phải",
+      "D. Khi nhập dữ liệu số, ngày tháng tự động canh phải, văn bản tự động canh trái"
+    ],
+    "correctAnswers": [
+      "D. Khi nhập dữ liệu số, ngày tháng tự động canh phải, văn bản tự động canh trái"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Trong Microsoft Excel 2010 muốn biểu diễn 1 hàm hồi quy của dãy số liệu dãy này biến đổi theo 1 dãy số liệu khác hoặc biến đổi theo thời gian ta sử dụng chức năng nào sau đây",
+    "options": [
+      "A. Trend",
+      "B. Goal seek",
+      "C. Solver",
+      "D. Sparkline"
+    ],
+    "correctAnswers": [
+      "A. Trend"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Trong Microsoft 2010 sau khi làm thao tác chép dữ liệu muốn hiển thị hộp thoại Paste Special để thực hiện thao tác dán đến nơi khác thì dùng tổ hợp phím nào sau đây",
+    "options": [
+      "A. Ctrl + P",
+      "B. Ctrl + Shift + T",
+      "C. Ctrl + Alt + V",
+      "D. Ctrl + O"
+    ],
+    "correctAnswers": [
+      "C. Ctrl + Alt + V"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Khu vực nào trong cửa sổ Excel cho phép nhập các giá trị và công thức:",
+    "options": [
+      "A. Title bar",
+      "B. Formula bar",
+      "C. Standard bar",
+      "D. Menu bar"
+    ],
+    "correctAnswers": [
+      "B. Formula bar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Khi cần quét 2 cột dữ liệu trên cùng một bảng trong một bảng tính Excel ta thực hiện:",
+    "options": [
+      "A. Nhấn Shift và giữ nguyên kết hợp nhấn chuột trái để kéo các vùng dữ liệu đó.",
+      "B. Nhấn Shift và thả ra giữa các lần chọn các cột dữ liệu khác nhau.",
+      "C. Nhấn Ctrl và giữ nguyên kết hợp nhấn chuột trái để kéo các vùng dữ liệu đó.",
+      "D. Nhấn Ctrl + Shift và nhấn chuột trái để thực hiện thao tác quét các cột cần chọn."
+    ],
+    "correctAnswers": [
+      "C. Nhấn Ctrl và giữ nguyên kết hợp nhấn chuột trái để kéo các vùng dữ liệu đó."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Trong Excel muốn tính toán lại toàn bộ các công thức trong 1 sheet bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Nhấn F9",
+      "B. Formulas\\nhóm Calculation\\ Calculate sheet",
+      "C. Formulas\\nhóm Calculation\\ Calculate Now",
+      "D. Nhấn Ctrl + F9"
+    ],
+    "correctAnswers": [
+      "B. Formulas\\nhóm Calculation\\ Calculate sheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Trong Excel để thực hiện thêm trục thứ 2 vào biểu đồ, bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Right Click\\ Format Data Series \\ Primary Axis",
+      "B. Right Click\\ Format Data Series\\ Secondary Axis",
+      "C. Click chọn biểu tượng (Change Chart Type) trên nhóm Type của Tab Design",
+      "D. Cả 3 lựa chọn trên đều sai"
+    ],
+    "correctAnswers": [
+      "B. Right Click\\ Format Data Series\\ Secondary Axis"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Tại một trường học để biết bao nhiêu giáo viên Nữ hưởng chế độ thâm niên giảng dạy (trên 5 năm), ta dùng hàm:",
+    "options": [
+      "A. Sumif",
+      "B. Countif",
+      "C. Sumifs",
+      "D. Countifs"
+    ],
+    "correctAnswers": [
+      "D. Countifs"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Trong bảng tính Excel 2010 chức năng Data \\ Data Validation\\ Settings\\ Text length dùng để làm gì?",
+    "options": [
+      "A. Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi có chiều dài xác định",
+      "B. Xuất là kết quả tính toán chỉ là chuỗi",
+      "C. Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi",
+      "D. Tất cả đều đúng"
+    ],
+    "correctAnswers": [
+      "A. Ràng buộc dữ liệu trên các ô bảng tính khi nhập vào chỉ cho phép nhập vào là chuỗi có chiều dài xác định"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Trong Excel 2010, ý nghĩa của thao tác Data/Filter/Auto Filter:",
+    "options": [
+      "A. Tự động xóa những dữ liệu không thỏa theo một điều kiện nào đó, ngay tại bảng tính hiện hành",
+      "B. Tự động ẩn những dự liệu thỏa theo điều kiện nào đó, ngay tại bảng tính hiện hành",
+      "C. Tự động lọc dữ liệu thỏa theo điều kiện nào đó, ngay tại bảng tính hiện hành",
+      "D. Tự động lọc dữ liệu không thỏa theo điều kiện nào đó, ngay tại bảng tính hiện hành"
+    ],
+    "correctAnswers": [
+      "C. Tự động lọc dữ liệu thỏa theo điều kiện nào đó, ngay tại bảng tính hiện hành"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Trong Excel để bảo vệ trang tính bằng mật khẩu bạn sử dụng lựa chọn nào sau đây?",
+    "options": [
+      "A. File\\Protect\\Protect sheet",
+      "B. Review\\ Protect\\ Protect sheet",
+      "C. Review\\Change\\ Protect sheet",
+      "D. Cả 3 lựa chọn đều đúng"
+    ],
+    "correctAnswers": [
+      "C. Review\\Change\\ Protect sheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Tùy chọn nào sau đây không phải là ví dụ của Ribbon?",
+    "options": [
+      "A. Home",
+      "B. Insert",
+      "C. Review",
+      "D. Clipboard"
+    ],
+    "correctAnswers": [
+      "D. Clipboard"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Trong Excel để làm ẩn một sheet sau đó có thể cho hiện lại bằng lệnh Unhide, bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Chọn toàn bộ bảng tính, chuột phải tại 1 dòng bất kỳ/ chọn Hide",
+      "B. Chọn toàn bộ bảng tính, vào Home/Format/Hide&Unhide/Hide Columns",
+      "C. Vào Home/Format/Hide&Unhide/chọn Hide Sheet",
+      "D. Chuột trái vào thẻ sheet cần làm ẩn/ chọn Hide"
+    ],
+    "correctAnswers": [
+      "C. Vào Home/Format/Hide&Unhide/chọn Hide Sheet"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Khi cần lựa chọn 1 lúc nhiều ô liền nhau (liên tục) trong bảng tính:",
+    "options": [
+      "A. Nhấn Shift trên bàn phím kết hợp với thao tác click chuột trái",
+      "B. Nhấn Alt trên bàn phím kết hợp với thao tác click chuột trái",
+      "C. Nhấn Ctrl trên bàn phím kết hợp với thao tác click chuột trái",
+      "D. Tất cả đều sai"
+    ],
+    "correctAnswers": [
+      "A. Nhấn Shift trên bàn phím kết hợp với thao tác click chuột trái"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Ô D3 chứa công thức =B3*C3 để công thức có nghĩa và không bị báo lỗi thì? Chọn đáp án đúng nhất",
+    "options": [
+      "A. Kiểu dữ liệu trong ô C3 phải là số",
+      "B. Kiểu dữ liệu trong ô B3 phải là số",
+      "C. Kiểu dữ liệu trong ô B3, C3 phải là số",
+      "D. Tất cả đều sai"
+    ],
+    "correctAnswers": [
+      "C. Kiểu dữ liệu trong ô B3, C3 phải là số"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Hàm nào dùng để tổng hợp dữ liệu từ nhiều nguồn khác nhau?",
+    "options": [
+      "A. Advanced Filter",
+      "B. Subtotal",
+      "C. Consolidate",
+      "D. Validation"
+    ],
+    "correctAnswers": [
+      "C. Consolidate"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Trong Excel để thực hiện cách lọc một danh sách (lọc nâng cao) bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Click chọn biểu tượng (Filter) trên nhóm Sort & Filter của Tab Data",
+      "B. Click chọn biểu tượng (Clear) trên nhóm Sort & Filter của Tab Data",
+      "C. Click chọn biểu tượng (Advanced) trên nhóm Sort & Filter của Tab Data",
+      "D. Click chọn biểu tượng (Reapply) trên nhóm Sort & Filter của Tab Data"
+    ],
+    "correctAnswers": [
+      "C. Click chọn biểu tượng (Advanced) trên nhóm Sort & Filter của Tab Data"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Trong Excel 2010 công cụ Pivot table có chức năng là?",
+    "options": [
+      "A. Kết hợp dữ liệu",
+      "B. Thống kê tổng hợp dữ liệu",
+      "C. Phân tích dữ liệu",
+      "D. Thiết lập điều kiện nhập giá trị cho các ô"
+    ],
+    "correctAnswers": [
+      "B. Thống kê tổng hợp dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Khi làm ẩn thuộc tính đường lưới ô trong bảng tính Excel ta cần:",
+    "options": [
+      "A. Vào Format/Row, chọn Hide",
+      "B. Vào Tool/Option tại thẻ View ta bỏ chọn mục Gridlines trong Window options",
+      "C. View/Show/ bỏ chọn Gridlines",
+      "D. Không có tính năng này"
+    ],
+    "correctAnswers": [
+      "C. View/Show/ bỏ chọn Gridlines"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Cho biểu đồ dạng cột, muốn thay đổi biểu đồ để kết hợp dạng cột và dạng đường sau khi chọn thành phần cần chuyển sang dạng đường bạn sử dụng lựa chọn nào sau đây:",
+    "options": [
+      "A. Thẻ Design \\ Chart Layouts \\Line",
+      "B. Thẻ Format \\ Format Selection",
+      "C. Thẻ Design \\Switch Row\\ Column",
+      "D. Thẻ Design \\ Change Chart type \\Line"
+    ],
+    "correctAnswers": [
+      "D. Thẻ Design \\ Change Chart type \\Line"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Đối với ảnh bên dưới, trước khi thực hiện Subtotal thì cần sắp xếp dữ liệu theo thứ tự như thế nào?",
+    "options": [
+      "A. Data -> Sort -> Ngày (A - Z) -> Mặt hàng (Z - A)",
+      "B. Insert -> Sort -> Ngày (A - Z) -> Mặt hàng (Z - A)",
+      "C. Data -> Sort -> Ngày (A - Z) -> Mặt hàng (A - Z)",
+      "D. Data -> Sort -> Ngày (A - Z)"
+    ],
+    "correctAnswers": [
+      "C. Data -> Sort -> Ngày (A - Z) -> Mặt hàng (A - Z)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Để di chuyển vùng bảng tính A2:D4 đến vị trí khác trong cùng 1 trang tính thì thao tác nào sau đây đúng:",
+    "options": [
+      "A. Quét vùng chọn từ A2:D4, để chuột vào cạnh của vùng vừa chọn, rê kéo chuột đến vị trí cần di chuyển đến",
+      "B. Quét vùng chọn từ A2:D4, chọn chức năng cut, sau đó dán vào vị trí mới.",
+      "C. Quét vùng chọn từ A2:D4, chọn chức năng cut, đặt trỏ tại vị trí cần di chuyển, chọn enter.",
+      "D. Tất cả đều đúng."
+    ],
+    "correctAnswers": [
+      "D. Tất cả đều đúng."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Trong Microsoft Excel cú pháp nào bên dưới là đúng đối với hàm SUMIF?",
+    "options": [
+      "A. SUMIF(range,criteria,[sum_range])",
+      "B. SUMIF([sum_range],range,criteria)",
+      "C. SUMIF(range,criteria)",
+      "D. SUMIF(sum_range_criteria)"
+    ],
+    "correctAnswers": [
+      "A. SUMIF(range,criteria,[sum_range])"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Trong Microsoft Excel cú pháp nào bên dưới là đúng đối với hàm SUMIFS?",
+    "options": [
+      "A. SUMIFS(range1,criteria1,range2,criteria2,....[sum_range])",
+      "B. SUMIFS([sum_range],range1,criteria1,range2,criteria2...)",
+      "C. SUMIFS(range1,criteria1,range2,criteria2...)",
+      "D. SUMIFS(sum_range_criteria)"
+    ],
+    "correctAnswers": [
+      "B. SUMIFS([sum_range],range1,criteria1,range2,criteria2...)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Trong Microsoft Excel cú pháp nào bên dưới là đúng đối với hàm COUNTIF?",
+    "options": [
+      "A. COUNTIF(range,criteria,[sum_range])",
+      "B. COUNTIF([sum_range],range,criteria)",
+      "C. COUNTIF(range,criteria)",
+      "D. COUNTIF(sum_range_criteria)"
+    ],
+    "correctAnswers": [
+      "C. COUNTIF(range,criteria)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Trong Microsoft Excel cú pháp nào bên dưới là đúng đối với hàm COUNTIFS?",
+    "options": [
+      "A. COUNTIFS(range1,criteria1,range2,criteria2,....[sum_range])",
+      "B. COUNTIFS([sum_range],range1,criteria1,range2,criteria2...)",
+      "C. COUNTIFS(range1,criteria1,range2,criteria2...)",
+      "D. COUNTIFS(sum_range_criteria)"
+    ],
+    "correctAnswers": [
+      "C. COUNTIFS(range1,criteria1,range2,criteria2...)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Để tìm các vùng có sử dụng công thức bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Vào Home, Find & Select, chọn Select Objects",
+      "B. Vào View Find & Select, chọn Formulas",
+      "C. Vào Home Find & Select, chọn Formulas (hoặc chọn Go to Special chọn Formulas)",
+      "D. Vào Home Find & Select, chọn Go to chọn Special"
+    ],
+    "correctAnswers": [
+      "C. Vào Home Find & Select, chọn Formulas (hoặc chọn Go to Special chọn Formulas)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Theo mặc định, mỗi sổ tính có 3 trang tính sheet1, sheet2, sheet3. Để chèn thêm 1 trang tính mới giữa các sheet2 và sheet3, tùy chọn nào dưới đây là thao tác đúng?",
+    "options": [
+      "A. Nhấp chuột phải vào Sheet 3 và chọn Insert",
+      "B. Nhấp chuột phải vào Sheet 2 và chọn Insert",
+      "C. Nhấp chuột phải vào Sheet 1 và chọn Insert",
+      "D. Không có thao tác nào đúng."
+    ],
+    "correctAnswers": [
+      "A. Nhấp chuột phải vào Sheet 3 và chọn Insert"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Trích dữ liệu trong Excel 2010 không lấy các giá trị trùng nhau. Trong cửa sổ Avanced Fillter chọn mục:",
+    "options": [
+      "A. Unique records only",
+      "B. Records only",
+      "C. Copy to another location",
+      "D. Custom Autofilter"
+    ],
+    "correctAnswers": [
+      "A. Unique records only"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Trong Excel muốn đặt mật khẩu bảo vệ khi mở trang tính, bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. File\\ Info\\Protect Workbook\\ Encrypt with Password",
+      "B. File\\ Info\\Protect Workbook\\Password to open",
+      "C. Home/ Save as\\ Tools\\ Ganeral Options \\ Password to open",
+      "D. File/ Save as\\ Tools\\ Ganeral Options\\ Encrypt with Password"
+    ],
+    "correctAnswers": [
+      "A. File\\ Info\\Protect Workbook\\ Encrypt with Password"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Trong MS Excel 2010 để thay đổi thư mục mặc định lưu trữ các Workbook, ta nhập đường dẫn trong mục Default file location nằm trong thẻ của hộp thoại Excel Options:",
+    "options": [
+      "A. General",
+      "B. Formulas",
+      "C. Save",
+      "D. Advanced"
+    ],
+    "correctAnswers": [
+      "C. Save"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Các hàm nào là cơ sở dữ liệu (database) trong Excel 2010?",
+    "options": [
+      "A. Sum, Max, Min, Count, Average",
+      "B. Sumif, Counif",
+      "C. Dsum, Dmax, Dmin, DcountA, Daverage",
+      "D. Int, Mod, Value"
+    ],
+    "correctAnswers": [
+      "C. Dsum, Dmax, Dmin, DcountA, Daverage"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Chọn phát biểu đúng nhất khi chỉ muốn xóa dữ liệu trong một ô tính:",
+    "options": [
+      "A. Chọn ô tính và nhấp phải chuột, chọn Delete, sau đó chọn Entire row, Ok.",
+      "B. Chọn ô tính và nhấn phím Delete trên bàn phím.",
+      "C. Chọn ô tính và nhấn phải chuột, chọn Delete, sau đó chọn Shift cells left, Ok.",
+      "D. Chọn ô tính và nhấn phải chuột, chọn Delete, sau đó chọn Shift cells up, Ok."
+    ],
+    "correctAnswers": [
+      "B. Chọn ô tính và nhấn phím Delete trên bàn phím."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Khi muốn lặp lại tiêu đề cột ở mỗi trang in chúng ta cần thực hiện?",
+    "options": [
+      "A. Vào File/Page Setup, chọn thẻ Sheet tích vào mục Row and Column headings",
+      "B. Trong Excel luôn mặc định sẵn khi in lặp lại tiêu đề",
+      "C. Excel luôn mặc định sẵn khi in lặp lại tiêu đề",
+      "D. Vào Layout/Page Setup, chọn thẻ Sheet tích vào mục Row and Column headings"
+    ],
+    "correctAnswers": [
+      "D. Vào Layout/Page Setup, chọn thẻ Sheet tích vào mục Row and Column headings"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Trong Excel để làm ẩn một số cột của trang tính, bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Chuột phải vào cột \\ chọn Hide",
+      "B. Chọn các cột cần làm ẩn vào Home \\ Format\\ chọn Hide & Unhide",
+      "C. Chọn các cột cần làm ẩn, vào View\\ Hide",
+      "D. Cả 3 lựa chọn trên đều đúng"
+    ],
+    "correctAnswers": [
+      "B. Chọn các cột cần làm ẩn vào Home \\ Format\\ chọn Hide & Unhide"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Chức năng của hàm COUNTIFS trong Excel là",
+    "options": [
+      "A. Hàm đếm số lượng các ô trong vùng dữ liệu thỏa điều kiện của vùng tiêu chuẩn",
+      "B. Hàm đếm số lượng các ô trong vùng dữ liệu thỏa điều kiện cho trước",
+      "C. Hàm tính tổng các ô trong một vùng thỏa nhiều điền kiện cho trước",
+      "D. Hàm tính trung bình cộng các ô trong một vùng thỏa nhiều điều kiện cho trước"
+    ],
+    "correctAnswers": [
+      "B. Hàm đếm số lượng các ô trong vùng dữ liệu thỏa điều kiện cho trước"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Các hàm dò tìm và tham chiếu trong Excel 2010 gồm:",
+    "options": [
+      "A. Vlookup, Hlookup, If",
+      "B. Match, Index, Sumif, Dcount, Dsum",
+      "C. Vlookup, Hlookup, Dcount, Dsum",
+      "D. Vlookup, Hlookup, Match, Index"
+    ],
+    "correctAnswers": [
+      "D. Vlookup, Hlookup, Match, Index"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Để thay đổi biều đồ dạng cột Column sang biểu đồ dạng Line, bạn sử dụng lựa chọn nào?",
+    "options": [
+      "A. Chuột phải vào biên biểu đồ\\ Change Chart Type",
+      "B. Desgin\\ Change Chart Type",
+      "C. Cả 2 lựa chọn trên đều đúng",
+      "D. Cả 2 lựa chọn trên đều sai"
+    ],
+    "correctAnswers": [
+      "C. Cả 2 lựa chọn trên đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Công thức đúng để sử dụng cho thao tác Advanced là:",
+    "options": [
+      "A. =AND(LEFT(A4;LEN(A4)-4)=\"DVD\";MONTH(D4)=3)",
+      "B. =OR(LEFT(A4;4)=\"DVD\";MONTH(D4)=3)",
+      "C. =OR(LEFT(A4;LEN(A4)-4)=\"DVD\";MONTH(D4)=3)",
+      "D. =OR(LEFT(A4;LEN(A4)-4)=\"DVD\";D4=3)"
+    ],
+    "correctAnswers": [
+      "C. =OR(LEFT(A4;LEN(A4)-4)=\"DVD\";MONTH(D4)=3)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Công thức đúng để tính ra kết quả ở ô G5 (ô màu vàng):",
+    "options": [
+      "A. =DCOUNT($A$1:$E$11;$B$1;G7:G8)",
+      "B. =DCOUNTA($A$1:$E$11;$B$1;G4:G5)",
+      "C. =DCOUNTA($A$1:$E$11;$C$1;G7:G8)",
+      "D. =DCOUNTA($A$1:$E$11;$B$1;G4:G5)"
+    ],
+    "correctAnswers": [
+      "C. =DCOUNTA($A$1:$E$11;$C$1;G7:G8)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Với MS-Excel, muốn tạo siêu  liên kết (Hyperlink) cho  đối tượng được chọn thì có thể sử dụng tổ hợp phím",
+    "options": [
+      "A. Ctrl+I",
+      "B. Ctrl+H",
+      "C. Ctrl+L",
+      "D. Ctrl+K"
+    ],
+    "correctAnswers": [
+      "D. Ctrl+K"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

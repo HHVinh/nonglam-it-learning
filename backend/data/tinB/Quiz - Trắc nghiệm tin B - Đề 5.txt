@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Câu 1: Trong ngôn ngữ lập trình VBA kiểu dữ liệu Double chứa bao nhiêu bytes?",
+    "options": [
+      "A. 1 bytes",
+      "B. 4 bytes",
+      "C. 8 bytes",
+      "D. 14 bytes"
+    ],
+    "correctAnswers": [
+      "C. 8 bytes"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Trong ngôn ngữ lập trình VBA kiểu dữ liệu Byte chứa bao nhiêu bytes?",
+    "options": [
+      "A. 1 bytes",
+      "B. 4 bytes",
+      "C. 8 bytes",
+      "D. 14 bytes"
+    ],
+    "correctAnswers": [
+      "A. 1 bytes"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Trong ngôn ngữ lập trình VBA kiểu dữ liệu Single chứa bao nhiêu bytes?",
+    "options": [
+      "A. 1 bytes",
+      "B. 4 bytes",
+      "C. 8 bytes",
+      "D. 14 bytes"
+    ],
+    "correctAnswers": [
+      "B. 4 bytes"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Trong ngôn ngữ lập trình VBA kiểu dữ liệu  Decimal chứa bao nhiêu bytes?",
+    "options": [
+      "A. 1 bytes",
+      "B. 4 bytes",
+      "C. 8 bytes",
+      "D. 14 bytes"
+    ],
+    "correctAnswers": [
+      "D. 14 bytes"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Trong hàm tài chính của Excel, Rate có nghĩa là?",
+    "options": [
+      "A. Kì thanh toán",
+      "B. Lãi suất",
+      "C. Tổng số kì thanh toán",
+      "D. Thời điểm thanh toán"
+    ],
+    "correctAnswers": [
+      "B. Lãi suất"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Trong hàm tài chính của Excel, Per có nghĩa là?",
+    "options": [
+      "A. Kì thanh toán",
+      "B. Lãi suất",
+      "C. Tổng số kì thanh toán",
+      "D. Thời điểm thanh toán"
+    ],
+    "correctAnswers": [
+      "A. Kì thanh toán"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Trong hàm tài chính của Excel, Type có nghĩa là?",
+    "options": [
+      "A. Kì thanh toán",
+      "B. Lãi suất",
+      "C. Tổng số kì thanh toán",
+      "D. Thời điểm thanh toán"
+    ],
+    "correctAnswers": [
+      "D. Thời điểm thanh toán"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Trong hàm tài chính của Excel,  Nper có nghĩa là?",
+    "options": [
+      "A. Kì thanh toán",
+      "B. Lãi suất",
+      "C. Tổng số kì thanh toán",
+      "D. Thời điểm thanh toán"
+    ],
+    "correctAnswers": [
+      "C. Tổng số kì thanh toán"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Trong Microsoft Excel 2010, để định dạng kiểu số % cho ô hiện tại?",
+    "options": [
+      "A. Nhấn tổ hợp phím Ctrl + Shift + %",
+      "B. Nhấn tổ hợp phím Alt + Shift + %",
+      "C. Nhấn tổ hợp phím Ctrl + Alt + %",
+      "D. Nhấn tổ hợp phím Alt + Ctrl + %"
+    ],
+    "correctAnswers": [
+      "A. Nhấn tổ hợp phím Ctrl + Shift + %"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Trong Microsoft Excel 2010, để định dạng kiểu dữ liệu cho vùng được chọn?",
+    "options": [
+      "A. Vào Home -> Number",
+      "B. Vào Data -> Number",
+      "C. Vào Insert -> Number",
+      "D. Vào View -> Number"
+    ],
+    "correctAnswers": [
+      "A. Vào Home -> Number"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Trong Microsoft Excel, để chèn thêm 1 Bảng tính (Worksheet)?",
+    "options": [
+      "A. Nhấn tổ hợp phím Ctrl + Shift + F11",
+      "B. Nhấn tổ hợp phím Alt + Shift + F11",
+      "C. Nhấn tổ hợp phím Shift + F11",
+      "D. Nhấn tổ hợp phím Shift + F10"
+    ],
+    "correctAnswers": [
+      "C. Nhấn tổ hợp phím Shift + F11"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Khi ta nhập dữ liệu dạng Ngày Tháng Năm, nếu giá trị Ngày Tháng Năm đó không hợp lệ thì Excel coi đó là dữ liệu dạng nào sau đây?",
+    "options": [
+      "A. Thời Gian",
+      "B. Số",
+      "C. Ngày Tháng Năm",
+      "D. Chuỗi"
+    ],
+    "correctAnswers": [
+      "D. Chuỗi"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Trong Excel, ô Name Box có công dụng gì?",
+    "options": [
+      "A. Hiển thị công thức của ô",
+      "B. Hiển thị dữ liệu trong ô",
+      "C. Canh lề dữ liệu cho ô",
+      "D. Hiển thị địa chỉ ô hiện hành và tên của vùng đang chọn"
+    ],
+    "correctAnswers": [
+      "D. Hiển thị địa chỉ ô hiện hành và tên của vùng đang chọn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Để tính trung bình cộng giá trị số tại các ô C1, C2 và C3. Ta thực hiện công thức nào sau đây?",
+    "options": [
+      "A. =SUM(C1:C3)/3",
+      "B. =AVERAGE(C1:C3)",
+      "C. =(C1+SUM(C2:C3))/3",
+      "D. Tất cả đều đúng"
+    ],
+    "correctAnswers": [
+      "D. Tất cả đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Trong Excel 2010, để giữ cố định hàng hoặc cột trong cửa sổ soạn thảo, ta đánh dấu hàng hoặc cột, sau đó?",
+    "options": [
+      "A. Vào Review -> Freeze Panes",
+      "B. Vào View -> Freeze Panes",
+      "C. Vào Page Layout -> Freeze Panes",
+      "D. Vào Home -> Freeze Panes"
+    ],
+    "correctAnswers": [
+      "B. Vào View -> Freeze Panes"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Trong Microsoft Excel, hàm ROUND dùng để?",
+    "options": [
+      "A. Tính tổng",
+      "B. Tìm giá trị nhỏ nhất",
+      "C. Làm tròn số",
+      "D. Tính giá trị trung bình"
+    ],
+    "correctAnswers": [
+      "C. Làm tròn số"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Chức năng của hàm TRIM(text) là để dùng?",
+    "options": [
+      "A. Cắt bỏ các khoảng trống dư đầu chuỗi Text",
+      "B. Cắt bỏ các khoảng trống dư cuối chuỗi Text",
+      "C. Cắt bỏ các khoảng trống dư đầu và cuối của chuỗi Text",
+      "D. Cắt bỏ các khoảng trống dư đầu, giữa và cuối chuỗi Text"
+    ],
+    "correctAnswers": [
+      "D. Cắt bỏ các khoảng trống dư đầu, giữa và cuối chuỗi Text"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Sử dụng hàm nào để biến đổi ký tự đầu của mỗi từ thành ký tự in hoa trong một ô chứa dữ liệu kiểu chuỗi (Text)?",
+    "options": [
+      "A. TRIM",
+      "B. LOWER",
+      "C. UPPER",
+      "D. PROPER"
+    ],
+    "correctAnswers": [
+      "D. PROPER"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Trong Excel, những nhóm hàm nào sau đây có sử dụng điều kiện để tính toán?",
+    "options": [
+      "A. COUNT, COUNTA, COUNTIF",
+      "B. MAX, MIN, AVERAGE",
+      "C. DSUM, SUMIF, COUNTIF",
+      "D. SUM, SUMIF, DSUM"
+    ],
+    "correctAnswers": [
+      "C. DSUM, SUMIF, COUNTIF"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Trong Excel, địa chỉ sau đây là địa chỉ tuyệt đối cột và tương đối hàng?",
+    "options": [
+      "A. C$1:D$11",
+      "B. $C$1:$D$11",
+      "C. C$1:$D$11",
+      "D. $C1:$D11"
+    ],
+    "correctAnswers": [
+      "D. $C1:$D11"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Trong Excel, cho biết địa chỉ nào sau đây không hợp lệ?",
+    "options": [
+      "A. 111$A",
+      "B. BB$111",
+      "C. AA222",
+      "D. $BA20"
+    ],
+    "correctAnswers": [
+      "A. 111$A"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Trong Excel, tại ô A2 có công thức =A1&$B$1&C$1. Khi sao chép công thức này đến ô C3, công thức tại ô C3 sẽ là?",
+    "options": [
+      "A. =C2&$B$1&E$1",
+      "B. =C2&$B$1&E$2",
+      "C. =C2&$B$1&E$3",
+      "D. =C2&$B$1&E$4"
+    ],
+    "correctAnswers": [
+      "A. =C2&$B$1&E$1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Trong Excel, tại ô A3 có công thức =SUM(A1:B2)&$B$1. Khi sao chép công thức này đến ô D5, công thức tại ô D5 sẽ là?",
+    "options": [
+      "A. =SUM(D3:E4)&$B$1",
+      "B. =SUM(D4:E5)&$B$2",
+      "C. =SUM(D5:E6)&$B$3",
+      "D. =SUM(D3:E4)&$B$4"
+    ],
+    "correctAnswers": [
+      "A. =SUM(D3:E4)&$B$1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Trong Excel, tại ô A2 có giá trị là chuỗi HOAHONG, B2 có giá trị là chuỗi PHUONGTIM. Tại ô C2 gõ công thức =MID(A2&B2,4,4) thì nhận được kết quả?",
+    "options": [
+      "A. HONG",
+      "B. GTIM",
+      "C. HOAP&PHUO",
+      "D. #VALUE"
+    ],
+    "correctAnswers": [
+      "A. HONG"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Trong Excel, tại ô A2 có giá trị là chuỗi HOAHONG, B2 có giá trị là chuỗi PHUONGTIM. Tại ô C2 gõ công thức =MID(B2,2,5)&LEFT(A2,3) thì nhận được kết quả?",
+    "options": [
+      "A. TIMHONG",
+      "B. HOAHONG",
+      "C. HUONGHOA",
+      "D. HOAPHUONG"
+    ],
+    "correctAnswers": [
+      "C. HUONGHOA"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Trong bảng tính Excel, cho biết kết quả khi thực hiện công thức: =LEN(LEFT(\"THANH PHO DALAT\"))+2",
+    "options": [
+      "A. 9",
+      "B. 3",
+      "C. 6",
+      "D. 17"
+    ],
+    "correctAnswers": [
+      "B. 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Trong Excel, tại ô A2 có giá trị là ngày 30/04/2016. Tại ô B2 gõ công thức =DAY(A2)+MONTH(A2) thì nhận được kết quả?",
+    "options": [
+      "A. 34",
+      "B. 30 + 4",
+      "C. 30/4",
+      "D. #VALUE!"
+    ],
+    "correctAnswers": [
+      "A. 34"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Trong Excel, tại ô A2 có giá trị là ngày 30/04/2016. Tại ô B2 gõ công thức =DATE(DAY(A2);MONTH(A2);YEAR(A2)) thì nhận được kết quả?",
+    "options": [
+      "A. 30/4/2016",
+      "B. 2016/4/30",
+      "C. 4/30/2016",
+      "D. Đáp án khác"
+    ],
+    "correctAnswers": [
+      "D. Đáp án khác"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Để tính tổng (Auto Sum) các ô liên tục của một cột, ta đưa con trỏ về ô chứa kết quả rồi thực hiện?",
+    "options": [
+      "A. Nhấn tổ hợp phím Ctrl =",
+      "B. Chọn Data - Subtotals",
+      "C. Nhấn tổ hợp phím Alt =",
+      "D. Tất cả đều đúng"
+    ],
+    "correctAnswers": [
+      "C. Nhấn tổ hợp phím Alt ="
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Để tô màu nền cho ô dữ liệu, ta chọn ô cần tô rồi?",
+    "options": [
+      "A. Nhấn vào biểu tượng Fill Color trên thanh công cụ Formatting",
+      "B. Chọn menu Format - Cells, chọn Font và chọn Color",
+      "C. Nhấn vào biểu tượng Font Color trên thanh công cụ",
+      "D. Tất cả đều đúng"
+    ],
+    "correctAnswers": [
+      "A. Nhấn vào biểu tượng Fill Color trên thanh công cụ Formatting"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Trong MS Excel 2010, Hàm tìm vị thứ của một số trong dãy số (xếp thứ hạng)?",
+    "options": [
+      "A. COUNT",
+      "B. MIN",
+      "C. MAX",
+      "D. RANK"
+    ],
+    "correctAnswers": [
+      "D. RANK"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Trong MS Excel 2010, giả sử tại ô B3 gõ như sau: Today() kết quả là?",
+    "options": [
+      "A. Today()",
+      "B. Ngày tháng năm và giờ phút giây hiện hành trên máy tính",
+      "C. #NAME",
+      "D. Ngày tháng năm hiện hành trên máy tính"
+    ],
+    "correctAnswers": [
+      "A. Today()"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Muốn một ô trong bảng có hướng chữ nghiêng 45 độ, tại ô đó thực hiện?",
+    "options": [
+      "A. Nhấn chuột phải -> Format Cell -> Tab Alignment -> Wrap text, chọn 45",
+      "B. Kẻ đường thẳng 45 độ rồi gõ dữ liệu vào",
+      "C. Nhấn chuột phải -> Format Cell -> Tab Alignment -> Orientation, chọn 45 Degrees",
+      "D. Tất cả đều sai"
+    ],
+    "correctAnswers": [
+      "C. Nhấn chuột phải -> Format Cell -> Tab Alignment -> Orientation, chọn 45 Degrees"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Trong MS Excel, để định dạng dữ liệu dạng tiền tệ, tại ô đó, chúng ta thực hiện?",
+    "options": [
+      "A. Nhấn chuột phải -> chọn Format Cells -> Number - > General",
+      "B. Nhấn chuột phải -> chọn Format Cells -> Number - > Currency",
+      "C. Nhấn chuột phải -> chọn Format Cells -> Number - > Fraction",
+      "D. Nhấn chuột phải -> chọn Format Cells -> Number - > Accouting"
+    ],
+    "correctAnswers": [
+      "B. Nhấn chuột phải -> chọn Format Cells -> Number - > Currency"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Trong Excel giá trị ô A1, B1, C1, D1, E1 lần lượt là 2, 4, 6, 8, 10. Tại ô F1 nhập công thức =MATCH(6,$A$1:$E$1,1) trả về kết quả nào sau đây?",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 6",
+      "D. #N/A"
+    ],
+    "correctAnswers": [
+      "B. 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Trong Excel, tại ô H9 chứa giá trị 167900. Tại ô G9 ta lập công thức nào sau đây để có kết quả là 168000?",
+    "options": [
+      "A. =MOD(H9,3)",
+      "B. =ROUND(H9,3)",
+      "C. =ROUND(H9;-3)",
+      "D. =INT(H9)"
+    ],
+    "correctAnswers": [
+      "C. =ROUND(H9;-3)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Trong Excel, công thức =LEN(\"Microsoft Excel 2010\") cho kết quả?",
+    "options": [
+      "A. 20",
+      "B. 18",
+      "C. 22",
+      "D. 16"
+    ],
+    "correctAnswers": [
+      "A. 20"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Công thức =COUNTIF(L94:L97,M94) sẽ?",
+    "options": [
+      "A. Đếm các ô trong vùng L94:M94",
+      "B. Đếm các ô trong vùng L94:L97 có dữ liệu giống như dữ liệu ở ô địa chỉ M94",
+      "C. Đếm các ô trong vùng L94:L97 có chữ M94 và có dữ liệu kiểu số",
+      "D. Tất cả đều sai"
+    ],
+    "correctAnswers": [
+      "B. Đếm các ô trong vùng L94:L97 có dữ liệu giống như dữ liệu ở ô địa chỉ M94"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Cho biết kết quả khi thực hiện biểu thức: =NOT(23+12=2015)",
+    "options": [
+      "A. True",
+      "B. #N/A",
+      "C. #REF",
+      "D. False"
+    ],
+    "correctAnswers": [
+      "A. True"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Hàm MONTH(\"09-Jan-2008\") cho kết quả:",
+    "options": [
+      "A. 1",
+      "B. 9",
+      "C. 10",
+      "D. 2008"
+    ],
+    "correctAnswers": [
+      "A. 1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Hàm =TRIM(\" Microsoft Excel 2003 \") cho kết quả là?",
+    "options": [
+      "A. \"MicrosoftExcel2003\"",
+      "B. \" MicrosoftExcel2003 \"",
+      "C. \"Microsoft Excel 2023\"",
+      "D. \"Microsoft Excel 2003\""
+    ],
+    "correctAnswers": [
+      "D. \"Microsoft Excel 2003\""
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Trong MS Excel hàm =ABS(A9) dùng để?",
+    "options": [
+      "A. Tính tổng của số A9",
+      "B. Tính giá trị tuyệt đối của số A9",
+      "C. Tính căn bậc hai của số A9",
+      "D. Tính luỹ thừa 2 của số A9"
+    ],
+    "correctAnswers": [
+      "B. Tính giá trị tuyệt đối của số A9"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Một ô chứa số 17 định dạng Format Cells bằng 000 sẽ hiển thị?",
+    "options": [
+      "A. 000",
+      "B. 17",
+      "C. 017",
+      "D. ####"
+    ],
+    "correctAnswers": [
+      "C. 017"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Trong Excel để đánh số thứ tự tự động trên 1 cột ta sử dụng chức năng?",
+    "options": [
+      "A. Editing\\Fill\\Series",
+      "B. Editing\\Series\\Fill",
+      "C. Editing\\Insert\\Value",
+      "D. Cả 3 cách trên đều đúng"
+    ],
+    "correctAnswers": [
+      "A. Editing\\Fill\\Series"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Muốn di chuyển đến một sheet khác trong tập tin thực hiện?",
+    "options": [
+      "A. Nhấn phím Ctrl G và số thứ tự của sheet",
+      "B. Nhấn chuột lên tên sheet cần tác động",
+      "C. Nhấn tổ hợp phím Ctrl+ PgUp hoặc Ctrl + PgDn",
+      "D. Thực hiện cách b hoặc c đều được"
+    ],
+    "correctAnswers": [
+      "D. Thực hiện cách b hoặc c đều được"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Tổ hợp phím Ctrl + F4 tương đương với lệnh?",
+    "options": [
+      "A. Thoát khỏi Excel",
+      "B. Lưu tập tin với tên mới",
+      "C. Đóng tập tin hiện hành",
+      "D. Đóng sheet hiện hành"
+    ],
+    "correctAnswers": [
+      "C. Đóng tập tin hiện hành"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Muốn nhập ngày hệ thống vào ô hiện hành, bạn thực hiện nhấn tổ hợp phím?",
+    "options": [
+      "A. Ctrl :",
+      "B. Alt :",
+      "C. Ctrl ;",
+      "D. Alt ;"
+    ],
+    "correctAnswers": [
+      "C. Ctrl ;"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Khi muốn đánh dấu chọn một cột trong trang bảng tính ta thực hiện?",
+    "options": [
+      "A. Nhấn tổ hợp phím Ctrl + Spacebar",
+      "B. Nhấn tổ hợp phím Alt + Spacebar",
+      "C. Nhấn tổ hợp phím Shift + Spacebar",
+      "D. Nhấn tổ hợp phím Alt + Shift + Spacebar"
+    ],
+    "correctAnswers": [
+      "A. Nhấn tổ hợp phím Ctrl + Spacebar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Muốn vẽ nhanh một biểu đồ, ta di chuyển ô hiện hành vào trong bảng dữ liệu rồi nhấn phím?",
+    "options": [
+      "A. F1",
+      "B. F10",
+      "C. F11",
+      "D. F12"
+    ],
+    "correctAnswers": [
+      "C. F11"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Trong Excel muốn lưu tài liệu với một tên khác ta dùng lệnh hay tổ hợp phím nào?",
+    "options": [
+      "A. File\\Save As",
+      "B. F12",
+      "C. Các câu a và b đều đúng",
+      "D. Các câu trên đều sai"
+    ],
+    "correctAnswers": [
+      "C. Các câu a và b đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

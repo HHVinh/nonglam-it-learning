@@ -1,0 +1,845 @@
+[
+  {
+    "text": "Câu 1: Phần mở rộng của file tài liệu với chương trình ứng dụng Microsoft Word 2010 là?",
+    "options": [
+      "A. Xlsx",
+      "B. Pptx",
+      "C. Txt",
+      "D. Docx"
+    ],
+    "correctAnswers": [
+      "D. Docx"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Trong Microsoft Word 2010, lựa chọn nào sau đây khi muốn xuống dòng mà không kết thúc đoạn?",
+    "options": [
+      "A. Bấm phím Enter",
+      "B. Bấm tổ hợp phím Ctrl+Enter",
+      "C. Bấm tổ hợp phím Shift+Enter",
+      "D. Bấm tổ hợp phím Alt+Enter"
+    ],
+    "correctAnswers": [
+      "C. Bấm tổ hợp phím Shift+Enter"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Trong PowerPoint 2010 2010 2010, để hiển thị một bản trình bày chứa ba khung: Outline, Slide and Notes, bạn dùng",
+    "options": [
+      "A. Slide Sorter",
+      "B. Normal",
+      "C. Slide Show",
+      "D. Reading View"
+    ],
+    "correctAnswers": [
+      "B. Normal"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Trong Microsoft Word 2010, để di chuyển con trỏ văn bản về đầu của văn bản hiện hành, ta sử dụng?",
+    "options": [
+      "A. Phím Page Down",
+      "B. Tổ hợp phím Ctrl + Down Arrow",
+      "C. Tổ hợp phím Ctrl + Home",
+      "D. Phím Home"
+    ],
+    "correctAnswers": [
+      "C. Tổ hợp phím Ctrl + Home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Trong hệ điều hành Windows, thuộc tính nào dưới đây dùng đề hiển thị thanh công việc (Taskbar) trên các cửa sổ chương trình?",
+    "options": [
+      "A. Keep the Taskbar on top of other Windows",
+      "B. Lock the Taskbar",
+      "C. Auto - Hide the Taskbar",
+      "D. Show the clock"
+    ],
+    "correctAnswers": [
+      "A. Keep the Taskbar on top of other Windows"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Loại máy tính nào cung cấp dịch vụ khác nhau cho các máy khách kết nối với nhau trên mạng?",
+    "options": [
+      "A. Máy chủ",
+      "B. Rack",
+      "C. Switch",
+      "D. Máy trạm"
+    ],
+    "correctAnswers": [
+      "A. Máy chủ"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Bạn chèn một đĩa có CD có chương trình điều khiển trong nó. Bạn cố gắng truy cập đĩa, một thông báo lỗi xuất hiện. Nguyên nhân gây ra lỗi là gì?",
+    "options": [
+      "A. Bạn đặt đĩa vào khay không đúng chiều",
+      "B. Không đủ dung lượng bộ nhớ trống",
+      "C. Đĩa chứa nhiều kiểu tập tin",
+      "D. Pin máy tính yếu"
+    ],
+    "correctAnswers": [
+      "A. Bạn đặt đĩa vào khay không đúng chiều"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Lựa chọn nào sau đây là ví dụ về một URL?",
+    "options": [
+      "A. http://www.Microsoft.com",
+      "B. #twitter",
+      "C. john.smith@email.com",
+      "D. ☺"
+    ],
+    "correctAnswers": [
+      "A. http://www.Microsoft.com"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Trong Microsoft Excel 2010, khi nhập công thức cho một ô, trong công thức có sử dụng một hàm tính toán nhưng bị sai tên thì thông báo lỗi là?",
+    "options": [
+      "A. #NAME",
+      "B. #VALUE",
+      "C. FALSE",
+      "D. #N/A"
+    ],
+    "correctAnswers": [
+      "A. #NAME"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Phím nào được dùng kết hợp trong khi chọn các đoạn văn bản liền kề nhau?",
+    "options": [
+      "A. Alt",
+      "B. Shift",
+      "C. Ctrl",
+      "D. Fn"
+    ],
+    "correctAnswers": [
+      "B. Shift"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Trong Microsoft Excel, dạng địa chỉ nào sau đây là địa chỉ tuyệt đối?",
+    "options": [
+      "A. B$2$:D$8$",
+      "B. B$2:D$8",
+      "C. $B$2:$D$8",
+      "D. $B2:$D8"
+    ],
+    "correctAnswers": [
+      "C. $B$2:$D$8"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Trong Microsoft PowerPoint 2010 2010 2010, phần mở rộng của tập tin trình chiếu là?",
+    "options": [
+      "A. PPTX",
+      "B. TXT",
+      "C. BMP",
+      "D. DOCX"
+    ],
+    "correctAnswers": [
+      "A. PPTX"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Phím tắt nào sau đây dùng để đóng Word 2010?",
+    "options": [
+      "A. Ctrl + W",
+      "B. Alt + C",
+      "C. Ctrl + D",
+      "D. Alt + W"
+    ],
+    "correctAnswers": [
+      "A. Ctrl + W"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Phần mở rộng nào sau đây là của theme trong PowerPoint 2010 2010 2010?",
+    "options": [
+      "A. .thmx",
+      "B. .pptx",
+      "C. .pptm",
+      "D. .potms"
+    ],
+    "correctAnswers": [
+      "A. .thmx"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Cách tạo 1 slide mới giống y hệt slide hiện tại ta dùng cách nào? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Click chuột phải chọn Duplicate Slides",
+      "B. Chọn Insert\\New Slide",
+      "C. Home\\New Slide",
+      "D. Chọn Insert\\NewSlide\\Dupplicate Selected Slides"
+    ],
+    "correctAnswers": [
+      "A. Click chuột phải chọn Duplicate Slides",
+      "D. Chọn Insert\\NewSlide\\Dupplicate Selected Slides"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Trong Excel 2010 địa chỉ $A5 B$6 là địa chỉ gì?",
+    "options": [
+      "A. Địa chỉ tương đối",
+      "B. Địa chỉ tuyệt đối",
+      "C. Địa chỉ hỗn hợp",
+      "D. Địa chỉ thường"
+    ],
+    "correctAnswers": [
+      "C. Địa chỉ hỗn hợp"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Lựa chọn nào sau đây là ví dụ của dịch vụ chat?",
+    "options": [
+      "A. Internet",
+      "B. Teamviewer",
+      "C. UtralViews",
+      "D. Skype"
+    ],
+    "correctAnswers": [
+      "D. Skype"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Microsoft PowerPoint 2010 2010 không hỗ trợ views nào?",
+    "options": [
+      "A. Normal",
+      "B. Outline View",
+      "C. Slide Sorter",
+      "D. Holoview"
+    ],
+    "correctAnswers": [
+      "D. Holoview"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Trong Microsoft PowerPoint 2010 2010 cách để tạo một bài trình chiếu mới?",
+    "options": [
+      "A. File\\Open\\NewPowerPoint",
+      "B. File\\Home\\New PowerPoint 2010 2010 File",
+      "C. File\\New\\ Blank Presentation",
+      "D. Home\\New\\File\\PowerPoint 2010 2010"
+    ],
+    "correctAnswers": [
+      "C. File\\New\\ Blank Presentation"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Phần mở rộng nào không phải của Excel lưu trữ?",
+    "options": [
+      "A. Xlsx",
+      "B. Xls",
+      "C. Xlsm",
+      "D. Xlst"
+    ],
+    "correctAnswers": [
+      "D. Xlst"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Thành phần nào không có trong Excel?",
+    "options": [
+      "A. Toán tử",
+      "B. Hằng số",
+      "C. Toán hạng, hàm",
+      "D. Sai số"
+    ],
+    "correctAnswers": [
+      "D. Sai số"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Thanh công cụ nào trong Word cho phép thay đổi khoảng cách dòng?",
+    "options": [
+      "A. Paragraph",
+      "B. Layout",
+      "C. Insert",
+      "D. Review"
+    ],
+    "correctAnswers": [
+      "A. Paragraph"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Lựa chọn nào sau đây là địa chỉ email?",
+    "options": [
+      "A. Nguyenvantam.com",
+      "B. Nhatnam.edu.vn",
+      "C. 123@edushopvn20",
+      "D. Nguyennhatnam@yahoo.com"
+    ],
+    "correctAnswers": [
+      "D. Nguyennhatnam@yahoo.com"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Quyền cho phép truy cập vào xem tập tin nhưng không cho thay đổi nội dung?",
+    "options": [
+      "A. Read/Write",
+      "B. Open",
+      "C. Modifier",
+      "D. Read"
+    ],
+    "correctAnswers": [
+      "D. Read"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Lệnh nào chuyển đổi qua lại giữa các cửa sổ trong Windows?",
+    "options": [
+      "A. Ctrl +Tab",
+      "B. Alt +Tab",
+      "C. Alt + Enter",
+      "D. Shift+ Enter"
+    ],
+    "correctAnswers": [
+      "B. Alt +Tab"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: View nào trình bày, thiết kế nội dung, chỉnh sửa soạn thảo trong PowerPoint 2010 2010?",
+    "options": [
+      "A. Nomal",
+      "B. Reading View",
+      "C. Slide Sorter",
+      "D. Notes page"
+    ],
+    "correctAnswers": [
+      "A. Nomal"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Lựa chọn sau đây không phải đặc điểm của email?",
+    "options": [
+      "A. Cho phép bạn làm video chat với ng khác",
+      "B. Yêu cầu một tên người dùng và mật khẩu để sử dụng",
+      "C. Cho phép bạn trao đổi tin nhắn kỹ thuật số với những người khác",
+      "D. Yêu cầu bạn cung cấp địa chỉ email của người mà bạn muốn gửi tin nhắn cho"
+    ],
+    "correctAnswers": [
+      "A. Cho phép bạn làm video chat với ng khác"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Trong bảng tính Excel, cho các giá trị như sau: A4 =4, A2 = 5, A3 = 6, A7 = 7 tại vị trí ô B2 lập công thức B2 =sum(A4,A2,count(A3,A4)). Kết quả ở B2 là?",
+    "options": [
+      "A. 11",
+      "B. 9",
+      "C. 10",
+      "D. Lỗi"
+    ],
+    "correctAnswers": [
+      "A. 11"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Phái biểu nào đúng về CPU?",
+    "options": [
+      "A. CPU thường được tích hợp với chip gọi là vi xử lý",
+      "B. CPU viết tắt của Processing Unit",
+      "C. CPU nhắm đến phần mềm người sử dụng",
+      "D. CPU được tạo bởi bộ nhớ ram và rom"
+    ],
+    "correctAnswers": [
+      "A. CPU thường được tích hợp với chip gọi là vi xử lý"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Làm thế nào để bạn xóa 1 tập tin mà không cần di chuyển nó vào Recycle Bin?",
+    "options": [
+      "A. Chọn tập tin và nhấn Ctrl Delete trên bàn phím",
+      "B. Chọn tập tin và nhấn Shifft Delete trên bàn phím",
+      "C. Chọn tập tin và nhấn Delete trên bàn phím",
+      "D. Right click vào file và chọn Delete"
+    ],
+    "correctAnswers": [
+      "B. Chọn tập tin và nhấn Shifft Delete trên bàn phím"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Khái niệm nào cho biết hệ điều hành thực thi nhiều tiến trình khác nhau cùng lúc?",
+    "options": [
+      "A. Đơn nhiệm",
+      "B. Đa phiên",
+      "C. Đa nhiệm",
+      "D. Đa người dùng"
+    ],
+    "correctAnswers": [
+      "C. Đa nhiệm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Bạn muốn dùng task manager để xem cách sử dụng bộ nhớ RAM và lịch sử sử dụng. Mục gì trong Task manager cụng cấp biểu đồ chi tiết?",
+    "options": [
+      "A. Service",
+      "B. Performance",
+      "C. Resource Monitor",
+      "D. Process"
+    ],
+    "correctAnswers": [
+      "B. Performance"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Công cụ nào để sao lưu trong Win7?",
+    "options": [
+      "A. Task Scheduler",
+      "B. Previous Version",
+      "C. Access Center",
+      "D. Action Center"
+    ],
+    "correctAnswers": [
+      "B. Previous Version"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Trong Excel 2010,khi bạn muốn nội dung trong 1 ô tự động hiển thị trên nhiều dòng để đảm bảo nội dung không bị che khuất khi cột không đủ độ rộng. Chức năng nào sao đây?",
+    "options": [
+      "A. Wrap text",
+      "B. Alt + End",
+      "C. Enter + Alt",
+      "D. Ctrl + Alt"
+    ],
+    "correctAnswers": [
+      "A. Wrap text"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Loại dữ liệu nào Excel không hỗ trợ?",
+    "options": [
+      "A. BMP",
+      "B. XML",
+      "C. XLA",
+      "D. TXT"
+    ],
+    "correctAnswers": [
+      "A. BMP"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Làm sao để chèn footnote và endnote trong Word?",
+    "options": [
+      "A. Home/InsertFotenote",
+      "B. Insert/Footnote",
+      "C. References/InsertFootNote",
+      "D. View/InsertFootnote"
+    ],
+    "correctAnswers": [
+      "C. References/InsertFootNote"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Làm sao để phân biệt liên kết (link) trong Word?",
+    "options": [
+      "A. Văn bản màu xanh lam, gạch chân",
+      "B. Văn bản màu xanh lục gạch chân",
+      "C. Văn bản màu xanh, in đậm",
+      "D. Văn bản màu đỏ, in nghiêng"
+    ],
+    "correctAnswers": [
+      "A. Văn bản màu xanh lam, gạch chân"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Wrapping style nào để có hình ảnh nằm trên 1 dòng với văn bản?",
+    "options": [
+      "A. In line with text",
+      "B. Behind Text",
+      "C. In front of text",
+      "D. Square"
+    ],
+    "correctAnswers": [
+      "A. In line with text"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Thêm văn bản nền (background) nào nhẹ hơn vào tài liệu?",
+    "options": [
+      "A. Water mark",
+      "B. Background",
+      "C. Windows",
+      "D. Design"
+    ],
+    "correctAnswers": [
+      "A. Water mark"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Định dạng nào dưới đây là đuôi mở rộng của các mẫu thiết kế (themes) trong PowerPoint 2010 2010?",
+    "options": [
+      "A. Themx",
+      "B. Themsx",
+      "C. Them",
+      "D. Theme"
+    ],
+    "correctAnswers": [
+      "A. Themx"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Word sẽ tìm loại kiểu đoạn văn nào khi bạn tạo mục lục (table of content)?",
+    "options": [
+      "A. Phụ đề(subtitle)",
+      "B. Mạnh mẽ (strong)",
+      "C. Tiêu đề văn bản (title)",
+      "D. Tiêu đề (heading)"
+    ],
+    "correctAnswers": [
+      "D. Tiêu đề (heading)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Giao thức (protocol) nào cho phép duyệt web an toàn trên internet?",
+    "options": [
+      "A. Giao thức TCP/IP",
+      "B. Giao thức DNS",
+      "C. Giao thức HTTP",
+      "D. Giao thức HTTPS"
+    ],
+    "correctAnswers": [
+      "D. Giao thức HTTPS"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Phát biểu nào sao đây là đúng với công cụ tìm kiếm (search engine) trên internet?",
+    "options": [
+      "A. Nó là 1 chương trình nằm trên máy tính của bạn",
+      "B. Công cụ tìm kiếm cho phép người dùng tùy chọn các chức năng nâng cao để tinh chỉnh việc tìm kiếm",
+      "C. Nó là 1 trang internet cho phép thực hiện việc tìm kiếm cửa Word wide web",
+      "D. Tất cả các trang hiện có trên web đều chứa cơ sở dữ liệu của công cụ tìm kiếm"
+    ],
+    "correctAnswers": [
+      "B. Công cụ tìm kiếm cho phép người dùng tùy chọn các chức năng nâng cao để tinh chỉnh việc tìm kiếm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Trong PowerPoint 2010 2010, khi thiết kế các slide, sử dụng Home \\ slide \\ new slide có ý nghĩa gì?",
+    "options": [
+      "A. Chèn thêm 1 slide mới vào ngay sau slide hiện hành",
+      "B. Chèn thêm 1 slide mới vào ngay trước slide đầu tiên",
+      "C. Chèn thêm 1 slide mới vào ngay trước slide hiện hành",
+      "D. Chèn thêm 1 slide mới vào nay sau slide cuối cùng"
+    ],
+    "correctAnswers": [
+      "C. Chèn thêm 1 slide mới vào ngay trước slide hiện hành"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Trong Excel 2010, khi nhập công thức cho 1 ô, trong công thức có sử dụng 1 hàm tính toán nhưng bị sai tên thì thông báo lỗi gì?",
+    "options": [
+      "A. #NAME",
+      "B. FALSE",
+      "C. #VALUE",
+      "D. #ERROR"
+    ],
+    "correctAnswers": [
+      "A. #NAME"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Bạn sử dụng kiểu bao phủ (wrapping style) nào để có 1 hình ảnh nằm trên 1 dòng văn bản?",
+    "options": [
+      "A. Tight",
+      "B. In front of text",
+      "C. Top and bottom",
+      "D. Square"
+    ],
+    "correctAnswers": [
+      "C. Top and bottom"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Trong PowerPoint 2010 2010, để thay đổi bố cục slide, bạn nên?",
+    "options": [
+      "A. Thẻ design, trong nhóm slide, chọn slide layout",
+      "B. Thẻ insert, trong nhóm slide, chọn slide layout",
+      "C. Thẻ home, trong nhóm slide, chọn slide layout",
+      "D. Nhấp trái vào slide trong thẻ slide hoặc trong khung slide show"
+    ],
+    "correctAnswers": [
+      "C. Thẻ home, trong nhóm slide, chọn slide layout"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Thêm văn bản nền nhẹ hơn vào nền tài liệu, bạn chọn?",
+    "options": [
+      "A. Tiêu đề (heading)",
+      "B. Phong cách (style)",
+      "C. Hình mờ (watermark)",
+      "D. Chèn trang (footer)"
+    ],
+    "correctAnswers": [
+      "C. Hình mờ (watermark)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Khi bạn cần thụt lề cho đoạn văn bản, bạn cần làm điều gì?",
+    "options": [
+      "A. Sử dụng tab",
+      "B. Trong menu insert",
+      "C. Trong menu home",
+      "D. Trong menu Page layout"
+    ],
+    "correctAnswers": [
+      "C. Trong menu home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Thanh công cụ nào cho phép bạn thay đổi khoảng cách dòng?",
+    "options": [
+      "A. Standard",
+      "B. Drawing",
+      "C. Formatting",
+      "D. Address"
+    ],
+    "correctAnswers": [
+      "C. Formatting"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 51: Sự khác biệt giữa phong cách (style) và chủ đề (theme) trong Word là gì?",
+    "options": [
+      "A. Style nằm trong menu Home và theme nằm trong design",
+      "B. Style là 1 tập hợp các thiết lập định dạng (formatting) và theme là 1 tập hợp các style",
+      "C. Chúng giống nhau",
+      "D. Chữ “a” xuất hiện ở bên phải tên style trong khung style"
+    ],
+    "correctAnswers": [
+      "A. Style nằm trong menu Home và theme nằm trong design"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 52: Trong Excel một tập tin mà trên đó bạn làm việc và lưu trữ dữ liệu được gọi là?",
+    "options": [
+      "A. Document",
+      "B. Workbook",
+      "C. Worksheet",
+      "D. Presentation"
+    ],
+    "correctAnswers": [
+      "B. Workbook"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 53: Công cụ nào để sao lưu trong Windows 7?",
+    "options": [
+      "A. Previous version",
+      "B. Action center",
+      "C. Task scheduler",
+      "D. Access center"
+    ],
+    "correctAnswers": [
+      "A. Previous version"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 54: Trong Excel dấu ngăn cách đối số trong hàm?",
+    "options": [
+      "A. (.)",
+      "B. (,)",
+      "C. (;)",
+      "D. Tùy vào control panel"
+    ],
+    "correctAnswers": [
+      "D. Tùy vào control panel"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 55: Những cách xem nào trong Windows Explorer cho phép bạn biết được thời gian tạo tập tin?",
+    "options": [
+      "A. Smaill icons",
+      "B. Tiles",
+      "C. Content",
+      "D. Large icons"
+    ],
+    "correctAnswers": [
+      "C. Content"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 56: … là quá trình cải thiện 1 cách có hệ thống khả năng hiển thị của một trang web trong các công cụ tìm kiếm khác nhau?",
+    "options": [
+      "A. Xếp hàng tự nhiên",
+      "B. Đã cố định và các nội dung không thay đổi",
+      "C. Xếp hạng trong công cụ tìm kiếm",
+      "D. Sử dụng nhiều chữ in hoa"
+    ],
+    "correctAnswers": [
+      "C. Xếp hạng trong công cụ tìm kiếm"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 57: Quyền nào cho phép người dùng truy cập xem tập tin nhưng không làm thay đổi nội dung?",
+    "options": [
+      "A. View",
+      "B. Read/write",
+      "C. Delete",
+      "D. Read"
+    ],
+    "correctAnswers": [
+      "D. Read"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 58: Bạn có thể sử dụng kiểu dữ liệu nào với auto fill trong Excel? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Số",
+      "B. Ngày",
+      "C. Văn bản",
+      "D. Các tháng trong năm"
+    ],
+    "correctAnswers": [
+      "A. Số",
+      "B. Ngày",
+      "C. Văn bản"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 59: Trong PowerPoint 2010 2010, muốn chèn các slide từ 1 tập tin khác vào tập tin đang mở ta làm?",
+    "options": [
+      "A. Insert\\new slide",
+      "B. File\\import",
+      "C. Insert\\duplicate slide",
+      "D. Insert\\slide from slide"
+    ],
+    "correctAnswers": [
+      "D. Insert\\slide from slide"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 60: Lựa chọn nào là đúng với chứng chỉ bảo mật (Security Centificate)?",
+    "options": [
+      "A. Thông thường các chứng chỉ bảo mật được cấp tự động",
+      "B. Các chứng chỉ bảo mật sử dụng cho cá nhân không được cung cấp tự động",
+      "C. Các chứng chỉ bảo mật không hết hạn",
+      "D. Một chứng chỉ bảo mật không đáng tin cậy là một chứng chỉ đã bị hủy"
+    ],
+    "correctAnswers": [
+      "B. Các chứng chỉ bảo mật sử dụng cho cá nhân không được cung cấp tự động"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

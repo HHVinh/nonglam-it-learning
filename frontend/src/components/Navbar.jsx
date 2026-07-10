@@ -95,7 +95,7 @@ export default function Navbar({ isDark, onToggleDark }) {
   const navLink = (label, path, active) => (
     <Link to={path}
       className={cn(
-        "px-3 py-2 rounded-xl text-sm font-medium transition-all duration-150",
+        "px-3 py-2 rounded-xl text-lg font-extrabold tracking-tight transition-all duration-150",
         active
           ? "text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30"
           : "text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-50 dark:hover:bg-slate-800"
@@ -116,7 +116,7 @@ export default function Navbar({ isDark, onToggleDark }) {
             </div>
             <div className="flex items-center">
               <span className="font-bold text-slate-900 dark:text-white text-lg sm:text-xl tracking-tight" style={{ fontFamily: "'Poppins', sans-serif" }}>
-                Nong Lam IT <span className="text-slate-500 font-medium">Learning</span>
+                Nong Lam IT <span className="hidden sm:inline text-slate-500 font-medium">Learning</span>
               </span>
             </div>
           </Link>
@@ -129,7 +129,8 @@ export default function Navbar({ isDark, onToggleDark }) {
             <span className="font-extrabold text-slate-900 dark:text-white tracking-tight">NLU <span className="text-amber-500">Hub</span></span>
           </a>
           
-          {navLink("Khóa Học", "/", currentPage === "home" || currentPage === "course")}
+          {navLink("Khóa Học", "/", currentPage === "home" || currentPage === "course" && !location.pathname.startsWith('/quiz'))}
+          {navLink("Trắc Nghiệm", "/quiz", location.pathname.startsWith('/quiz'))}
         </div>
 
         {/* Right Actions */}
@@ -199,6 +200,23 @@ export default function Navbar({ isDark, onToggleDark }) {
           </button>
         </div>
       </div>
+      
+      {/* Mobile Menu Dropdown */}
+      {menuOpen && (
+        <div className="md:hidden border-t border-slate-100 dark:border-slate-800 bg-white dark:bg-gray-900 px-4 py-4 space-y-3 shadow-lg">
+          <a href="https://nlu-hub.vercel.app" target="_blank" rel="noopener noreferrer" 
+             className="block px-3 py-2 rounded-xl text-lg transition-all duration-150 hover:bg-slate-100 dark:hover:bg-slate-800">
+            <span className="font-extrabold text-slate-900 dark:text-white tracking-tight">NLU <span className="text-amber-500">Hub</span></span>
+          </a>
+          
+          <Link to="/" onClick={() => setMenuOpen(false)} className={cn("block px-3 py-2 rounded-xl text-lg font-extrabold tracking-tight transition-all duration-150", (currentPage === "home" || currentPage === "course" && !location.pathname.startsWith('/quiz')) ? "text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30" : "text-slate-600 dark:text-slate-300")}>
+            Khóa Học
+          </Link>
+          <Link to="/quiz" onClick={() => setMenuOpen(false)} className={cn("block px-3 py-2 rounded-xl text-lg font-extrabold tracking-tight transition-all duration-150", location.pathname.startsWith('/quiz') ? "text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30" : "text-slate-600 dark:text-slate-300")}>
+            Trắc Nghiệm
+          </Link>
+        </div>
+      )}
     </nav>
   );
 }

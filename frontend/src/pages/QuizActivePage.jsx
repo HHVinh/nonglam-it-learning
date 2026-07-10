@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
-import { useSearchParams, useNavigate } from 'react-router-dom';
+import { useSearchParams, useNavigate, Link } from 'react-router-dom';
+import { ArrowLeft } from 'lucide-react';
 import axios from 'axios';
 import QuestionViewer from '../components/quiz/QuestionViewer';
 import QuizSidebar from '../components/quiz/QuizSidebar';
@@ -7,6 +8,7 @@ import QuizSidebar from '../components/quiz/QuizSidebar';
 export default function QuizActivePage() {
   const [searchParams] = useSearchParams();
   const subject = searchParams.get('subject') || 'A';
+  const examId = searchParams.get('examId');
   const navigate = useNavigate();
 
   const [questions, setQuestions] = useState([]);
@@ -17,12 +19,19 @@ export default function QuizActivePage() {
   // Timer State
   const timeLimitMinutes = subject === 'A' ? 25 : 20;
   const timeLimitSeconds = timeLimitMinutes * 60;
-  const [timeLeft, setTimeLeft] = useState(() => {
-    const saved = localStorage.getItem(`quiz_${subject}_time`);
-    return saved !== null ? parseInt(saved, 10) : timeLimitSeconds;
+  
+  const [startTime] = useState(() => {
+    const saved = localStorage.getItem(`quiz_${subject}_startTime`);
+    if (saved) return parseInt(saved, 10);
+    const now = Date.now();
+    localStorage.setItem(`quiz_${subject}_startTime`, now.toString());
+    return now;
   });
+  
+  const [timeLeft, setTimeLeft] = useState(timeLimitSeconds);
   const [isOvertime, setIsOvertime] = useState(false);
   const [showModal, setShowModal] = useState(false);
+  const [onTimeAnswers, setOnTimeAnswers] = useState(() => JSON.parse(localStorage.getItem(`quiz_${subject}_onTimeAnswers`) || 'null'));
   
   // Lấy dữ liệu API
   useEffect(() => {
@@ -35,7 +44,11 @@ export default function QuizActivePage() {
       }
       try {
         const limit = subject === 'A' ? 60 : 50;
-        const response = await axios.get(`http://localhost:3001/api/quizzes/random?subject=${subject}&limit=${limit}`);
+        let url = `http://localhost:3001/api/quizzes/random?subject=${subject}&limit=${limit}`;
+        if (examId) {
+          url = `http://localhost:3001/api/quizzes/exam?subject=${subject}&examId=${encodeURIComponent(examId)}`;
+        }
+        const response = await axios.get(url);
         setQuestions(response.data);
         localStorage.setItem(`quiz_${subject}_questions`, JSON.stringify(response.data));
       } catch (error) {
@@ -43,7 +56,7 @@ export default function QuizActivePage() {
       }
     };
     fetchQuestions();
-  }, [subject]);
+  }, [subject, examId]);
 
   // Auto-save
   useEffect(() => {
@@ -51,33 +64,35 @@ export default function QuizActivePage() {
     localStorage.setItem(`quiz_${subject}_flags`, JSON.stringify(flags));
   }, [answers, flags, subject]);
 
-  // Bộ đếm thời gian
+  // Bộ đếm thời gian an toàn không bị ảnh hưởng khi chuyển tab
   useEffect(() => {
-    if (showModal) return; // Dừng đếm khi hiện Modal
+    if (showModal) return;
 
     const timer = setInterval(() => {
-      setTimeLeft(prev => {
-        if (!isOvertime) {
-          if (prev <= 1) {
-            setShowModal(true); // Hết giờ -> Hiện modal
-            return 0;
-          }
-          const nextTime = prev - 1;
-          localStorage.setItem(`quiz_${subject}_time`, nextTime.toString());
-          return nextTime;
+      const elapsedSeconds = Math.floor((Date.now() - startTime) / 1000);
+      
+      if (!isOvertime) {
+        const remaining = timeLimitSeconds - elapsedSeconds;
+        if (remaining <= 0) {
+          setShowModal(true);
+          setTimeLeft(0);
         } else {
-          // Đang đếm lố giờ (đếm tiến)
-          const nextTime = prev + 1;
-          localStorage.setItem(`quiz_${subject}_time`, nextTime.toString());
-          return nextTime;
+          setTimeLeft(remaining);
         }
-      });
+      } else {
+        // Nếu đã lố giờ thì tính thời gian lố
+        setTimeLeft(elapsedSeconds - timeLimitSeconds);
+      }
     }, 1000);
+    
     return () => clearInterval(timer);
-  }, [isOvertime, showModal, subject]);
+  }, [startTime, isOvertime, showModal, timeLimitSeconds]);
 
-  const handleSelectAnswer = (qId, option) => {
+  const handleSelectAnswer = (qId, option, isMultipleChoice) => {
     setAnswers(prev => {
+      if (!isMultipleChoice) {
+        return { ...prev, [qId]: [option] };
+      }
       const current = prev[qId] || [];
       const newAnswers = current.includes(option) ? current.filter(a => a !== option) : [...current, option];
       return { ...prev, [qId]: newAnswers };
@@ -88,11 +103,15 @@ export default function QuizActivePage() {
 
   const handleSubmit = async () => {
     try {
-      const timeTaken = isOvertime ? timeLimitSeconds + timeLeft : timeLimitSeconds - timeLeft;
+      const elapsedSeconds = Math.floor((Date.now() - startTime) / 1000);
+      
       const res = await axios.post('http://localhost:3001/api/quizzes/submit', {
-        answers,
-        timeTaken,
-        isOvertime
+        answers: onTimeAnswers || answers,
+        overtimeAnswers: isOvertime ? answers : null,
+        questionIds: questions.map(q => q._id),
+        timeTaken: elapsedSeconds,
+        isOvertime,
+        subject
       });
       localStorage.setItem(`quiz_${subject}_results`, JSON.stringify(res.data));
       
@@ -100,7 +119,8 @@ export default function QuizActivePage() {
       localStorage.removeItem(`quiz_${subject}_questions`);
       localStorage.removeItem(`quiz_${subject}_answers`);
       localStorage.removeItem(`quiz_${subject}_flags`);
-      localStorage.removeItem(`quiz_${subject}_time`);
+      localStorage.removeItem(`quiz_${subject}_startTime`);
+      localStorage.removeItem(`quiz_${subject}_onTimeAnswers`);
       
       navigate(`/quiz/result?subject=${subject}`);
     } catch (err) {
@@ -110,9 +130,11 @@ export default function QuizActivePage() {
   };
 
   const handleContinueOvertime = () => {
+    // Chụp lại đáp án tại đúng thời điểm hết giờ
+    setOnTimeAnswers(answers);
+    localStorage.setItem(`quiz_${subject}_onTimeAnswers`, JSON.stringify(answers));
     setShowModal(false);
     setIsOvertime(true);
-    setTimeLeft(1); // Bắt đầu đếm tiến từ giây đầu tiên lố
   };
 
   const formatTime = (secs) => {
@@ -121,10 +143,28 @@ export default function QuizActivePage() {
     return `${m}:${s}`;
   };
 
-  if (questions.length === 0) return <div className="p-8 text-center text-xl font-bold">Đang tải đề thi...</div>;
+  if (questions.length === 0) return <div className="pt-20 p-8 text-center text-xl font-bold">Đang tải đề thi...</div>;
 
   return (
-    <div className="container mx-auto p-4 max-w-7xl py-8 relative">
+    <div className="pt-20 container mx-auto p-4 max-w-7xl pb-8 relative">
+      <div className="mb-4 flex justify-between items-center sticky top-16 z-40 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md px-4 py-2 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700">
+        <Link to={`/quiz/entry?subject=${subject}`} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white flex items-center gap-1.5 font-bold text-base transition-colors shrink-0 relative z-10">
+          <ArrowLeft size={18} strokeWidth={2.5} /> <span className="hidden sm:inline">Trở về</span>
+        </Link>
+        
+        <div className="absolute left-1/2 -translate-x-1/2 font-bold text-base md:text-lg text-slate-800 dark:text-slate-200 whitespace-nowrap">
+          {examId ? examId : 'Đề Ngẫu Nhiên'}
+        </div>
+        
+        <div className={`font-mono text-lg font-bold tracking-wider px-3 py-1 rounded-md border flex items-center gap-2 relative z-10 shrink-0 bg-white/50 dark:bg-slate-900/50 backdrop-blur ${
+          isOvertime 
+            ? 'text-red-600 border-red-200 dark:text-red-400 dark:border-red-800' 
+            : 'text-blue-700 border-blue-200 dark:text-blue-400 dark:border-blue-800'
+        }`}>
+          <span>{isOvertime ? '-' : ''}{formatTime(timeLeft)}</span>
+          {isOvertime && <span className="text-[10px] font-sans text-red-500 font-bold hidden md:inline uppercase">Lố giờ</span>}
+        </div>
+      </div>
       <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
         <div className="md:col-span-3">
           <QuestionViewer 
@@ -133,7 +173,7 @@ export default function QuizActivePage() {
             total={questions.length}
             selectedAnswers={answers[questions[currentIndex]?._id] || []}
             isFlagged={flags[questions[currentIndex]?._id] || false}
-            onSelectAnswer={(opt) => handleSelectAnswer(questions[currentIndex]._id, opt)}
+            onSelectAnswer={(opt, isMul) => handleSelectAnswer(questions[currentIndex]._id, opt, isMul)}
             onToggleFlag={() => handleToggleFlag(questions[currentIndex]._id)}
             onNext={() => setCurrentIndex(prev => Math.min(prev + 1, questions.length - 1))}
             onPrev={() => setCurrentIndex(prev => Math.max(prev - 1, 0))}

@@ -1,0 +1,843 @@
+[
+  {
+    "text": "Câu 1: Cho biết phần mở rộng của chương trình Microsoft Access?",
+    "options": [
+      "A. *.accdb",
+      "B. *.doc, *.docx",
+      "C. *.pptx",
+      "D. *.xlsx"
+    ],
+    "correctAnswers": [
+      "A. *.accdb"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Chip ROM có chứa dữ liệu văn bản vĩnh viễn, chỉ thị lệnh, hoặc thông tin ghi trên chip khi chúng được sản xuất.",
+    "options": [
+      "A. Firmware",
+      "B. PC thẻ",
+      "C. Kỹ thuật số",
+      "D. AMD."
+    ],
+    "correctAnswers": [
+      "A. Firmware"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Chọn trạng thái tiết kiệm điện năng nhất, lưu lại tập tin và các chương trình trên đĩa và tắt máy tính?",
+    "options": [
+      "A. Battery Saver",
+      "B. Hibernation",
+      "C. Block",
+      "D. Hybrid sleep"
+    ],
+    "correctAnswers": [
+      "B. Hibernation"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Bạn muốn di chuyển một thư mục vào vị trí khác. Hai lệnh nào để bạn thực hiện nhiệm vụ này?",
+    "options": [
+      "A. Copy/Paste",
+      "B. Hide/Paste",
+      "C. Move/Paste",
+      "D. Cut/Paste"
+    ],
+    "correctAnswers": [
+      "D. Cut/Paste"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Chỉ ra nhiệm vụ của hệ điều hành",
+    "options": [
+      "A. Quản lý thư điện tử",
+      "B. Quản lý tiến trình",
+      "C. Diệt virus",
+      "D. Tạo bảng tính"
+    ],
+    "correctAnswers": [
+      "B. Quản lý tiến trình"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Bạn vừa mua một bộ định tuyến không dây mới và muốn tăng cường an ninh. Lựa chọn nào sau đây cung cấp mức độ bảo mật cao nhất?",
+    "options": [
+      "A. WPA",
+      "B. TCP / IP",
+      "C. WPA2",
+      "D. WEP"
+    ],
+    "correctAnswers": [
+      "C. WPA2"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Dữ liệu đã được chế biến thành một hình thức hữu ích",
+    "options": [
+      "A. Cảm ứng",
+      "B. Dữ liệu đầu ra",
+      "C. Bút",
+      "D. Chuột"
+    ],
+    "correctAnswers": [
+      "B. Dữ liệu đầu ra"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Các chức năng của một VPN là gì?",
+    "options": [
+      "A. Mã hóa các gói dữ liệu từ các thiết bị nhận và gửi",
+      "B. Bảo vệ một mạng từ khác",
+      "C. Mã hóa các gói dữ liệu từ các thiết bị gửi và nhận",
+      "D. Tạo một kết nối point-to-point trên mạng công cộng"
+    ],
+    "correctAnswers": [
+      "D. Tạo một kết nối point-to-point trên mạng công cộng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Các tùy chọn nào sao đây không phải là ví dụ của Ribbon ?",
+    "options": [
+      "A. Review",
+      "B. Clipboard",
+      "C. Home",
+      "D. Insert"
+    ],
+    "correctAnswers": [
+      "B. Clipboard"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Dùng toán tử tìm kiếm “tên site\\:” để làm gì?",
+    "options": [
+      "A. Giúp bạn tìm thấy giá trên một tên miền nhất định",
+      "B. Có kết quả từ một trang web hoặc tên miền nhất định",
+      "C. Không bao gồm các kết quả từ một trang web hoặc tên miền nhất định",
+      "D. Có kết quả về một chủ đề nhất định"
+    ],
+    "correctAnswers": [
+      "B. Có kết quả từ một trang web hoặc tên miền nhất định"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Chức năng nào trong Word 2010 cho phép tùy chỉnh khoảng cách giữa các đoạn trong văn bản",
+    "options": [
+      "A. Option spacing",
+      "B. Character spacing",
+      "C. Spacing",
+      "D. Toolbar"
+    ],
+    "correctAnswers": [
+      "C. Spacing"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Công cụ nào để xem chính xác một báo cáo sẽ trông như thế nào khi in ra?",
+    "options": [
+      "A. Page Layout",
+      "B. Print preview",
+      "C. Chỉ in ra mới biết",
+      "D. View Normal"
+    ],
+    "correctAnswers": [
+      "B. Print preview"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Có khả năng đại diện cho gần như tất cả các ngôn ngữ chữ viết hiện hành của thế giới.",
+    "options": [
+      "A. Các hệ thống hoạt động",
+      "B. Giải mã",
+      "C. Bộ mã hoá Unicode",
+      "D. Đồng hồ tăng tốc độ."
+    ],
+    "correctAnswers": [
+      "C. Bộ mã hoá Unicode"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: BIOS của máy tính là một ……. chứa các thủ tục ở mức thấp nhất. Nó cho phép máy tính có thể chạy, kích hoạt máy khởi động, chuẩn bị môi trường để chuyển điều khiển cho hệ điều hành trong bộ nhớ RAM.",
+    "options": [
+      "A. Slot",
+      "B. Firmware",
+      "C. Memory",
+      "D. Socket"
+    ],
+    "correctAnswers": [
+      "B. Firmware"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Cho biết ý nghĩa của chức năng Format Painter trong Microsoft Word 2010?",
+    "options": [
+      "A. Sao chép đối tượng trong văn bản",
+      "B. Sao chép tất định dạng của một phần/đối tượng trong văn bản",
+      "C. Tô màu cho một khối văn bản",
+      "D. Xóa tất cả các định dạng của phần văn bản được chọn"
+    ],
+    "correctAnswers": [
+      "B. Sao chép tất định dạng của một phần/đối tượng trong văn bản"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Các loại phần mềm nào là nguyên nhân gây ra hiệu suất máy tính không mong muốn?",
+    "options": [
+      "A. Shareware",
+      "B. Registerware",
+      "C. Careware",
+      "D. Malware"
+    ],
+    "correctAnswers": [
+      "D. Malware"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Hai tổ hợp phím tắt nào mà bạn có thể sử dụng để sao chép và dán một tập tin vào một vị trí khác?",
+    "options": [
+      "A. Ctrl + C và Ctrl + X",
+      "B. Ctrl + X và Ctrl + P",
+      "C. Ctrl + X và Ctrl + V",
+      "D. Ctrl + C và Ctrl + V"
+    ],
+    "correctAnswers": [
+      "D. Ctrl + C và Ctrl + V"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Bạn có thể sử dụng công cụ gì để kiểm tra xem một ứng dụng có tương thích với phiên bản Windows của bạn không?",
+    "options": [
+      "A. Windows Compatibility Center",
+      "B. Microsoft Fix It Solution Center",
+      "C. Safe Mode",
+      "D. Compatibility Mode"
+    ],
+    "correctAnswers": [
+      "A. Windows Compatibility Center"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Công nghệ đầu đọc quang học có liên quan đến máy tính đọc được đánh máy in, hoặc in ký tự, từ các tài liệu thông thường và chuyển các hình ảnh cho một hình thức mà một máy tính có thể xử lý.",
+    "options": [
+      "A. Bảng tương tác",
+      "B. Nhận dạng giọng nói",
+      "C. Máy rút tiền tự động (ATM)",
+      "D. Nhận dạng ký tự quang học (OCR)"
+    ],
+    "correctAnswers": [
+      "D. Nhận dạng ký tự quang học (OCR)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Dạng view nào thường dùng để trình bày, thiết kế nội dung trong quá trình soạn thảo slide trong MS PowerPoint 2010 2010 2010",
+    "options": [
+      "A. Grid",
+      "B. Normal",
+      "C. Slide show",
+      "D. List"
+    ],
+    "correctAnswers": [
+      "B. Normal"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Bạn làm gì trong Windows 7 để thay đổi hình nền Desktop hoặc hình ảnh?",
+    "options": [
+      "A. Start, Control Panel, Clock, Language Region",
+      "B. Start, Control Panel, Appearance And Personalization Personalization",
+      "C. Start, Control Panel, Appearance And Personalization Desktop Gadgets",
+      "D. Start, Control Panel, Appearance And Personalization Display"
+    ],
+    "correctAnswers": [
+      "B. Start, Control Panel, Appearance And Personalization Personalization"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Dual-core và quad-core.",
+    "options": [
+      "A. Bộ xử lý đa lõi",
+      "B. 2 bộ vi xử lý đa lõi chung",
+      "C. Bộ vi xử lý đa lõi",
+      "D. Vi xử lý quad-core"
+    ],
+    "correctAnswers": [
+      "B. 2 bộ vi xử lý đa lõi chung"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Chọn loại hiệu ứng cho đối tượng có trong tab Animation",
+    "options": [
+      "A. Fast",
+      "B. End Show",
+      "C. Emphasis",
+      "D. Slow"
+    ],
+    "correctAnswers": [
+      "C. Emphasis"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Các chương trình mở rộng khả năng của trình duyệt web là gì?",
+    "options": [
+      "A. Plug-ins",
+      "B. Update",
+      "C. Extend",
+      "D. Add-in"
+    ],
+    "correctAnswers": [
+      "A. Plug-ins"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Chọn đáp án sai khi nói về BIOS?",
+    "options": [
+      "A. Phần mềm được chạy khi hệ điều hành khởi động",
+      "B. Firmware phụ trách việc khởi tạo và kiểm tra tất cả các thành phần phần cứng của máy tính",
+      "C. Hệ thống xuất nhập cơ bản",
+      "D. Firmware với giao diện người dùng"
+    ],
+    "correctAnswers": [
+      "A. Phần mềm được chạy khi hệ điều hành khởi động"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Bạn đang chơi một trò chơi trên máy tính của bạn. Các hình ảnh không hiển thị một cách chính xác và màn hình bị đóng băng. Thành phần nào bị lỗi",
+    "options": [
+      "A. Card âm thanh",
+      "B. Card đồ họa",
+      "C. Thiết bị nhập",
+      "D. Bo mạch chủ"
+    ],
+    "correctAnswers": [
+      "B. Card đồ họa"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Chuẩn mạng xác định không có máy tính trung tâm hoặc thiết bị trên mạng cần kiểm soát khi dữ liệu có thể được truyền",
+    "options": [
+      "A. Latency (thời gian đợi)",
+      "B. Chuẩn Ethernet (Ethernet)",
+      "C. Server",
+      "D. T1 line"
+    ],
+    "correctAnswers": [
+      "B. Chuẩn Ethernet (Ethernet)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Cổng external SATA. Cổng với mục đích đặc biệt cho phép bạn kết nối một SATA gắn ngoài (Serial Advanced Technology Attachment).",
+    "options": [
+      "A. Card màn hình.",
+      "B. Cổng USB",
+      "C. USB 3.0",
+      "D. Cổng eSATA"
+    ],
+    "correctAnswers": [
+      "D. Cổng eSATA"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Dòng Intel Core.",
+    "options": [
+      "A. Kết nối nam và cổng",
+      "B. Máy tính cá nhân hiệu suất cao hiện nay có thể sử dụng một bộ xử lý trong",
+      "C. Người tính bằng cách sử dụng",
+      "D. Lõi xử lý, hoặc chỉ đơn giản là cốt lõi"
+    ],
+    "correctAnswers": [
+      "B. Máy tính cá nhân hiệu suất cao hiện nay có thể sử dụng một bộ xử lý trong"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Phần mềm nào là nguyên nhân gây ra hiệu suất máy tính không mong muốn?",
+    "options": [
+      "A. Registerware",
+      "B. Careware",
+      "C. Shareware",
+      "D. Malware"
+    ],
+    "correctAnswers": [
+      "D. Malware"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: BCC có ý nghĩa gì khi bạn soạn email?",
+    "options": [
+      "A. Một bản sao nội dung với thông tin bí mật của người gửi",
+      "B. Người nhận liệt kê trong trường BCC nhận được một bản sao của tin nhắn nhưng không được hiển thị trên bản sao bất kỳ người nhận khác, bao gồm tất cả những người nhận trong trường BCC.",
+      "C. Một bản sao nội dung",
+      "D. Người nhận liệt kê trong trường BCC nhận được một bản sao của tin nhắn và được hiển thị trên bản sao những người nhận khác."
+    ],
+    "correctAnswers": [
+      "B. Người nhận liệt kê trong trường BCC nhận được một bản sao của tin nhắn nhưng không được hiển thị trên bản sao bất kỳ người nhận khác, bao gồm tất cả những người nhận trong trường BCC."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Chế độ hiển thị nào bạn nên áp dụng cho các văn bản mà bạn nhận được từ bên ngoài thông qua email?",
+    "options": [
+      "A. Read Only View",
+      "B. Web Layout View",
+      "C. Protected View",
+      "D. Full Screen Reading View"
+    ],
+    "correctAnswers": [
+      "C. Protected View"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Hành động nào ngăn sự quá nóng của bộ vi xử lý (Processor)?",
+    "options": [
+      "A. Thiết lập cấu hình sạc nguồn ở chế độ tiết kiệm điện",
+      "B. Không đóng nắp máy (case)",
+      "C. Thiết lập chế độ ngủ đông (hibernate) mỗi hai giờ",
+      "D. Thêm không gian trống trong case máy tính"
+    ],
+    "correctAnswers": [
+      "D. Thêm không gian trống trong case máy tính"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Bạn muốn sử dụng Task Manager để xem cách sử dụng bộ nhớ RAM và lịch sử sử dụng. Mục gì trong Task Manager cung cấp một biểu đồ chi tiết này?",
+    "options": [
+      "A. Performance",
+      "B. Services",
+      "C. Processes",
+      "D. Resource Monitor"
+    ],
+    "correctAnswers": [
+      "A. Performance"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Cách khởi động Microsoft Excel?",
+    "options": [
+      "A. Click Start, All Programs, Microsoft Excel 2010",
+      "B. Click Start, All Programs, Microsoft Office, Microsoft Excel 2010",
+      "C. Click Start, Programs, Microsoft Excel 2010",
+      "D. Click Start, Microsoft Office, Microsoft Excel 2010"
+    ],
+    "correctAnswers": [
+      "B. Click Start, All Programs, Microsoft Office, Microsoft Excel 2010"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Chuột có sử dụng các thiết bị, chẳng hạn như cảm biến quang học hoặc laser, phát ra và cảm nhận được ánh sáng để phát hiện chuyển động của chuột",
+    "options": [
+      "A. Bút kỹ thuật số",
+      "B. Chuột quang",
+      "C. Bút",
+      "D. Chuột laser"
+    ],
+    "correctAnswers": [
+      "B. Chuột quang"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Bạn thường có thể tùy chỉnh những gì khi cài đặt một ứng dụng? (Chọn nhiều đáp án)",
+    "options": [
+      "A. Thư mục cài đặt",
+      "B. EULA",
+      "C. Shortcut nào được cài đặt",
+      "D. Khi loại bỏ các ứng dụng"
+    ],
+    "correctAnswers": [
+      "A. Thư mục cài đặt",
+      "C. Shortcut nào được cài đặt"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Bộ xử lý của máy tính làm gì?",
+    "options": [
+      "A. Thực thi các câu lệnh được truyền đi bởi các phần mềm bạn chạy",
+      "B. Kết nối máy tính vào mạng",
+      "C. Xử lý và tạo ra những hình ảnh được hiển thị bằng máy tính của bạn",
+      "D. Lưu trữ các dữ liệu của bạn dưới các hình thức của các tập tin và thư mục"
+    ],
+    "correctAnswers": [
+      "C. Xử lý và tạo ra những hình ảnh được hiển thị bằng máy tính của bạn"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Bảng mạch nhỏ mà chip RAM được tổ chức trong một khe cắm bộ nhớ trên bo mẹ.",
+    "options": [
+      "A. Bộ nhớ.",
+      "B. Đồng hồ ngoại vi",
+      "C. Chu kỳ",
+      "D. Các mô-đun bộ nhớ"
+    ],
+    "correctAnswers": [
+      "D. Các mô-đun bộ nhớ"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Biên dịch và thực hiện các lệnh cơ bản cho hoạt động của máy tính.",
+    "options": [
+      "A. Thẻ PC",
+      "B. Xử lý",
+      "C. PCI bus.",
+      "D. SCSI"
+    ],
+    "correctAnswers": [
+      "B. Xử lý"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Hãy chỉ ra đâu là phát biểu không đúng về địa chỉ trong Excel 2010",
+    "options": [
+      "A. D4 là địa chỉ cột cột D và dòng 4",
+      "B. Địa chỉ một ô trong Excel là địa chỉ cấu tạo từ địa chỉ cột và địa chỉ hàng",
+      "C. D4 là địa chỉ cột 4 và dòng D",
+      "D. D4 là địa chỉ ô trong Excel"
+    ],
+    "correctAnswers": [
+      "C. D4 là địa chỉ cột 4 và dòng D"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Bất kỳ thành phần phần cứng truyền tải thông tin với một hoặc nhiều người",
+    "options": [
+      "A. Con trỏ",
+      "B. Thiết bị trỏ",
+      "C. Thiết bị đầu ra",
+      "D. Thiết bị đầu vào"
+    ],
+    "correctAnswers": [
+      "C. Thiết bị đầu ra"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Gói dịch vụ (service pack) là gì?",
+    "options": [
+      "A. Một hình thức của phần mềm gián điệp.",
+      "B. Một hệ điều hành nhúng",
+      "C. Một chế độ tắt máy được thiết kế để tiết kiệm pin",
+      "D. Một tập hợp các bản cập nhật phần mềm."
+    ],
+    "correctAnswers": [
+      "D. Một tập hợp các bản cập nhật phần mềm."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Các phím tắt bàn phím để xóa một tập tin mà bạn lựa chọn trên máy tính của bạn là gì?",
+    "options": [
+      "A. Alt + Tab",
+      "B. Phím Shift",
+      "C. Delete",
+      "D. Ctrl + C"
+    ],
+    "correctAnswers": [
+      "C. Delete"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: GUI là viết tắt của?",
+    "options": [
+      "A. Great User Interface",
+      "B. Good User Interface",
+      "C. Graphics User Interaction",
+      "D. Graphical User Interface"
+    ],
+    "correctAnswers": [
+      "D. Graphical User Interface"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Chip với 2 nhân xử lý riêng biệt.",
+    "options": [
+      "A. Xử lý lõi kép",
+      "B. Bộ vi xử lý đa lõi",
+      "C. Xử lý",
+      "D. Yếu tố hình thức"
+    ],
+    "correctAnswers": [
+      "A. Xử lý lõi kép"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Trong Microsoft Word 2010, khi bấm tổ hợp phím Ctrl + C sẽ thực hiện hành động nào sau đây:",
+    "options": [
+      "A. Các mục được chọn sẽ hiển thị màu với màu sắc được lựa chọn cuối cùng trong bảng màu",
+      "B. Sao chép các mục đang được chọn vào Clipboard",
+      "C. Canh giữa các mục được chọn so với các lề",
+      "D. Các mục được chọn sẽ bị loại bỏ khỏi vị trí hiện tại của chúng"
+    ],
+    "correctAnswers": [
+      "B. Sao chép các mục đang được chọn vào Clipboard"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: WWW là viết tắt của:",
+    "options": [
+      "A. World Wide Web",
+      "B. World Wide Fund for Nature",
+      "C. Wild Wild West",
+      "D. World Wide WAN"
+    ],
+    "correctAnswers": [
+      "A. World Wide Web"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Đơn vị đo lường nào sau đây bạn sử dụng để đo dung lượng lưu trữ trên một đĩa cứng?",
+    "options": [
+      "A. GHz",
+      "B. Số lượng lõi",
+      "C. SSD",
+      "D. GB"
+    ],
+    "correctAnswers": [
+      "D. GB"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Trong Microsoft Word 2010, tổ hợp phím nào sau đây để mở hộp thoại open (mở file)?",
+    "options": [
+      "A. Ctrl + O",
+      "B. Ctrl + H",
+      "C. Shift + P",
+      "D. Ctrl + K"
+    ],
+    "correctAnswers": [
+      "A. Ctrl + O"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 51: Lựa chọn nào đại diện cho các giải pháp để giải quyết các vấn đề chung của phần cứng?",
+    "options": [
+      "A. Khởi động lại máy tính ở chế độ Safe mode sử dụng chức năng mạng",
+      "B. Gỡ bỏ các thành phần phần cứng để tìm lỗi",
+      "C. Khôi phục lại cấu hình máy tính về thời điểm trước",
+      "D. Chống phân mảnh ổ cứng để tăng dung lượng đĩa trống"
+    ],
+    "correctAnswers": [
+      "B. Gỡ bỏ các thành phần phần cứng để tìm lỗi"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 52: Những yêu cầu hệ thống cho bạn biết điều gì?",
+    "options": [
+      "A. Cấu hình phần cứng trên máy tính của bạn cần có để chạy một ứng dụng với hiệu suất tối đa",
+      "B. Cấu hình phần cứng tối thiểu và tài nguyên phần mềm khác trên máy tính của bạn cần có để chạy một ứng dụng",
+      "C. Cấu hình tốt nhất trên máy tính của bạn nên có để chạy một ứng dụng",
+      "D. Cấu hình phần mềm tối thiểu trên máy tính của bạn cần có để chạy một ứng dụng"
+    ],
+    "correctAnswers": [
+      "B. Cấu hình phần cứng tối thiểu và tài nguyên phần mềm khác trên máy tính của bạn cần có để chạy một ứng dụng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 53: Thiết bị nào sau đây được xem là thiết bị xuất?",
+    "options": [
+      "A. Microphone",
+      "B. Webcam",
+      "C. Bàn phím",
+      "D. Màn hình"
+    ],
+    "correctAnswers": [
+      "D. Màn hình"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 54: Lựa chọn nào sau đây là hệ điều hành?",
+    "options": [
+      "A. Bing",
+      "B. Facebook",
+      "C. Android",
+      "D. Skype"
+    ],
+    "correctAnswers": [
+      "C. Android"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 55: Trong Microsoft Word 2010, để di chuyển con trỏ văn bản về đầu của văn bản hiện hành, ta sử dụng:",
+    "options": [
+      "A. Phím Home",
+      "B. Tổ hợp phím Ctrl + Down Arrow",
+      "C. Tổ hợp phím Ctrl + Home",
+      "D. Phím Page Down"
+    ],
+    "correctAnswers": [
+      "C. Tổ hợp phím Ctrl + Home"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 56: Trong PowerPoint 2010 2010 2010, khi tạo mới một bản trình diễn:",
+    "options": [
+      "A. Trình diễn tạo ra có thể là một trình diễn trống (Blank presentation), một khuôn mẫu (Template) có sẵn hoặc từ một tập tin Microsoft Word",
+      "B. Trình diễn tạo ra có thể là một trình diễn trống (Blank presentation), một khuôn mẫu (Template) hoặc từ một tập tin trình chiếu có sẵn.",
+      "C. Trình diễn vừa tạo ra luôn trống",
+      "D. Sử dụng một trình dựa trên một trình diễn có sẵn"
+    ],
+    "correctAnswers": [
+      "A. Trình diễn tạo ra có thể là một trình diễn trống (Blank presentation), một khuôn mẫu (Template) có sẵn hoặc từ một tập tin Microsoft Word"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 57: Trong các dạng địa chỉ sau đây, địa chỉ nào khi copy công thức đến vị trí khác trong cùng trang tính (Wordsheet) vẫn không thay đổi địa chỉ tham chiếu tại vị trí mới.",
+    "options": [
+      "A. B$2:D$8",
+      "B. $B$2:$D$8",
+      "C. $B2:$D8",
+      "D. B$2$:D$8$"
+    ],
+    "correctAnswers": [
+      "B. $B$2:$D$8"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 58: Phát biểu nào là đúng khi nói về tùy chọn Change trong công cụ Uninstall a program",
+    "options": [
+      "A. Thay đổi một chương trình bao gồm các tùy chọn cài đặt và gỡ bỏ của một ứng dụng",
+      "B. Tất cả các chương trình hiển thị trong cửa sổ chương trình hoặc các đặc tính của chúng có thể thay đổi hoặc sửa chữa",
+      "C. Khi thay đổi một chương trình, nó không xuất hiện trong cửa sổ danh sách các chương trình",
+      "D. Khi chỉnh sửa một chương trình, nó trở thành chương trình nguyên bản trong Windows 7"
+    ],
+    "correctAnswers": [
+      "A. Thay đổi một chương trình bao gồm các tùy chọn cài đặt và gỡ bỏ của một ứng dụng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 59: Windows Update là gì?",
+    "options": [
+      "A. Công cụ để giữ Android được cập nhật",
+      "B. Virus Windows",
+      "C. Công cụ để giữ Windows cập nhật",
+      "D. Công cụ khôi phục dữ liệu cho Windows"
+    ],
+    "correctAnswers": [
+      "C. Công cụ để giữ Windows cập nhật"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 60: Trong Microsoft Word 2010, thao tác nào sao đây là sai khi bạn muốn chọn toàn bộ (Select all) nội dung văn bản:",
+    "options": [
+      "A. Home/ Select/ Select All",
+      "B. Đặt chuột ở vị trí đầu văn bản, nhấn giữ phím Shift và đưa chuột phải đến vị trí cuối văn bản khối cần chọn.",
+      "C. Insert/ Select/ Select All",
+      "D. Bấm tổ hợp Ctrl-A"
+    ],
+    "correctAnswers": [
+      "C. Insert/ Select/ Select All"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

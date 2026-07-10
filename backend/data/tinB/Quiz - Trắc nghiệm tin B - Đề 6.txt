@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Câu 1: Nếu ta nhập trong ô A1 giá trị là: =1>2 thì kết quả hiển thị tại Formula Bar là?",
+    "options": [
+      "A. =1>2",
+      "B. False",
+      "C. True",
+      "D. No"
+    ],
+    "correctAnswers": [
+      "A. =1>2"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 2: Nếu ta nhập trong ô A1 giá trị là: =1>2 thì kết quả hiển thị tại A1 là?",
+    "options": [
+      "A. =1>2",
+      "B. False",
+      "C. True",
+      "D. No"
+    ],
+    "correctAnswers": [
+      "B. False"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 3: Nút Merge and Center trên thanh công cụ có chức năng?",
+    "options": [
+      "A. Tạo màu nền cho các ô được chọn",
+      "B. Tạo đường viền cho các ô được chọn",
+      "C. Gộp các ô được chọn",
+      "D. Gộp các ô được chọn và canh giữa dữ liệu"
+    ],
+    "correctAnswers": [
+      "D. Gộp các ô được chọn và canh giữa dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 4: Phép toán nào sau đây chỉ thực hiện được với dữ liệu kiểu chuỗi?",
+    "options": [
+      "A. Nhân",
+      "B. Hợp",
+      "C. Chia",
+      "D. Cộng"
+    ],
+    "correctAnswers": [
+      "B. Hợp"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 5: Số cột x dòng có trong một WorkSheet của Excel 2003 là?",
+    "options": [
+      "A. 24 x 65536",
+      "B. 65536 x 16384",
+      "C. 256 x 65536",
+      "D. 16384 x 1048576"
+    ],
+    "correctAnswers": [
+      "C. 256 x 65536"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 6: Số cột x dòng có trong một WorkSheet của Excel từ 2007 trở lên là?",
+    "options": [
+      "A. 24 x 65536",
+      "B. 65536 x 16384",
+      "C. 256 x 65536",
+      "D. 16384 x 1048576"
+    ],
+    "correctAnswers": [
+      "D. 16384 x 1048576"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 7: Tại Cell A1 có công thức: =If(4>5,\"Sai\",\"Đúng\"), giá trị trả về tại Cell A1 sẽ là?",
+    "options": [
+      "A. Sai",
+      "B. FALSE",
+      "C. TRUE",
+      "D. Đúng"
+    ],
+    "correctAnswers": [
+      "D. Đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 8: Tại ô B2 có công thức: =C1- VLOOKUP(A3,$E$10:$G$12,3, 0)-$E2. Khi sao chép công thức này đến ô D4 thì ta có công thức như thế nào?",
+    "options": [
+      "A. =C3- VLOOKUP(C5,$E$10:$G$12,3,0)-$E4",
+      "B. =E3- VLOOKUP(C5,$E$10:$G$12,3,0)-$E4",
+      "C. =D3- VLOOKUP(C5,$ E$10:$G$12,3,0)-$E4",
+      "D. =D3- VLOOKUP(D5,$E$10:$G$12, 3,0)-$E4"
+    ],
+    "correctAnswers": [
+      "B. =E3- VLOOKUP(C5,$E$10:$G$12,3,0)-$E4"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 9: Thao tác nào sau đây cho phép ẩn/hiện thanh công thức trên cửa sổ bảng tính?",
+    "options": [
+      "A. Chọn View - Toolbars",
+      "B. Chọn Insert - Toolbars",
+      "C. Chọn Tools - Formula Bar",
+      "D. Chọn View - Formula Bar"
+    ],
+    "correctAnswers": [
+      "D. Chọn View - Formula Bar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 10: Thao tác nào sau đây cho phép chọn tất cả các ô có trong một bảng tính?",
+    "options": [
+      "A. Bấm tổ hợp phím Ctrl+A",
+      "B. Chọn tất cả các cột có trong bảng tính đó",
+      "C. Chọn tất cả các hàng có trong bảng tính đó",
+      "D. Tất cả các thao tác trên đều đúng"
+    ],
+    "correctAnswers": [
+      "D. Tất cả các thao tác trên đều đúng"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 11: Trong MS Excel phát biểu nào sau đây về đối tượng Chart là đúng?",
+    "options": [
+      "A. Trục X còn có tên gọi là trục \"Value\" (giá trị) và trục Y còn có tên gọi là trục \"Category\" (phân loại)",
+      "B. Trục X còn có tên gọi là trục \"Category\" (phân loại) và trục Y còn có tên gọi là trục \"Value\" (giá trị)",
+      "C. Trục X và Y đều có cùng tên gọi là trục Category",
+      "D. Trục X và Y đều có tên gọi là trục Value"
+    ],
+    "correctAnswers": [
+      "B. Trục X còn có tên gọi là trục \"Category\" (phân loại) và trục Y còn có tên gọi là trục \"Value\" (giá trị)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 12: Kết quả công thức =MID(\"KH12\"&\"BD\",3,4)&\"2006\" là?",
+    "options": [
+      "A. BD2006",
+      "B. 12BD2006",
+      "C. KH12BD2006",
+      "D. Công thức bị lỗi"
+    ],
+    "correctAnswers": [
+      "B. 12BD2006"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 13: Kết quả công thức =MIN(MAX(1,7),2,MOD(8,5)) là?",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 1",
+      "D. 7"
+    ],
+    "correctAnswers": [
+      "B. 2"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 14: Kết quả của biểu thức = NOT(OR(AND(6<8,7<8),3<5)) là?",
+    "options": [
+      "A. TRUE",
+      "B. FALSE",
+      "C. Sai",
+      "D. Đúng"
+    ],
+    "correctAnswers": [
+      "B. FALSE"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 15: Kết quả của hàm COUNTA() là?",
+    "options": [
+      "A. Số ô có chứa dữ liệu",
+      "B. Số ô có chứa dữ liệu chữ",
+      "C. Số ô có chứa dữ liệu số",
+      "D. Không có câu nào đúng"
+    ],
+    "correctAnswers": [
+      "A. Số ô có chứa dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 16: Kết quả của hàm COUNT() là?",
+    "options": [
+      "A. Tổng các ô có chứa dữ liệu",
+      "B. Số ô có chứa dữ liệu chữ",
+      "C. Số ô có chứa dữ liệu số",
+      "D. Không có câu nào đúng"
+    ],
+    "correctAnswers": [
+      "C. Số ô có chứa dữ liệu số"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 17: Kết quả của hàm COUNTBLANK() là?",
+    "options": [
+      "A. Tổng các ô có chứa dữ liệu",
+      "B. Số ô có chứa dữ liệu",
+      "C. Số ô có chứa dữ liệu số",
+      "D. Số ô không chứa dữ liệu"
+    ],
+    "correctAnswers": [
+      "D. Số ô không chứa dữ liệu"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 18: Khi ta nhập dữ liệu dạng Ngày Tháng Năm, nếu giá trị Ngày Tháng Năm đó không hợp lệ thì Excel coi đó là dữ liệu dạng?",
+    "options": [
+      "A. Thời Gian",
+      "B. Số",
+      "C. Báo lỗi, không được nhập",
+      "D. Chuỗi"
+    ],
+    "correctAnswers": [
+      "D. Chuỗi"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 19: Ký hiệu nào dùng trước một số để chuyển số đó về dạng Text?",
+    "options": [
+      "A. * (Dấu sao)",
+      "B. ' (Dấu nháy đơn)",
+      "C. \" (Dấu nháy đôi)",
+      "D. ) (Dấu ngoặc đơn)"
+    ],
+    "correctAnswers": [
+      "B. ' (Dấu nháy đơn)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 20: Mỗi Workbook ta có thể chèn thêm để có tối đa bao nhiêu Sheet?",
+    "options": [
+      "A. 16",
+      "B. 36",
+      "C. 255",
+      "D. Không giới hạn"
+    ],
+    "correctAnswers": [
+      "C. 255"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 21: Để khắc phục hiện tượng tự động điền từ khi ta gõ từ tương tự như các dòng trước đó đã có?",
+    "options": [
+      "A. Tools - Options - Edit, bỏ dấu chọn ở ô Enable Autocomplete for cells values",
+      "B. Vào Format - Cells - bỏ dấu chọn ở ô Enable Autocomplete for cells values",
+      "C. Vào View - Format - Cell - Autocomplete",
+      "D. Chọn Sheet - Format - Autocomplete"
+    ],
+    "correctAnswers": [
+      "A. Tools - Options - Edit, bỏ dấu chọn ở ô Enable Autocomplete for cells values"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 22: Để sắp xếp dữ liệu trong cột theo thứ tự tăng dần, ta chọn lệnh Data - Sort, sau đó chọn?",
+    "options": [
+      "A. Ascending",
+      "B. Descending",
+      "C. Sort By",
+      "D. Cả 3 câu trên đều sai"
+    ],
+    "correctAnswers": [
+      "A. Ascending"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 23: Địa chỉ khối nào sau đây là hợp lệ?",
+    "options": [
+      "A. A1;A12",
+      "B. $J$1000:$V12345",
+      "C. $A$12:$A$1",
+      "D. $1$A:$A$1"
+    ],
+    "correctAnswers": [
+      "B. $J$1000:$V12345"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 24: Giả sử ô E4 chứa giá trị ngày 15/05/06 và ô F4 chứa trị ngày 28/05/06, Hàm =INT((F4-E4)/7) sẽ cho kết quả là?",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 1",
+      "D. 7"
+    ],
+    "correctAnswers": [
+      "C. 1"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 25: Giả sử tại ô A2 có giá trị là 6 và ô F2 có công thức =IF(A2>9,IF(A2>5, \"A\",\"B\"),\"C\") thì kết quả tại ô F2 là?",
+    "options": [
+      "A. A",
+      "B. C",
+      "C. B",
+      "D. Báo lỗi"
+    ],
+    "correctAnswers": [
+      "B. C"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 26: Công thức đúng để xếp hạng giảm dần tại ô F3 trong Excel?",
+    "options": [
+      "A. = RANK(E3,$E$3:$E$4)",
+      "B. = RANK(E4,E3:E4)",
+      "C. = RANK(E3,$E$3:$E$4,1)",
+      "D. = RANK(E4,$E$3:$E$4;0)"
+    ],
+    "correctAnswers": [
+      "A. = RANK(E3,$E$3:$E$4)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 27: Trên Menu Bar của cửa sổ Excel có một mục lệnh khác với Cửa sổ Word đó là?",
+    "options": [
+      "A. Add-Ins",
+      "B. Data",
+      "C. Filter",
+      "D. Subtotal"
+    ],
+    "correctAnswers": [
+      "B. Data"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 28: Cửa sổ Excel khác Cửa sổ Word vì có thêm?",
+    "options": [
+      "A. Input Line",
+      "B. Formula Bar",
+      "C. Cell Reference",
+      "D. Tất cả đều sai"
+    ],
+    "correctAnswers": [
+      "B. Formula Bar"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 29: Một Work Book trong Excel có số lượng sheet tối đa, tối thiểu và trung bình như sau?",
+    "options": [
+      "A. 256 - 1 – 12",
+      "B. 255 - 1 – 3",
+      "C. 255 - 3 – 1",
+      "D. 256 - 1 - 3"
+    ],
+    "correctAnswers": [
+      "D. 256 - 1 - 3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 30: Để xác định ô đầu tiên trong Worksheet bằng địa chỉ?",
+    "options": [
+      "A. Có hai phương pháp : A1 và R1C1.",
+      "B. Có ba phương pháp : A1, 1-1, C1R1.",
+      "C. Chỉ có một phương pháp : A1.",
+      "D. Tất cả đều sai."
+    ],
+    "correctAnswers": [
+      "A. Có hai phương pháp : A1 và R1C1."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 31: Excel có các chế độ (mode) làm việc sau đây?",
+    "options": [
+      "A. Ready - Edit - Point.",
+      "B. Ready - Edit.",
+      "C. Ready - Enter.",
+      "D. Ready - Enter - Edit - Point."
+    ],
+    "correctAnswers": [
+      "D. Ready - Enter - Edit - Point."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 32: Để định dạng dữ liệu chứa trong các Ô của Worksheet ta có thể",
+    "options": [
+      "A. Sử dụng các nút trên thanh công cụ định dạng.",
+      "B. Sử dụng lệnh Format / AutoFormat.",
+      "C. Các lệnh Format / Cells, Format / Conditional Formatting, Format / Style.",
+      "D. Tất cả đều đúng."
+    ],
+    "correctAnswers": [
+      "D. Tất cả đều đúng."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 33: Một ô chứa số 17 định dạng bằng 00## sẽ hiển thị",
+    "options": [
+      "A. __17",
+      "B. 17",
+      "C. 0017",
+      "D. 017"
+    ],
+    "correctAnswers": [
+      "C. 0017"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 34: Để ghi một Work Book với tên khác ta?",
+    "options": [
+      "A. Chọn lệnh File / Save.",
+      "B. Chọn lệnh File / Save As.",
+      "C. Nhấn phím F12.",
+      "D. Câu B và C đúng."
+    ],
+    "correctAnswers": [
+      "D. Câu B và C đúng."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 35: Một hàm trong Excel có dạng?",
+    "options": [
+      "A. =Tên hàm( ).",
+      "B. =Tên hàm(danh sách đối số).",
+      "C. Cả hai dạng trên.",
+      "D. Tất cả đều sai."
+    ],
+    "correctAnswers": [
+      "C. Cả hai dạng trên."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 36: Để định dạng cách hiển thị ngày tháng năm cho Excel trong ta thực hiện",
+    "options": [
+      "A. Start / Setting / Control Panel / Regional Settings",
+      "B. Start / Setting / Control Panel / Regional and Language Options",
+      "C. Start / Setting / Control Panel / Language and Regional Options",
+      "D. Start / Setting / Control Panel / Add/Remove Programs"
+    ],
+    "correctAnswers": [
+      "C. Start / Setting / Control Panel / Language and Regional Options"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 37: Địa chỉ Sheet1!A1 được gọi là?",
+    "options": [
+      "A. Địa chỉ tương đối",
+      "B. Địa chỉ hỗn hợp",
+      "C. Địa chỉ tương đối 3 chiều",
+      "D. Địa chỉ tuyệt đối"
+    ],
+    "correctAnswers": [
+      "C. Địa chỉ tương đối 3 chiều"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 38: Trong bảng tính Excel, ô A5 chứa “TRAN” và ô B5 chứa “ANH”. Để ổ D5 cho kết quả là “TRAN ANH” (có 1 khoảng trắng ở giữa), ta thực hiện công thức như sau?",
+    "options": [
+      "A. = A5 + “ “ + B5",
+      "B. = A5 + B5",
+      "C. = A5 & “ “ & B5",
+      "D. = A5 & B5"
+    ],
+    "correctAnswers": [
+      "C. = A5 & “ “ & B5"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 39: Để trích danh sách các khách hàng ở khu vực A hoặc những khách hàng có tiêu thụ ít hơn 10 mét khối nước, địa chỉ của vùng điều kiện là?",
+    "options": [
+      "A. I1:J2",
+      "B. J1:K3",
+      "C. J1:J2",
+      "D. Tất cả đều đúng."
+    ],
+    "correctAnswers": [
+      "B. J1:K3"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 40: Từ bảng 1, viết công thức tính Thành tiền (Số lượng*Đơn giá) của mặt hàng thứ nhất (tại ô dấu ?). Ký tự giữa của Mã hàng cho biết mặt hàng được bán theo giá sỉ hay giá lẻ?",
+    "options": [
+      "A. =VLOOKUP(RIGHT(B4),$F$4:$H$6,IF(MID(B4,2,1)=“S”,2,3),0)*D4",
+      "B. =VLOOKUP(LEFT(B4,1),$F$4:$H$6,IF(MID(B4,2,1)=“S”,2,3),0)*D4",
+      "C. =VLOOKUP(MID(B4,2,1),$F$4:$H$6,IF(MID(B4,2,1)=“S”,2,3),0)*D4",
+      "D. Tất cả đều đúng."
+    ],
+    "correctAnswers": [
+      "B. =VLOOKUP(LEFT(B4,1),$F$4:$H$6,IF(MID(B4,2,1)=“S”,2,3),0)*D4"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 41: Viết công thức tính Xếp loại của người thứ nhất, biết:\n- Nếu ĐTB < 5 , Xếp loại là “Kém”\n-  Nếu 5 <= ĐTB < 7 , Xếp loại là “Trung bình”\n-  Nếu 7 <= ĐTB < 9 , Xếp loại là “Khá”\n-  Nếu ĐTB >= 9 , Xếp loại là “Giỏi”",
+    "options": [
+      "A. = IF(E3<=5,”Kém”,IF(E3<=7,”Trung bình”,IF(E3<=9,”Khá”,”Giỏi”)))",
+      "B. = IF(E3>9,”Giỏi”,IF(E3>7,”Khá”,IF(E3>5,”Trung bình”,”Kém”)))",
+      "C. = IF(E3>=9,”Giỏi”,IF(E3>=7,”Khá”,IF(E3>=5,”Trung bình”,”Kém”)))",
+      "D. Tất cả đều sai."
+    ],
+    "correctAnswers": [
+      "C. = IF(E3>=9,”Giỏi”,IF(E3>=7,”Khá”,IF(E3>=5,”Trung bình”,”Kém”)))"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 42: Viết công thức tính Tổng Mét khối sử dụng cho Khu vực A?",
+    "options": [
+      "A. = DSUM($A$3:$D$8,4,E3:E4)",
+      "B. = DSUM($A$4:$D$8,$D$3,$E$3:$E$4)",
+      "C. = DSUM($A$3:$D$8,”MÉT KHỐI”,F3:F4)",
+      "D. = DSUM($A$3:$D$8,$D$3:$D$8,$E$3:$E$4)"
+    ],
+    "correctAnswers": [
+      "A. = DSUM($A$3:$D$8,4,E3:E4)"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 43: Viết công thức tính ô F3:\n- Thành tiền = 7000 * Số tuần + 1100 * Số ngày lẻ",
+    "options": [
+      "A. = INT((E3-D3)/7)*7000+MOD(E3-D3,7)*1100",
+      "B. = INT(E3-D3/7)*7000+MOD(E3-D3,7)*1100",
+      "C. = INT(E3-D3,7)*7000+MOD(E3-D3,7)*1100",
+      "D. Tất cả đều sai."
+    ],
+    "correctAnswers": [
+      "A. = INT((E3-D3)/7)*7000+MOD(E3-D3,7)*1100"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 44: Trong Excel, hàm Average dùng để tính",
+    "options": [
+      "A. Trung bình các ô dữ liệu số không trống",
+      "B. Trung bình các ô dữ liệu số trống tính = 0",
+      "C. Trung bình các ô dữ liệu số kí tự tính = 0",
+      "D. Trung bình các ô dữ liệu số, có kí tự thì báo lỗi"
+    ],
+    "correctAnswers": [
+      "A. Trung bình các ô dữ liệu số không trống"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 45: Muốn vẽ biểu đồ (đồ thị) thể hiện mối tương quan (tỷ lệ) giữa các thành phần so với toàn thể, ta chọn loại đồ thị",
+    "options": [
+      "A. Bar.",
+      "B. Column.",
+      "C. Pie.",
+      "D. Tất cả đều đúng"
+    ],
+    "correctAnswers": [
+      "C. Pie."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 46: Dựa vào bảng 1, viết công thức tính phụ cấp của người thứ nhất (tại ô dấu ?)",
+    "options": [
+      "A. = VLOOKUP(D4,$D$7:$E$8,2,0)",
+      "B. = VLOOKUP(D4,$D$7:$E$8,2)",
+      "C. = VLOOKUP(D4,$D$7:$E$8,2,1)",
+      "D. Tất cả đều đúng."
+    ],
+    "correctAnswers": [
+      "D. Tất cả đều đúng."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 47: Để trích danh sách các khách hàng ở khu vực A có tiêu thụ ít hơn 10 mét khối nước, địa chỉ của vùng điều kiện là?",
+    "options": [
+      "A. I1:J2",
+      "B. I1:K3",
+      "C. J1:J3",
+      "D. Tất cả đều sai."
+    ],
+    "correctAnswers": [
+      "A. I1:J2"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 48: Tính tổng Doanh thu của những mã hàng có ký tự giữa là “S”?",
+    "options": [
+      "A. = SUMIF(A2:A6,G2,E2:E6)",
+      "B. = SUM(E2:E6*(MID(A2:A6,2,1)=\"S\"))",
+      "C. = DSUM(A1:E6,E1,G1:G2)",
+      "D. Tất cả đều đúng."
+    ],
+    "correctAnswers": [
+      "D. Tất cả đều đúng."
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 49: Trang tính Excel được hiển thị như ảnh bên dưới là do?",
+    "options": [
+      "A. Thực hiện chức năng Text To Culmns tại ô E5",
+      "B. Thực hiện chức năng Freeze Pane tại ô E5",
+      "C. Thực hiện chức năng Split tại ô E5",
+      "D. Cả 3 cách đều đúng"
+    ],
+    "correctAnswers": [
+      "C. Thực hiện chức năng Split tại ô E5"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  },
+  {
+    "text": "Câu 50: Khi chỉnh size cho  đa  số các loại đối tượng  trong MS-Excel,  muốn kích cỡ luôn co dãn đối xứng qua tâm thì có thể drag các núm chỉnh kết hợp với đè giữ phím",
+    "options": [
+      "A. Ctrl",
+      "B. Alt",
+      "C. Shift",
+      "D. Space bar"
+    ],
+    "correctAnswers": [
+      "A. Ctrl"
+    ],
+    "explanation": "",
+    "courseType": "B"
+  }
+]

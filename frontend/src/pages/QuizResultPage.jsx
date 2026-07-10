@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useSearchParams, Link } from 'react-router-dom';
-import { CheckCircle2, XCircle, Bot } from 'lucide-react';
+import { CheckCircle2, XCircle, Bot, ArrowLeft } from 'lucide-react';
 
 export default function QuizResultPage() {
   const [searchParams] = useSearchParams();
@@ -21,14 +21,14 @@ export default function QuizResultPage() {
 
   if (!resultData) {
     return (
-      <div className="container mx-auto p-8 text-center">
+      <div className="pt-16 container mx-auto p-8 text-center">
         <p className="text-xl mb-4">Không tìm thấy kết quả thi!</p>
-        <Link to="/quiz" className="text-blue-600 underline">Quay lại danh sách đề</Link>
+        <Link to={`/quiz/entry?subject=${subject}`} className="text-blue-600 underline">Quay lại danh sách đề</Link>
       </div>
     );
   }
 
-  const { score, correctCount, totalQuestions, results, timeTaken, isOvertime } = resultData;
+  const { score, correctCount, totalQuestions, results, overtimeScore, overtimeCorrectCount, timeTaken, isOvertime } = resultData;
   const timeLimit = subject === 'A' ? 25 * 60 : 20 * 60;
   
   // Format thời gian hiển thị
@@ -39,21 +39,39 @@ export default function QuizResultPage() {
   };
 
   return (
-    <div className="container mx-auto p-4 max-w-4xl py-8">
-      <h1 className="text-3xl font-bold mb-8 text-center border-b pb-4 dark:border-slate-700">
-        KẾT QUẢ BÀI THI
-      </h1>
+    <div className="pt-20 container mx-auto p-4 max-w-4xl py-8 relative">
+      <div className="mb-8 flex items-center sticky top-16 z-40 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md px-4 py-3 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700">
+        <Link to={`/quiz/entry?subject=${subject}`} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white flex items-center gap-1.5 font-bold text-base transition-colors absolute">
+          <ArrowLeft size={18} strokeWidth={2.5} /> Trở về
+        </Link>
+        <h1 className="text-xl md:text-2xl font-bold w-full text-center m-0">
+          KẾT QUẢ BÀI THI
+        </h1>
+      </div>
 
       {/* Box Điểm số */}
       <div className="bg-white dark:bg-slate-800 p-8 rounded-lg shadow-lg border border-slate-200 dark:border-slate-700 mb-8 text-center flex flex-col md:flex-row justify-around items-center gap-6">
         <div>
-          <p className="text-slate-500 uppercase tracking-wider text-sm font-bold mb-2">Điểm số (Thang 10)</p>
+          <p className="text-slate-500 uppercase tracking-wider text-sm font-bold mb-2">Điểm đúng hạn</p>
           <p className={`text-6xl font-bold ${score >= 5 ? 'text-green-600' : 'text-red-600'}`}>
             {score}
           </p>
           <p className="text-sm mt-2 text-slate-500">Đúng {correctCount} / {totalQuestions} câu</p>
         </div>
         
+        {isOvertime && overtimeScore !== null && (
+          <>
+            <div className="h-24 w-px bg-slate-200 dark:bg-slate-700 hidden md:block"></div>
+            <div>
+              <p className="text-slate-500 uppercase tracking-wider text-sm font-bold mb-2 text-amber-600">Điểm lố giờ</p>
+              <p className={`text-6xl font-bold ${overtimeScore >= 5 ? 'text-green-600' : 'text-red-600'}`}>
+                {overtimeScore}
+              </p>
+              <p className="text-sm mt-2 text-slate-500">Đúng {overtimeCorrectCount} / {totalQuestions} câu</p>
+            </div>
+          </>
+        )}
+
         <div className="h-24 w-px bg-slate-200 dark:bg-slate-700 hidden md:block"></div>
 
         <div>
@@ -86,7 +104,7 @@ export default function QuizResultPage() {
                 {data.isCorrect ? <CheckCircle2 className="text-green-600" size={24} /> : <XCircle className="text-red-600" size={24} />}
               </div>
               <div className="flex-1">
-                <p className="text-lg font-semibold mb-4">Câu {index + 1}: {data.questionText}</p>
+                <p className="text-lg font-semibold mb-4">Câu {index + 1}: {data.questionText.replace(/^Câu \d+[:\.]?\s*/i, '')}</p>
                 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-4">
                   {data.options.map((opt, i) => {
@@ -126,11 +144,6 @@ export default function QuizResultPage() {
         ))}
       </div>
       
-      <div className="mt-12 text-center">
-        <Link to="/quiz" className="px-8 py-3 bg-blue-600 text-white rounded font-bold hover:bg-blue-700">
-          Về danh sách đề thi
-        </Link>
-      </div>
     </div>
   );
 }
