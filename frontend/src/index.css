@@ -1,0 +1,43 @@
+@import "tailwindcss";
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-background: var(--bg);
+  --color-card: var(--surface);
+  --color-card-2: var(--surface2);
+  --color-text-main: var(--text);
+  --color-muted: var(--muted);
+  --color-border-main: var(--border);
+}
+
+@layer base {
+  :root {
+    --bg: #F8FAFC;
+    --surface: #FFFFFF;
+    --surface2: #F1F5F9;
+    --text: #0F172A;
+    --muted: #64748B;
+    --border: #E2E8F0;
+    --nav: rgba(255, 255, 255, 0.72);
+  }
+
+  .dark {
+    --bg: #0B1120;
+    --surface: #111827;
+    --surface2: #182236;
+    --text: #F1F5F9;
+    --muted: #94A3B8;
+    --border: #1E293B;
+    --nav: rgba(17, 24, 39, 0.72);
+  }
+
+  body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+/* Các Animation dùng chung (từ bản thiết kế cũ) */
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes slideDown { from { transform: translateY(-20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
