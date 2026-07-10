@@ -2,6 +2,10 @@ import { useState, useEffect } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import CoursePage from './pages/CoursePage';
+import QuizListPage from './pages/QuizListPage';
+import QuizEntryPage from './pages/QuizEntryPage';
+import QuizActivePage from './pages/QuizActivePage';
+import QuizResultPage from './pages/QuizResultPage';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
@@ -36,6 +40,10 @@ function App() {
           <Route path="/tin-a" element={<CoursePage courseType="A" />} />
           <Route path="/tin-b" element={<CoursePage courseType="B" />} />
           <Route path="/access" element={<CoursePage courseType="ACCESS" />} />
+          <Route path="/quiz" element={<QuizListPage />} />
+          <Route path="/quiz/entry" element={<QuizEntryPage />} />
+          <Route path="/quiz/active" element={<QuizActivePage />} />
+          <Route path="/quiz/result" element={<QuizResultPage />} />
         </Routes>
       </div>
 

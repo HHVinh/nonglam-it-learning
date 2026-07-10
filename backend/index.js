@@ -14,7 +14,10 @@ app.use(cors());
 app.use(express.json());
 
 const apiRouter = require('./routers/apiRouter');
+const quizRouter = require('./routers/quizRouter');
+
 app.use('/api', apiRouter); // Tất cả các đường ống trên sẽ được gắn tiền tố /api
+app.use('/api/quizzes', quizRouter); // Đường ống riêng cho thi trắc nghiệm
 
 
 // Tạo 1 đường ống nháp để Test xem Lễ tân có nghe máy không
