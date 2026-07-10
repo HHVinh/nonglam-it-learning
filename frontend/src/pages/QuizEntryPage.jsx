@@ -16,7 +16,7 @@ export default function QuizEntryPage() {
   useEffect(() => {
     const fetchExams = async () => {
       try {
-        const response = await axios.get(`http://localhost:3001/api/quizzes/exams?subject=${subject}`);
+        const response = await axios.get(`https://it-proficiency-backend.onrender.com/api/quizzes/exams?subject=${subject}`);
         setExams(response.data);
       } catch (error) {
         console.error("Lỗi khi lấy danh sách đề thi:", error);

@@ -44,9 +44,9 @@ export default function QuizActivePage() {
       }
       try {
         const limit = subject === 'A' ? 60 : 50;
-        let url = `http://localhost:3001/api/quizzes/random?subject=${subject}&limit=${limit}`;
-        if (examId) {
-          url = `http://localhost:3001/api/quizzes/exam?subject=${subject}&examId=${encodeURIComponent(examId)}`;
+        let url = `https://it-proficiency-backend.onrender.com/api/quizzes/random?subject=${subject}&limit=${limit}`;
+        if (examId && examId !== 'random') {
+          url = `https://it-proficiency-backend.onrender.com/api/quizzes/exam?subject=${subject}&examId=${encodeURIComponent(examId)}`;
         }
         const response = await axios.get(url);
         setQuestions(response.data);
@@ -105,7 +105,7 @@ export default function QuizActivePage() {
     try {
       const elapsedSeconds = Math.floor((Date.now() - startTime) / 1000);
       
-      const res = await axios.post('http://localhost:3001/api/quizzes/submit', {
+      const res = await axios.post('https://it-proficiency-backend.onrender.com/api/quizzes/submit', {
         answers: onTimeAnswers || answers,
         overtimeAnswers: isOvertime ? answers : null,
         questionIds: questions.map(q => q._id),
