@@ -253,7 +253,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 19: Dạng view nào thường dùng trình bày, thiết kế nội dung trong quá trình soạn thảo slide PowerPoint 2010 2010?",
+    "text": "Câu 19: Dạng view nào thường dùng trình bày, thiết kế nội dung trong quá trình soạn thảo slide PowerPoint 2010?",
     "options": [
       "A. Gird",
       "B. Normal",
@@ -281,7 +281,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 21: Trong PowerPoint 2010 2010 chọn phát biểu không đúng?",
+    "text": "Câu 21: Trong PowerPoint 2010 chọn phát biểu không đúng?",
     "options": [
       "A. Khi đang mở 1 file trình chiếu, vào file/save để lưu với 1 tên mới",
       "B. Khi vừa mở 1 cửa sổ trình chiếu, vào file/save as để lưu với 1 tên mới",
@@ -353,13 +353,13 @@
   {
     "text": "Câu 26: Chương trình nào là một ví dụ về chương trình dùng để trình chiếu? (Chọn nhiều đáp án)",
     "options": [
-      "A. Microsoft PowerPoint 2010 2010",
+      "A. Microsoft PowerPoint 2010",
       "B. Microsoft Word",
       "C. Microsoft Publisher",
       "D. LibreOffice Impress"
     ],
     "correctAnswers": [
-      "A. Microsoft PowerPoint 2010 2010",
+      "A. Microsoft PowerPoint 2010",
       "D. LibreOffice Impress"
     ],
     "explanation": "",
@@ -548,7 +548,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 40: Cho biết phần mở rộng của chương trình Microsoft PowerPoint 2010 2010?",
+    "text": "Câu 40: Cho biết phần mở rộng của chương trình Microsoft PowerPoint 2010?",
     "options": [
       "A. *.accdb",
       "B. *.doc, *.docx",
@@ -576,7 +576,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 42: Trong PowerPoint 2010 2010 hiệu ứng chuyển trang slide là?",
+    "text": "Câu 42: Trong PowerPoint 2010 hiệu ứng chuyển trang slide là?",
     "options": [
       "A. Animations",
       "B. Switch page",
@@ -778,11 +778,11 @@
     "options": [
       "A. Google",
       "B. Mozilla Firefox",
-      "C. Microsoft PowerPoint 2010 2010",
+      "C. Microsoft PowerPoint 2010",
       "D. Microsoft Word"
     ],
     "correctAnswers": [
-      "C. Microsoft PowerPoint 2010 2010"
+      "C. Microsoft PowerPoint 2010"
     ],
     "explanation": "",
     "courseType": "B"

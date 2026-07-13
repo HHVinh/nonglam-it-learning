@@ -364,7 +364,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 27: Trong Microsoft PowerPoint 2010 2010 2010, chọn phát biểu đúng nhất về việc sử dụng mẫu thiết kế (themes):",
+    "text": "Câu 27: Trong Microsoft PowerPoint 2010, chọn phát biểu đúng nhất về việc sử dụng mẫu thiết kế (themes):",
     "options": [
       "A. Người dùng có thể tạo ra một số themes mới và áp dụng trên nhiều bản trình chiếu",
       "B. Người dùng không thể sử dụng một themes bên ngoài vào bài báo cáo của mình",
@@ -504,7 +504,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 37: Trong PowerPoint 2010 2010 2010, để hiển thị một bản trình bày chứa ba khung: Outline, Slide and Notes, bạn dùng",
+    "text": "Câu 37: Trong PowerPoint 2010, để hiển thị một bản trình bày chứa ba khung: Outline, Slide and Notes, bạn dùng",
     "options": [
       "A. Normal",
       "B. Slide Show",

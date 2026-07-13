@@ -266,7 +266,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 20: Dạng view nào thường dùng để trình bày, thiết kế nội dung trong quá trình soạn thảo slide trong MS PowerPoint 2010 2010 2010",
+    "text": "Câu 20: Dạng view nào thường dùng để trình bày, thiết kế nội dung trong quá trình soạn thảo slide trong MS PowerPoint 2010",
     "options": [
       "A. Grid",
       "B. Normal",
@@ -771,7 +771,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 56: Trong PowerPoint 2010 2010 2010, khi tạo mới một bản trình diễn:",
+    "text": "Câu 56: Trong PowerPoint 2010, khi tạo mới một bản trình diễn:",
     "options": [
       "A. Trình diễn tạo ra có thể là một trình diễn trống (Blank presentation), một khuôn mẫu (Template) có sẵn hoặc từ một tập tin Microsoft Word",
       "B. Trình diễn tạo ra có thể là một trình diễn trống (Blank presentation), một khuôn mẫu (Template) hoặc từ một tập tin trình chiếu có sẵn.",

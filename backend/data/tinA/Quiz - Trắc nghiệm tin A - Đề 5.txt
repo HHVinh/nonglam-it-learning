@@ -1,6 +1,6 @@
 [
   {
-    "text": "Câu 1: Trong PowerPoint 2010 2010 2010, để thêm vào một trang mới, ta thực hiện?",
+    "text": "Câu 1: Trong PowerPoint 2010, để thêm vào một trang mới, ta thực hiện?",
     "options": [
       "A. Chọn Insert \\ New slide",
       "B. Chọn Insert \\ Duplicate slide",
@@ -70,7 +70,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 6: Trong Microsoft PowerPoint 2010 2010 2010, để hiển thị một bản trình bày chứa ba khung, Outline, Slide and Note, bạn dùng?",
+    "text": "Câu 6: Trong Microsoft PowerPoint 2010, để hiển thị một bản trình bày chứa ba khung, Outline, Slide and Note, bạn dùng?",
     "options": [
       "A. Normal",
       "B. Slide Sorter",
@@ -84,7 +84,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 7: Trong PowerPoint 2010 2010 2010, khi tạo mới một bản trình diễn?",
+    "text": "Câu 7: Trong PowerPoint 2010, khi tạo mới một bản trình diễn?",
     "options": [
       "A. Trình diễn tạo ra luôn trống",
       "B. Trình diễn tạo ra có thể là một trình diễn trống (Blank Presentation), một khuôn mẫu (Template) có sẵn hoặc từ một tập tin Microsoft Word",
@@ -210,7 +210,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 16: Trong Microsoft PowerPoint 2010 2010 2010, để tạo mới 1 slide ta sử dụng?",
+    "text": "Câu 16: Trong Microsoft PowerPoint 2010, để tạo mới 1 slide ta sử dụng?",
     "options": [
       "A. Home -> Slides -> New Slide",
       "B. Design -> New Slide",
@@ -252,7 +252,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 19: Trong Microsoft PowerPoint 2010 2010 2010, khi đang đứng ở slide đầu tiên của bản trình chiếu, để chuyển chế độ từ bình thường sang trình chiếu ta dùng theo tác?",
+    "text": "Câu 19: Trong Microsoft PowerPoint 2010, khi đang đứng ở slide đầu tiên của bản trình chiếu, để chuyển chế độ từ bình thường sang trình chiếu ta dùng theo tác?",
     "options": [
       "A. Nhấn F5 trên bàn phím",
       "B. Nhấn biểu tượng Slide Show ở góc trái bên dưới của màn hình",
@@ -280,7 +280,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 21: Trong Microsoft PowerPoint 2010 2010 2010, để tạo hiệu ứng cho 1 slide bạn làm thế nào?",
+    "text": "Câu 21: Trong Microsoft PowerPoint 2010, để tạo hiệu ứng cho 1 slide bạn làm thế nào?",
     "options": [
       "A. Selectone -> Effect Options",
       "B. Animation -> Add Animation",
@@ -336,7 +336,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 25: Trong PowerPoint 2010 2010, để tạo 1 bài thuyết trình mới?",
+    "text": "Câu 25: Trong PowerPoint 2010, để tạo 1 bài thuyết trình mới?",
     "options": [
       "A. Vào Home/New/Blank presentation",
       "B. Vào Insert/New/Blank presentation",
@@ -364,7 +364,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 27: Trong PowerPoint 2010 2010, lựa chọn nào KHÔNG phải là file của bài thuyết trình?",
+    "text": "Câu 27: Trong PowerPoint 2010, lựa chọn nào KHÔNG phải là file của bài thuyết trình?",
     "options": [
       "A. *.pptx",
       "B. *.ppsx",
@@ -434,7 +434,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 32: Trong PowerPoint 2010 2010, để tạo hiệu ứng cho 1 slide, bạn sử dụng lựa chọn nào?",
+    "text": "Câu 32: Trong PowerPoint 2010, để tạo hiệu ứng cho 1 slide, bạn sử dụng lựa chọn nào?",
     "options": [
       "A. Animations \\ Animation",
       "B. Animations \\ Add Animation",
@@ -490,7 +490,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 36: Trong PowerPoint 2010 2010, không hỗ trợ dạng hiển thi (view) nào?",
+    "text": "Câu 36: Trong PowerPoint 2010, không hỗ trợ dạng hiển thi (view) nào?",
     "options": [
       "A. Slide view",
       "B. Normal",
@@ -616,7 +616,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 45: Trong PowerPoint 2010 2010, khi đang đứng ở slide đầu tiên để chuyển chế độ hiển thị từ bình thường sang dạng trình chiếu người dùng thao tác?",
+    "text": "Câu 45: Trong PowerPoint 2010, khi đang đứng ở slide đầu tiên để chuyển chế độ hiển thị từ bình thường sang dạng trình chiếu người dùng thao tác?",
     "options": [
       "A. Alt F5",
       "B. Control F5",

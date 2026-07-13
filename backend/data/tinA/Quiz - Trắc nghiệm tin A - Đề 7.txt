@@ -28,7 +28,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 3: Trong PowerPoint 2010 2010 2010, để hiển thị một bản trình bày chứa ba khung: Outline, Slide and Notes, bạn dùng",
+    "text": "Câu 3: Trong PowerPoint 2010, để hiển thị một bản trình bày chứa ba khung: Outline, Slide and Notes, bạn dùng",
     "options": [
       "A. Slide Sorter",
       "B. Normal",
@@ -154,7 +154,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 12: Trong Microsoft PowerPoint 2010 2010 2010, phần mở rộng của tập tin trình chiếu là?",
+    "text": "Câu 12: Trong Microsoft PowerPoint 2010, phần mở rộng của tập tin trình chiếu là?",
     "options": [
       "A. PPTX",
       "B. TXT",
@@ -182,7 +182,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 14: Phần mở rộng nào sau đây là của theme trong PowerPoint 2010 2010 2010?",
+    "text": "Câu 14: Phần mở rộng nào sau đây là của theme trong PowerPoint 2010?",
     "options": [
       "A. .thmx",
       "B. .pptx",
@@ -239,7 +239,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 18: Microsoft PowerPoint 2010 2010 không hỗ trợ views nào?",
+    "text": "Câu 18: Microsoft PowerPoint 2010 không hỗ trợ views nào?",
     "options": [
       "A. Normal",
       "B. Outline View",
@@ -253,12 +253,12 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 19: Trong Microsoft PowerPoint 2010 2010 cách để tạo một bài trình chiếu mới?",
+    "text": "Câu 19: Trong Microsoft PowerPoint 2010 cách để tạo một bài trình chiếu mới?",
     "options": [
       "A. File\\Open\\NewPowerPoint",
-      "B. File\\Home\\New PowerPoint 2010 2010 File",
+      "B. File\\Home\\New PowerPoint 2010 File",
       "C. File\\New\\ Blank Presentation",
-      "D. Home\\New\\File\\PowerPoint 2010 2010"
+      "D. Home\\New\\File\\PowerPoint 2010"
     ],
     "correctAnswers": [
       "C. File\\New\\ Blank Presentation"
@@ -351,7 +351,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 26: View nào trình bày, thiết kế nội dung, chỉnh sửa soạn thảo trong PowerPoint 2010 2010?",
+    "text": "Câu 26: View nào trình bày, thiết kế nội dung, chỉnh sửa soạn thảo trong PowerPoint 2010?",
     "options": [
       "A. Nomal",
       "B. Reading View",
@@ -547,7 +547,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 40: Định dạng nào dưới đây là đuôi mở rộng của các mẫu thiết kế (themes) trong PowerPoint 2010 2010?",
+    "text": "Câu 40: Định dạng nào dưới đây là đuôi mở rộng của các mẫu thiết kế (themes) trong PowerPoint 2010?",
     "options": [
       "A. Themx",
       "B. Themsx",
@@ -603,7 +603,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 44: Trong PowerPoint 2010 2010, khi thiết kế các slide, sử dụng Home \\ slide \\ new slide có ý nghĩa gì?",
+    "text": "Câu 44: Trong PowerPoint 2010, khi thiết kế các slide, sử dụng Home \\ slide \\ new slide có ý nghĩa gì?",
     "options": [
       "A. Chèn thêm 1 slide mới vào ngay sau slide hiện hành",
       "B. Chèn thêm 1 slide mới vào ngay trước slide đầu tiên",
@@ -645,7 +645,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 47: Trong PowerPoint 2010 2010, để thay đổi bố cục slide, bạn nên?",
+    "text": "Câu 47: Trong PowerPoint 2010, để thay đổi bố cục slide, bạn nên?",
     "options": [
       "A. Thẻ design, trong nhóm slide, chọn slide layout",
       "B. Thẻ insert, trong nhóm slide, chọn slide layout",
@@ -815,7 +815,7 @@
     "courseType": "B"
   },
   {
-    "text": "Câu 59: Trong PowerPoint 2010 2010, muốn chèn các slide từ 1 tập tin khác vào tập tin đang mở ta làm?",
+    "text": "Câu 59: Trong PowerPoint 2010, muốn chèn các slide từ 1 tập tin khác vào tập tin đang mở ta làm?",
     "options": [
       "A. Insert\\new slide",
       "B. File\\import",

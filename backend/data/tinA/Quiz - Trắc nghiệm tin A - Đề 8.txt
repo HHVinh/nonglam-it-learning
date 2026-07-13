@@ -780,7 +780,7 @@
     "used": true
   },
   {
-    "text": "Câu 56: Phần mở rộng nào sau đây là của theme trong PowerPoint 2010 2010 2010?",
+    "text": "Câu 56: Phần mở rộng nào sau đây là của theme trong PowerPoint 2010?",
     "options": [
       "A. .thmx",
       "B. .pptx",
