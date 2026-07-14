@@ -25,6 +25,69 @@ exports.getRandomQuiz = async (req, res) => {
   }
 };
 
+exports.getHardcoreQuiz = async (req, res) => {
+  try {
+    const { subject, limit = 60 } = req.query;
+    if (!subject) return res.status(400).json({ message: "Thiếu tham số subject (A, B, ACCESS)" });
+    
+    const totalCount = parseInt(limit);
+    const hardCount = Math.floor(totalCount * 0.6);
+    const mediumCount = Math.floor(totalCount * 0.3);
+
+    // Hard: failedAttempts / totalAttempts > 0.5
+    const hardQuestions = await Question.aggregate([
+      { $match: { 
+          courseType: subject, 
+          totalAttempts: { $gt: 0 }, 
+          $expr: { $gt: [{ $divide: ["$failedAttempts", "$totalAttempts"] }, 0.5] } 
+      } },
+      { $sample: { size: hardCount } }
+    ]);
+
+    // Medium: failedAttempts / totalAttempts between 0.2 and 0.5
+    const mediumQuestions = await Question.aggregate([
+      { $match: { 
+          courseType: subject, 
+          totalAttempts: { $gt: 0 }, 
+          $expr: { 
+            $and: [
+              { $lte: [{ $divide: ["$failedAttempts", "$totalAttempts"] }, 0.5] },
+              { $gte: [{ $divide: ["$failedAttempts", "$totalAttempts"] }, 0.2] }
+            ]
+          } 
+      } },
+      { $sample: { size: mediumCount } }
+    ]);
+
+    const pickedIds = [...hardQuestions, ...mediumQuestions].map(q => q._id);
+
+    // Dễ hoặc chưa ai làm
+    const easyQuestions = await Question.aggregate([
+      { $match: { 
+          courseType: subject, 
+          _id: { $nin: pickedIds }
+      } },
+      { $sample: { size: totalCount - pickedIds.length } } 
+    ]);
+
+    let finalQuestions = [...hardQuestions, ...mediumQuestions, ...easyQuestions];
+
+    // Trộn ngẫu nhiên lại mảng
+    finalQuestions = finalQuestions.sort(() => Math.random() - 0.5);
+    finalQuestions = finalQuestions.slice(0, totalCount);
+
+    const safeQuestions = finalQuestions.map(q => {
+      const isMultipleChoice = q.correctAnswers && q.correctAnswers.length > 1;
+      const { correctAnswers, explanation, ...safeQ } = q;
+      return { ...safeQ, isMultipleChoice };
+    });
+
+    res.json(safeQuestions);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
 exports.getExams = async (req, res) => {
   try {
     const { subject } = req.query;
@@ -116,6 +179,26 @@ exports.submitQuiz = async (req, res) => {
     
     if (isOvertime && overtimeAnswers) {
       overtimeData = grade(overtimeAnswers);
+    }
+
+    // Telemetry: Cập nhật totalAttempts và failedAttempts chạy ngầm
+    const finalResults = isOvertime ? overtimeData.results : onTimeData.results;
+    const bulkOps = [];
+    for (const qId in finalResults) {
+      bulkOps.push({
+        updateOne: {
+          filter: { _id: qId },
+          update: { 
+            $inc: { 
+              totalAttempts: 1, 
+              failedAttempts: finalResults[qId].isCorrect ? 0 : 1 
+            } 
+          }
+        }
+      });
+    }
+    if (bulkOps.length > 0) {
+      Question.bulkWrite(bulkOps).catch(err => console.error("Telemetry Error:", err));
     }
 
     res.json({

@@ -70,14 +70,34 @@ export default function QuizEntryPage() {
           </div>
         </div>
         
-        <h2 className="text-xl font-bold mb-4 text-blue-600">Làm Đề Ngẫu Nhiên</h2>
-        <p className="text-slate-600 dark:text-slate-300 mb-4">Hệ thống sẽ bốc ngẫu nhiên {questionCount} câu từ ngân hàng đề thi để tạo ra một đề thi mới.</p>
-        <button 
-          onClick={() => handleStart()}
-          className="px-8 py-3 bg-blue-600 text-white text-lg font-bold rounded hover:bg-blue-700 w-full md:w-1/2 mx-auto shadow-lg transition-colors"
-        >
-          BẮT ĐẦU ĐỀ NGẪU NHIÊN
-        </button>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-3xl mx-auto">
+          <div className="bg-blue-50 dark:bg-blue-900/20 p-6 rounded-lg border border-blue-100 dark:border-blue-800 flex flex-col justify-between">
+            <div>
+              <h2 className="text-xl font-bold mb-3 text-blue-700 dark:text-blue-400">Đề Ngẫu Nhiên</h2>
+              <p className="text-slate-600 dark:text-slate-300 mb-6 text-sm">Hệ thống sẽ bốc ngẫu nhiên {questionCount} câu từ toàn bộ ngân hàng đề thi.</p>
+            </div>
+            <button 
+              onClick={() => handleStart()}
+              className="px-6 py-3 bg-blue-600 text-white font-bold rounded hover:bg-blue-700 w-full shadow-md transition-colors"
+            >
+              ĐỀ NGẪU NHIÊN
+            </button>
+          </div>
+
+          <div className="bg-red-50 dark:bg-red-900/20 p-6 rounded-lg border border-red-100 dark:border-red-800 flex flex-col justify-between relative overflow-hidden">
+            <div className="absolute top-0 right-0 bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">HOT</div>
+            <div>
+              <h2 className="text-xl font-bold mb-3 text-red-700 dark:text-red-400">Đề Thi Nâng Cao</h2>
+              <p className="text-slate-600 dark:text-slate-300 mb-6 text-sm">Đề được tự động tạo từ các câu hỏi có tỉ lệ sai nhiều nhất của sinh viên.</p>
+            </div>
+            <button 
+              onClick={() => handleStart('hardcore')}
+              className="px-6 py-3 bg-red-600 text-white font-bold rounded hover:bg-red-700 w-full shadow-md transition-colors flex justify-center items-center gap-2"
+            >
+              ĐỀ NÂNG CAO 🔥
+            </button>
+          </div>
+        </div>
       </div>
 
       <div className="w-full mb-10">

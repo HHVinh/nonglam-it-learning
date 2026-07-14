@@ -9,7 +9,6 @@ export default function QuizResultPage() {
   const [selectedForAI, setSelectedForAI] = useState([]);
   const [askedAILog, setAskedAILog] = useState([]);
   const [showAIModal, setShowAIModal] = useState(false);
-  const [hideModalPreference, setHideModalPreference] = useState(false);
   const [toastMsg, setToastMsg] = useState("");
 
   useEffect(() => {
@@ -17,8 +16,6 @@ export default function QuizResultPage() {
     if (savedResults) {
       setResultData(JSON.parse(savedResults));
     }
-    const pref = localStorage.getItem('hideAIModal');
-    if (pref === 'true') setHideModalPreference(true);
   }, [subject]);
 
   const toggleAISelection = (qId) => {
@@ -58,10 +55,15 @@ export default function QuizResultPage() {
   };
 
   const handleBulkAskAI = () => {
-    if (hideModalPreference) {
-      executeAskAI();
+    if (selectedForAI.length === 0) return;
+    
+    const lastAITime = localStorage.getItem('lastAIModalTime');
+    const now = Date.now();
+    // 30 phút = 30 * 60 * 1000 = 1800000 milliseconds
+    if (lastAITime && now - parseInt(lastAITime) < 1800000) {
+      executeAskAI(); // Chưa qua 30 phút -> Mở thẳng luôn
     } else {
-      setShowAIModal(true);
+      setShowAIModal(true); // Đã qua 30 phút -> Hiện lại thông báo
     }
   };
 
@@ -216,7 +218,7 @@ export default function QuizResultPage() {
                 <Bot className="text-blue-600 dark:text-blue-400" size={24} />
               </div>
               <div>
-                <p className="font-bold text-slate-800 dark:text-slate-200">Giỏ hàng hỏi AI</p>
+                <p className="font-bold text-slate-800 dark:text-slate-200">Số câu hỏi</p>
                 <p className="text-sm text-slate-500">Đã chọn {selectedForAI.length} / 10 câu</p>
               </div>
             </div>
@@ -224,7 +226,7 @@ export default function QuizResultPage() {
               onClick={handleBulkAskAI}
               className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full font-bold flex items-center gap-2 shadow-lg hover:shadow-xl transition-all"
             >
-              Gửi cho ChatGPT
+              Gửi ChatGPT
             </button>
           </div>
         </div>
@@ -239,29 +241,14 @@ export default function QuizResultPage() {
             </div>
             <div className="p-6">
               <p className="text-slate-600 dark:text-slate-300 mb-4">
-                Hệ thống sẽ <strong>tự động sao chép</strong> các câu hỏi bạn đã chọn và mở tab ChatGPT.
+                Hệ thống đã <strong>tự động sao chép</strong> các câu hỏi bạn chọn.
               </p>
               <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800/50 p-4 rounded-lg mb-6 flex gap-3">
                 <Info className="text-amber-600 shrink-0 mt-0.5" size={20} />
                 <p className="text-sm text-amber-800 dark:text-amber-400">
-                  Khi tab ChatGPT mở ra, bạn chỉ cần nhấn <strong>Ctrl + V</strong> (Dán) vào ô chat và nhấn Enter để nhận câu trả lời.
+                  Bạn chỉ cần nhấn <strong>Ctrl + V (Dán)</strong> vào ô chat và nhấn Enter để nhận câu trả lời.
                 </p>
               </div>
-              
-              <label className="flex items-center gap-2 cursor-pointer mb-6 text-sm text-slate-600 dark:text-slate-400">
-                <input 
-                  type="checkbox" 
-                  className="w-4 h-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500"
-                  onChange={(e) => {
-                    const checked = e.target.checked;
-                    setHideModalPreference(checked);
-                    if (checked) localStorage.setItem('hideAIModal', 'true');
-                    else localStorage.removeItem('hideAIModal');
-                  }}
-                  checked={hideModalPreference}
-                />
-                Đừng hiện lại thông báo này
-              </label>
 
               <div className="flex gap-3 justify-end">
                 <button 
@@ -272,12 +259,13 @@ export default function QuizResultPage() {
                 </button>
                 <button 
                   onClick={() => {
+                    localStorage.setItem('lastAIModalTime', Date.now().toString());
                     setShowAIModal(false);
                     executeAskAI();
                   }}
                   className="px-5 py-2.5 rounded-lg font-bold bg-blue-600 text-white hover:bg-blue-700 shadow-md"
                 >
-                  Đã hiểu, Mở ChatGPT
+                  Đã hiểu! Mở ChatGPT
                 </button>
               </div>
             </div>

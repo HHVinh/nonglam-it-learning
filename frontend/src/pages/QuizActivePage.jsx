@@ -45,7 +45,9 @@ export default function QuizActivePage() {
       try {
         const limit = subject === 'A' ? 60 : 50;
         let url = `https://it-proficiency-backend.onrender.com/api/quizzes/random?subject=${subject}&limit=${limit}`;
-        if (examId && examId !== 'random') {
+        if (examId === 'hardcore') {
+          url = `https://it-proficiency-backend.onrender.com/api/quizzes/hardcore?subject=${subject}&limit=${limit}`;
+        } else if (examId && examId !== 'random') {
           url = `https://it-proficiency-backend.onrender.com/api/quizzes/exam?subject=${subject}&examId=${encodeURIComponent(examId)}`;
         }
         const response = await axios.get(url);
@@ -153,7 +155,7 @@ export default function QuizActivePage() {
         </Link>
         
         <div className="absolute left-1/2 -translate-x-1/2 font-bold text-base md:text-lg text-slate-800 dark:text-slate-200 whitespace-nowrap">
-          {examId ? examId : 'Đề Ngẫu Nhiên'}
+          {examId === 'hardcore' ? 'Đề Thi Nâng Cao 🔥' : (examId ? examId : 'Đề Ngẫu Nhiên')}
         </div>
         
         <div className={`font-mono text-lg font-bold tracking-wider px-3 py-1 rounded-md border flex items-center gap-2 relative z-10 shrink-0 bg-white/50 dark:bg-slate-900/50 backdrop-blur ${

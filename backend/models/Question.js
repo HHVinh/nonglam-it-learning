@@ -12,7 +12,9 @@ const questionSchema = new mongoose.Schema({
   courseType: { type: String, enum: ['A', 'B', 'ACCESS'], required: true },
   examId: { type: String }, // Ví dụ: "Đề 10"
   imageUrl: { type: String }, // Ví dụ: "/images/quiz/A8-6.png"
-  createdAt: { type: Date, default: Date.now }
+  createdAt: { type: Date, default: Date.now },
+  totalAttempts: { type: Number, default: 0 }, // Số lần xuất hiện trong bài thi
+  failedAttempts: { type: Number, default: 0 } // Số lần bị sinh viên làm sai
 });
 
 module.exports = mongoose.model('Question', questionSchema);
