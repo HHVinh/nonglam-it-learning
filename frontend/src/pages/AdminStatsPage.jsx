@@ -111,7 +111,7 @@ export default function AdminStatsPage() {
 
         {/* Chi tiết từng học phần */}
         <h2 className="text-xl font-bold text-slate-800 dark:text-slate-200 mb-4 flex items-center gap-2">
-          <Clock size={20} /> Bóc tách chi tiết từng môn
+          <Clock size={20} /> Thông tin chi tiết
         </h2>
         
         <div className="bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
@@ -129,7 +129,7 @@ export default function AdminStatsPage() {
                 {stats.map((item) => (
                   <tr key={item._id} className="hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors">
                     <td className="px-6 py-4 font-semibold text-slate-900 dark:text-white">
-                      Tin {item.subject}
+                      {item.courseType === 'ACCESS' ? 'Access' : `Tin ${item.courseType}`}
                     </td>
                     <td className="px-6 py-4">
                       <span className="bg-blue-100 dark:bg-blue-900/40 text-blue-800 dark:text-blue-300 px-2.5 py-0.5 rounded font-medium">
@@ -142,7 +142,7 @@ export default function AdminStatsPage() {
                       </span>
                     </td>
                     <td className="px-6 py-4 text-xs">
-                      {new Date(item.updatedAt).toLocaleString('vi-VN')}
+                      {item.updatedAt ? new Date(item.updatedAt).toLocaleString('vi-VN') : 'Đang theo dõi...'}
                     </td>
                   </tr>
                 ))}
