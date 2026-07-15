@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 export default function Footer() {
   const [visitCount, setVisitCount] = useState(0);
@@ -29,8 +30,8 @@ export default function Footer() {
           Được phát triển bởi <a href="https://www.facebook.com/HuynhHuuVinh2101" target="_blank" rel="noopener noreferrer" className="font-bold text-amber-500 hover:text-amber-400 transition-colors">Huỳnh Hữu Vinh</a>
         </div>
 
-        <div className="text-slate-500 dark:text-slate-500 italic">
-          © {new Date().getFullYear()} Dự án phi lợi nhuận hỗ trợ Sinh viên Nông Lâm
+        <div className="text-slate-500 dark:text-slate-500 italic flex items-center justify-center gap-1">
+          <Link to="/admin-stats" className="cursor-default text-inherit hover:text-slate-400 dark:hover:text-slate-300 transition-colors" title="Admin">©</Link> {new Date().getFullYear()} Dự án phi lợi nhuận hỗ trợ Sinh viên Nông Lâm
         </div>
 
         <div className="mt-2 pt-3 border-t border-slate-100 dark:border-slate-800/50 max-w-2xl text-[11px] sm:text-xs text-slate-400 dark:text-slate-500 leading-relaxed">

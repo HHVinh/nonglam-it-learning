@@ -28,6 +28,7 @@ function SubjectPill({ subject }) {
 export default function HomePage() {
   const [updates, setUpdates] = useState([]);
   const [visitCount, setVisitCount] = useState(0);
+  const [globalStats, setGlobalStats] = useState({ totalViews: 0, totalSubmits: 0 });
   const [filter, setFilter] = useState('Tất cả'); 
   const [visibleCount, setVisibleCount] = useState(6);
   const navigate = useNavigate();
@@ -50,8 +51,19 @@ export default function HomePage() {
         setVisitCount(res.data.count);
       } catch (error) { console.error("Lỗi đếm truy cập:", error); }
     };
+
+    const fetchGlobalStats = async () => {
+      try {
+        const res = await axios.get('https://it-proficiency-backend.onrender.com/api/quizzes/global-stats');
+        setGlobalStats(res.data);
+      } catch (e) {
+        console.error("Lỗi lấy global stats", e);
+      }
+    };
+
     hitVisit();
     fetchUpdates();
+    fetchGlobalStats();
   }, []);
 
   const handlePostUpdate = async (e) => {
@@ -116,9 +128,17 @@ export default function HomePage() {
                 Tin Học Nông Lâm
               </span>
             </h1>
-            <p className="text-lg text-slate-500 dark:text-slate-400 max-w-2xl leading-relaxed mb-8">
+            <p className="text-lg text-slate-500 dark:text-slate-400 max-w-2xl leading-relaxed mb-6">
               Chia sẻ kiến thức, tài liệu và video ôn tập thi chuẩn đầu ra Tin học miễn phí
             </p>
+
+            {globalStats.totalViews > 0 && (
+              <div className="mb-10 inline-flex items-center gap-2 px-5 py-2 bg-white dark:bg-slate-800 rounded-full border border-slate-200 dark:border-slate-700 shadow-sm animate-pulse-slow">
+                <span className="flex items-center gap-1.5 text-sm md:text-base font-bold text-slate-700 dark:text-slate-300">
+                  <Users size={18} className="text-blue-500" /> Đã có <span className="text-blue-600 dark:text-blue-400">{globalStats.totalViews.toLocaleString()}</span> lượt học video
+                </span>
+              </div>
+            )}
 
             {/* Course CTA buttons */}
             <div className="flex flex-wrap gap-4 justify-center mb-8">

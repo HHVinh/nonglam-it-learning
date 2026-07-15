@@ -1,5 +1,6 @@
 const Question = require('../models/Question');
 const Quiz = require('../models/Quiz');
+const CourseStats = require('../models/CourseStats');
 
 exports.getRandomQuiz = async (req, res) => {
   try {
@@ -20,6 +21,63 @@ exports.getRandomQuiz = async (req, res) => {
     });
 
     res.json(safeQuestions);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
+exports.getCourseStats = async (req, res) => {
+  try {
+    const { subject, increment } = req.query;
+    if (!subject) return res.status(400).json({ message: "Thiếu tham số subject" });
+    
+    let stats = await CourseStats.findOne({ courseType: subject });
+    if (!stats) {
+      stats = new CourseStats({ courseType: subject });
+      await stats.save();
+    }
+
+    if (increment === 'true') {
+      stats.viewCount += 1;
+      await stats.save();
+    }
+
+    res.json(stats);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
+exports.getGlobalStats = async (req, res) => {
+  try {
+    const allStats = await CourseStats.find({});
+    let totalViews = 0;
+    let totalSubmits = 0;
+    
+    allStats.forEach(stat => {
+      totalViews += stat.viewCount;
+      totalSubmits += stat.submitCount;
+    });
+
+    // Áp dụng Số Phong Thủy làm Offset
+    totalViews += 3979;
+    totalSubmits += 1368;
+
+    res.json({ totalViews, totalSubmits });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
+exports.getAllStats = async (req, res) => {
+  try {
+    const adminPass = req.headers['x-admin-password'];
+    if (adminPass !== process.env.ADMIN_PASSWORD) {
+      return res.status(403).json({ message: "Không có quyền truy cập. Sai mật khẩu Admin!" });
+    }
+
+    const allStats = await CourseStats.find({});
+    res.json(allStats);
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
@@ -200,6 +258,13 @@ exports.submitQuiz = async (req, res) => {
     if (bulkOps.length > 0) {
       Question.bulkWrite(bulkOps).catch(err => console.error("Telemetry Error:", err));
     }
+
+    // Đếm lượt thi
+    CourseStats.findOneAndUpdate(
+      { courseType: subject },
+      { $inc: { submitCount: 1 } },
+      { upsert: true, new: true }
+    ).catch(err => console.error("Stats Error:", err));
 
     res.json({
       score: onTimeData.score,

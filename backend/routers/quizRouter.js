@@ -2,6 +2,15 @@ const express = require('express');
 const router = express.Router();
 const quizController = require('../controllers/quizController');
 
+// Lấy thống kê của môn học
+router.get('/stats', quizController.getCourseStats);
+
+// Lấy tổng thống kê (Global)
+router.get('/global-stats', quizController.getGlobalStats);
+
+// Lấy toàn bộ dữ liệu thống kê (Admin)
+router.get('/stats-all', quizController.getAllStats);
+
 // Lấy bộ câu hỏi ngẫu nhiên (Query params: ?subject=A&limit=60)
 router.get('/random', quizController.getRandomQuiz);
 

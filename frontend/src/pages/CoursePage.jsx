@@ -42,7 +42,21 @@ function CoursePage({ courseType }) {
         console.error("Lỗi lấy video:", error);
       }
     };
+    
+    const trackView = async () => {
+      try {
+        const hasVisited = sessionStorage.getItem(`visited_course_${courseType}`);
+        if (!hasVisited) {
+          await axios.get(`https://it-proficiency-backend.onrender.com/api/quizzes/stats?subject=${courseType}&increment=true`);
+          sessionStorage.setItem(`visited_course_${courseType}`, 'true');
+        }
+      } catch (error) {
+        console.error("Lỗi tracking view:", error);
+      }
+    };
+
     fetchVideos();
+    trackView();
   }, [courseType, location.search]);
 
   // 2. Lấy danh sách Bình luận MỖI KHI ĐỔI BÀI HỌC

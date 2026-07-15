@@ -22,6 +22,7 @@ export default function QuizEntryPage() {
         console.error("Lỗi khi lấy danh sách đề thi:", error);
       }
     };
+
     fetchExams();
   }, [subject]);
 

@@ -6,6 +6,7 @@ import QuizListPage from './pages/QuizListPage';
 import QuizEntryPage from './pages/QuizEntryPage';
 import QuizActivePage from './pages/QuizActivePage';
 import QuizResultPage from './pages/QuizResultPage';
+import AdminStatsPage from './pages/AdminStatsPage';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
@@ -44,6 +45,7 @@ function App() {
           <Route path="/quiz/entry" element={<QuizEntryPage />} />
           <Route path="/quiz/active" element={<QuizActivePage />} />
           <Route path="/quiz/result" element={<QuizResultPage />} />
+          <Route path="/admin-stats" element={<AdminStatsPage />} />
         </Routes>
       </div>
 
