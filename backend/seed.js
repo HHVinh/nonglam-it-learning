@@ -320,7 +320,7 @@ const sampleVideos = [
   },
   {
     "title": "Buổi 8 - Sửa Đề Excel ÔN THI 2",
-    "youtubeId": "X91V6813S0k",
+    "youtubeId": "-iX-gky3r10",
     "courseType": "A",
     "order": 38
   },
@@ -410,7 +410,7 @@ const sampleVideos = [
   },
   {
     "title": "Tin B - Buổi 2 - Sửa BTVN Công Thức Mảng và Data Table",
-    "youtubeId": "l8_UBavGHsU",
+    "youtubeId": "drVWlUsmBIY",
     "courseType": "B",
     "order": 9
   },
@@ -494,7 +494,7 @@ const sampleVideos = [
   },
   {
     "title": "Tin B - Buổi 5 - Sửa Bài Ôn Tập 2",
-    "youtubeId": "urE0n2t7BNA",
+    "youtubeId": "GNeo9IMXPS8",
     "courseType": "B",
     "order": 23
   },
@@ -560,7 +560,7 @@ const sampleVideos = [
   },
   {
     "title": "Tin B - Buổi 7 - Sửa Đề Ôn Thi 7",
-    "youtubeId": "SalHr02uGHg",
+    "youtubeId": "EhtFrayt2wU",
     "courseType": "B",
     "order": 34
   },
@@ -680,7 +680,7 @@ const sampleVideos = [
   },
   {
     "title": "Tin B - Buổi 10 - Sửa Đề Thi Thử 4",
-    "youtubeId": "CAnu9IhQSB8",
+    "youtubeId": "lEPrHEI0f20",
     "courseType": "B",
     "order": 54
   },
